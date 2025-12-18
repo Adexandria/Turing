@@ -1,0 +1,1202 @@
+index,labels,comment_length,word_count,comment_clean
+5,[0 0 1 0 0 0 0],18,2,accept everything
+8,[0 0 1 0 0 0 0],15,2,accept nothing
+12,[0 0 1 0 0 0 0],29,5,equal code match field
+19,[0 0 1 0 0 0 0],29,3,environment application
+23,[1 0 0 0 0 0 0],17,2,balancing policy
+26,[1 0 0 0 0 0 0],55,8,base class routerrmadminservice test case
+27,[1 0 0 0 0 0 0],74,11,grouping scheduling request sent placementalgorithm
+29,[0 0 1 0 0 0 0],50,8,placement algorithm tends give optimal
+30,[0 0 1 0 0 0 0],49,7,placement request batched together
+31,[0 0 0 1 0 0 0],73,10,placementalgorithmoutput attempt number time request
+51,[0 0 0 0 0 0 1],39,7,make resilient frequency
+89,[0 0 1 0 0 0 0],49,8,specifically either openssl jsse used
+100,[0 0 0 1 0 0 0],52,8,factory several different mode operation
+104,[0 0 0 1 0 0 0],41,7,wildfly openssl integration
+108,[0 0 0 1 0 0 0],50,10,disables gcm cipher running java
+153,[0 0 0 0 0 0 1],34,6,manage active namenode proxy
+155,[0 0 0 0 0 0 1],88,15,failover across number namenodes rather active standby
+157,[0 0 0 0 0 0 1],88,17,lazily get proxy one configured namenodes attempt make request
+159,[0 0 0 0 0 0 1],83,16,succeed either proxy failed created request
+161,[0 0 0 0 0 0 1],53,10,try configuration maximum number
+164,[0 0 0 0 0 0 1],44,7,expect active namenode switch rarely
+166,[0 0 0 0 0 0 1],83,19,mechanism b bad b case care fast
+201,[0 0 1 0 0 0 0],47,8,responsible keep abfs http header
+205,[0 0 0 1 0 0 0],63,11,code hadoop aws module enable integration test use
+207,[1 0 0 0 0 0 0],21,3,executes info object
+209,[1 0 0 0 0 0 0],14,2,contract test
+212,[1 0 0 0 0 0 0],56,10,test select feature basic sql command
+213,[0 0 1 0 0 0 0],71,11,executed destination store declares support feature
+214,[1 0 0 0 0 0 0],71,7,code kerberosdelegationtokenauthenticator code provides support
+229,[0 0 0 0 0 1 0],31,5,support atsv client
+281,[1 0 0 0 0 0 0],34,7,check record match query
+284,[1 0 0 0 0 0 0],24,4,represents queue name
+285,[1 0 0 0 0 0 0],57,10,data generator tool generate much key possible
+286,[0 0 1 0 0 0 0],40,6,wrapper hold ozone keyvalidate entry
+287,[0 0 1 0 0 0 0],42,7,validates write done ozone cluster
+291,[1 0 0 0 0 0 0],47,6,task submitted reencryptionhandler
+297,[1 0 1 0 0 0 0],11,2,limited
+299,[1 0 1 0 0 0 0],11,2,contains
+302,[1 0 0 0 0 0 0],69,12,class representing task one batch encryption command
+308,[1 0 0 0 0 0 0],19,2,registry operation
+312,[0 0 0 0 1 0 0],98,3,see applicationmasterprotocolallocate orgapachehadoopyarnapiprotocolrecordsallocaterequest
+319,[0 0 1 0 1 0 0],20,5,help
+337,[0 0 0 0 1 0 0],26,2,see streamxmlrecordreader
+391,[1 0 0 0 0 0 0],39,4,test aspect datadrivendbinputformat
+396,[1 0 0 0 0 0 0],61,10,test check correctness port usage hdfs component
+401,[1 0 0 0 1 0 0],28,4,test link keyinputstream
+402,[1 0 0 0 0 0 0],33,5,test metric visitor interface
+406,[1 0 0 0 0 0 0],41,4,class test ommultipartkeyinfocodec
+412,[0 0 1 0 0 0 0],68,10,protobuf service definition src test test rpc serviceproto
+414,[1 0 0 0 0 0 0],37,5,test registry security operation
+418,[1 0 0 0 0 0 0],62,7,test various failure scenario savenamespace operation
+424,[0 0 1 0 0 0 0],22,2,previouscheckpoint li
+463,[0 0 0 0 1 0 0],64,11,li b confstoretrieve b used deciding configs return
+510,[0 0 1 1 0 0 0],57,10,accept file filename log success
+514,[0 0 1 1 0 0 0],49,8,class filter log file directory given
+541,[1 0 0 0 0 0 0],90,13,response link chunkfetchrequest chunk exists successfully fetched
+548,[1 0 0 0 0 0 0],43,7,stop two group statistically
+553,[0 0 1 0 0 0 0],10,2,true
+556,[0 0 0 1 0 0 0],94,17,run local machine using directory datadir second batch
+562,[1 0 0 0 0 0 0],61,11,abstraction local key value store storing app data
+564,[0 0 1 0 0 0 0],77,12,two main feature provided implementation interface
+566,[0 0 1 0 0 0 0],19,3,h serialization h
+568,[0 0 1 0 0 0 0],96,14,underlying data store requires serialization data serialized deserialized
+572,[0 0 1 0 0 0 0],97,15,based jackson support jackson annotation controlling serialization
+597,[1 0 0 0 1 0 0],89,12,implementation link shuffledataio plugin system replicates local shuffle
+610,[0 0 0 0 0 0 1],43,8,lot utility method via provider link
+613,[0 0 0 0 0 0 1],49,10,standard way create button in edit del etc
+619,[0 0 1 0 0 0 0],22,5,action null rule
+630,[1 0 0 0 0 0 0],82,13,class provides macro call parameter parsing autoconf editor hover
+631,[0 0 1 0 0 0 0],57,8,modified cdt class cparameterlistvalidator
+634,[1 0 0 0 1 0 0],35,5,test link bindingclassifier
+635,[1 0 0 0 0 0 0],58,11,semantic action called c parser build ast
+672,[0 1 0 0 0 0 0],17,2,author dschaefer
+744,[0 0 0 1 0 0 0],25,5,logic simple
+746,[0 0 0 1 0 0 0],70,13,located dirty makefile fragment
+794,[1 0 0 0 0 0 0],51,9,represents instance alias template
+798,[1 0 0 0 0 0 0],50,6,interface represents linkage specification
+806,[0 0 0 0 0 1 0],9,2,since
+859,[1 0 0 0 0 0 0],46,5,language setting change event implementation
+871,[0 0 0 0 1 0 0],41,6,next event would become intermingled
+873,[0 0 0 0 1 0 0],75,14,code code run respective requestmonitor would
+875,[0 0 0 0 1 0 0],62,11,unsuprising assumption based general idea
+877,[0 0 0 0 1 0 0],16,2,single threaded
+892,[0 0 0 1 0 0 0],41,7,sub class must supply miarg object
+894,[0 0 0 0 0 0 1],74,13,map threadid framescacheinfo cleared based context
+895,[0 0 0 0 0 0 1],35,8,use cache reason
+899,[0 0 0 0 0 0 1],19,4,stack info depth
+921,[0 0 1 0 0 0 0],24,4,thread group addedid
+931,[0 0 1 0 0 0 0],49,8,visitor used filter element delta change
+933,[0 1 0 0 0 0 0],19,3,author marc dumais
+942,[1 0 0 0 0 0 0],74,9,enumeration class scanner configuration affecting command line option
+974,[0 0 0 0 0 1 0],16,4,mean
+979,[0 0 0 0 0 1 0],24,3,test parameterised
+997,[1 0 0 0 0 0 0],45,8,cell modifier used edit trigger value
+1006,[1 0 0 0 0 0 0],74,9,helper class implementation link ihaschildrenupdate update object
+1012,[0 0 0 1 0 0 0],38,7,represents node option tree
+1018,[0 0 0 1 0 0 0],62,11,node representing concrete white space option tree
+1039,[0 0 0 0 0 1 0],10,2,since
+1044,[1 0 0 0 0 0 0],72,11,basic implementation link sortedsetmultimap sorted key set
+1046,[0 0 0 0 0 0 1],89,15,map type non gwt gwt code inherit sortedmap sortedset override
+1069,[1 0 0 0 0 0 0],80,14,dummy superclass support gwt serialization element type link
+1075,[0 0 0 0 1 0 0],110,12,http geecsoswegoedu cgi bin viewcvscgi jsr src test tck jsre atomicdoublearraytestjavarevision
+1084,[0 0 0 0 1 0 0],89,12,href http llimllibgithubcom bloomfilter tutorial tutorial may help understand
+1108,[0 0 1 0 0 0 0],18,2,following feature
+1112,[0 0 1 0 0 0 0],77,13,li time based expiration entry measured since last access last write
+1114,[0 0 1 0 0 0 0],78,10,li value automatically wrapped linkplain weakreference weak linkplain
+1116,[0 0 1 0 0 0 0],55,8,li notification evicted otherwise removed entry
+1223,[0 0 1 0 0 0 0],90,13,p check proper closing behavior ensures ioexceptions closeableclose
+1225,[0 1 0 0 0 0 0],25,3,author michael lancaster
+1228,[1 0 0 0 1 0 0],75,12,specific tester like link listtestsuitebuilder link
+1232,[1 0 0 0 0 0 0],78,13,thrown requirement tester method class conflict
+1237,[1 0 0 0 0 0 0],51,7,skeleton implementation descending multiset
+1242,[0 0 0 1 0 0 0],26,6,p simplest use case
+1271,[0 0 0 1 0 0 0],90,18,since private inner class invoker never pas instance tester
+1275,[0 0 0 1 0 0 0],31,6,builder method
+1277,[0 0 0 1 0 0 0],87,17,param g type generator passed tester generated test suite
+1279,[0 0 0 1 0 0 0],46,6,information required parameterize test
+1281,[1 0 0 0 0 0 0],38,4,test link forwardingblockingdeque
+1283,[1 0 0 0 1 0 0],91,12,gwt implementation link immutableset forward another code set implementation
+1285,[1 0 0 0 0 0 0],33,5,test code forwardingqueue
+1286,[0 1 0 0 0 0 0],25,3,author robert konigsberg
+1289,[0 0 0 0 0 0 1],73,15,grouping suite much faster running one test
+1300,[0 0 0 1 0 0 0],21,3,hpgetport return
+1308,[0 0 0 1 0 0 0],46,9,li db link gethost omits bracket
+1323,[0 0 0 0 0 0 1],21,4,benchmark caller
+1342,[0 0 0 1 0 0 0],59,4,multimapbuilderhashkeys enumsetvalues myenumclass build
+1346,[0 0 0 1 0 0 0],93,16,receiving instance must store use new builder instance return instead
+1348,[0 0 0 1 0 0 0],53,8,stated otherwise one configuration method
+1358,[0 0 0 1 0 0 0],83,11,implementation specified value collection implementation
+1364,[0 0 0 1 0 0 0],86,10,specialization link multimapbuilder generates link listmultimap instance
+1380,[0 0 0 0 0 0 1],46,7,comparing using traditional code hashmap
+1383,[0 0 0 1 0 0 0],90,15,p absence element deletion iterate element insertion order
+1392,[0 0 0 1 0 0 0],94,15,p precondition met code precondition method throw unchecked exception
+1393,[0 0 1 0 0 0 0],94,16,specified type help method exception thrown communicate
+1399,[0 0 1 1 0 0 0],10,3,value
+1403,[0 0 0 1 0 0 0],38,8,p replaced compact
+1411,[0 0 0 1 0 0 0],59,12,p hypothetical bad caller method
+1413,[0 0 0 1 0 0 0],21,2,void examplebadcaller
+1418,[0 0 0 1 0 0 0],17,3,h performance h
+1420,[0 0 0 1 0 0 0],47,9,even though usually needed
+1424,[0 0 0 1 0 0 0],9,1,creation
+1429,[0 0 0 1 0 0 0],91,15,p performance concern consider profiling code production
+1438,[0 0 0 1 0 0 0],38,10,caller fault
+1440,[0 0 0 1 0 0 0],61,11,misleading future reader code stack trace
+1454,[0 0 0 1 0 0 0],31,5,instead use whichever link
+1456,[0 0 0 1 0 0 0],50,8,go message accepting overload
+1478,[0 0 0 1 0 0 0],69,11,p method parameter must non null unless documented otherwise
+1480,[0 1 0 0 0 0 0],14,3,author ben yu
+1481,[0 1 0 0 0 0 0],20,3,author colin decker
+1483,[0 0 1 0 0 0 0],64,12,byte source read url using link urlopenstream
+1766,[0 0 0 0 0 0 1],87,18,term time sense ratelimiter qps time specified
+1770,[0 0 0 0 1 0 0],33,3,code sortedsettestsuitebuilder
+1773,[1 0 0 0 0 0 0],28,5,test link subscriber
+1782,[0 0 0 1 0 0 0],71,14,p note task wrapping may occur even task never executed
+1787,[0 0 0 1 0 0 0],50,9,method mirror found link binder
+1791,[0 0 0 1 0 0 0],24,3,protected void configure
+1793,[0 0 0 1 0 0 0],35,2,bind creditcardpaymentserviceclass
+1798,[1 0 0 0 0 0 0],89,14,collect configuration information primarily binding used create
+1800,[1 0 0 1 0 0 0],77,12,guice provides object application link module implementors
+1805,[0 0 0 1 0 0 0],12,3,javadocs b
+1807,[0 0 0 1 0 0 0],20,4,save space
+1811,[0 0 0 1 0 0 0],41,7,change guice default behavior
+1813,[0 0 0 1 0 0 0],5,1,also
+1821,[0 0 0 1 0 0 0],85,13,serviceimpl reach point start looking annotation
+1823,[0 0 0 1 0 0 0],88,13,example code serviceprovider must extend implement code provider service
+1825,[0 0 0 1 0 0 0],94,13,binding specifies guice resolve unannotated injection request code service
+1827,[0 0 0 1 0 0 0],89,13,providerget get resulting provider instance obtain code service instance
+1829,[0 0 0 1 0 0 0],45,8,always creates instance provides
+1830,[0 0 0 1 0 0 0],7,1,follow
+1835,[0 0 0 1 0 0 0],70,13,module also includes binding particular value
+1927,[1 0 0 0 0 0 0],97,14,central routing dispatch class handle lifecycle managed filter delegate servlet
+1934,[0 1 0 0 0 0 0],35,4,author samebgooglecom sam berlin
+1936,[0 0 1 0 0 0 0],26,5,result binding
+1984,[0 0 0 1 0 0 0],9,2,item type
+2012,[0 0 0 1 0 0 0],5,1,usage
+2046,[1 0 0 0 0 0 0],12,1,annotation
+2095,[1 0 0 0 0 0 0],75,11,implemented extension hardcoded support specific connector type
+2110,[0 0 0 1 0 0 0],28,7,type row grid
+2114,[0 0 0 0 1 0 0],44,3,see designcontextshouldwritedata component
+2123,[0 0 0 0 0 1 0],68,8,deprecated replaced link dropeventgettransferdata string
+2132,[0 0 1 0 0 0 0],64,11,base class portlet request need access http servlet
+2144,[1 0 0 0 0 0 0],55,6,listener link vaadinservice initialization event
+2146,[1 0 0 0 0 0 0],47,7,add listener request handler service
+2164,[1 0 0 0 0 0 0],11,1,scrollpanel
+2272,[0 0 1 0 0 0 0],31,3,access touchcontextprovider
+2444,[0 0 1 0 0 0 0],75,13,vaadin version prior window also used application level
+2445,[0 0 1 0 0 0 0],8,1,window
+2456,[0 0 0 0 1 0 0],30,2,see uiwindoworderupdateevent
+2462,[0 0 1 0 0 0 0],62,10,interface used listening window order change event
+2471,[0 0 1 0 0 0 0],23,4,user close window
+2483,[0 0 1 0 0 0 0],66,10,interface used listening window maximize restore event
+2485,[0 0 1 0 0 0 0],44,6,windowmodechangelistener window
+2495,[0 0 1 0 0 0 0],29,5,frequency may vary across
+2496,[0 0 1 0 0 0 0],9,1,browser
+2506,[0 0 1 0 0 0 0],32,5,shortcut close window
+2511,[0 0 1 0 0 0 0],64,6,getui addaction new windowcloseshortcut window keycodeescape
+2514,[1 0 0 0 0 0 0],74,10,xhrconnectionerror provides detail error occurred
+2515,[1 0 0 0 0 0 0],26,5,xhr request server
+2518,[1 0 0 0 0 0 0],115,17,preference block encapsulates control used displayingediting cdt file type association
+2519,[1 0 0 0 0 0 0],48,8,create table viewer file association
+2520,[1 0 0 0 0 0 0],25,5,create button pane
+2521,[1 0 0 0 0 0 0],13,3,new button
+2522,[1 0 0 0 0 0 0],16,3,remove button
+2524,[1 0 0 0 0 0 0],31,7,assoc marked added
+2525,[1 0 0 0 0 0 0],45,9,assoc exists marked removed
+2526,[1 0 0 0 0 0 0],27,4,analyze current setting
+2528,[1 0 0 0 0 0 0],16,4,skip
+2529,[1 0 0 0 0 0 0],153,27,class help checking file system permission state class need synchronized data structure readonly
+2531,[1 0 0 0 0 0 0],74,10,helper method gaurded link fsnamesystemreadlock
+2532,[0 0 0 0 1 0 0],28,2,link accesscontrolexception
+2534,[1 0 0 0 0 0 0],158,28,verify caller required permission result exception caller allowed access resource
+2535,[1 0 0 0 0 0 0],96,15,check whether current user permission access path traverse always checked
+2537,[0 0 0 1 0 0 0],29,5,return string throwing
+2538,[0 0 0 1 0 0 0],29,5,return string throwing
+2539,[0 0 0 1 0 0 0],61,11,param docheckowner require user owner path
+2540,[0 0 0 1 0 0 0],15,1,checkpermission
+2541,[0 0 0 1 0 0 0],70,11,param ancestoraccess access required ancestor path
+2542,[0 0 0 1 0 0 0],66,11,param parentaccess access required parent path
+2544,[0 0 0 1 0 0 0],165,31,param subaccess path directory access required path subdirectory path directory effect
+2545,[0 0 0 1 0 0 0],69,8,param ignoreemptydir ignore permission checking empty directory
+2546,[0 0 0 1 0 0 0],30,2,throw accesscontrolexception
+2547,[0 0 0 0 1 0 0],29,2,link fsnamesystemreadlock
+2548,[1 0 0 0 0 0 0],250,44,parent path mean parent directory path ancestor path mean last closest existing ancestor directory path note parent path exists parent path ancestor path
+2549,[0 0 1 0 0 0 0],130,23,check parentaccess null file exists check sb resolvelink check performed link target
+2551,[1 0 0 0 0 0 0],49,6,guarded link fsnamesystemreadlock
+2552,[1 0 0 0 0 0 0],49,6,guarded link fsnamesystemreadlock
+2553,[1 0 0 0 0 0 0],49,6,guarded link fsnamesystemreadlock
+2554,[1 0 0 0 0 0 0],49,6,guarded link fsnamesystemreadlock
+2556,[0 0 0 0 1 0 0],29,2,link fsnamesystemreadlock
+2558,[0 0 0 0 1 0 0],29,2,link fsnamesystemreadlock
+2560,[0 0 0 0 1 0 0],16,2,link aclstorage
+2561,[0 0 0 0 1 0 0],16,2,link aclfeature
+2562,[0 0 0 0 1 0 0],23,2,link acltransformation
+2563,[0 0 0 1 0 0 0],43,5,param inode inodeattributes accessed inode
+2564,[0 0 0 1 0 0 0],33,5,param snapshotid int snapshot id
+2565,[0 0 0 1 0 0 0],43,5,param access fsaction requested permission
+2568,[0 0 0 1 0 0 0],59,7,throw accesscontrolexception acl denies permission
+2569,[1 0 0 0 0 0 0],441,69,check requested access access control list method relies finding acl data relevant portion link fspermission link aclfeature implemented logic link aclstorage method also relies receiving acl entry sorted order assumed true acl modification method link acltransformation sort resulting entry
+2570,[0 0 1 0 0 0 0],413,79,specifically method depends invariant acl list must sorted entry list must unique scope type name exactly one unnamed usergroupother entry mask entry must name entry must name default entry may present ignored enforcement
+2572,[0 0 0 0 0 0 1],12,2,user class
+2573,[0 0 0 0 0 0 1],13,2,group class
+2574,[0 0 0 0 0 0 1],13,2,class
+2575,[1 0 0 0 0 0 0],57,11,use owner entry permission bit user owner
+2576,[1 0 0 0 0 0 0],76,15,check named user group entry user denied owner entry
+2578,[0 0 1 0 0 0 0],310,52,use group entry unnamed named mask permission bit applied user member entry grant access user member multiple group entry grant access doesnt matter chosen exit early first match
+2579,[1 0 0 0 0 0 0],62,13,use entry user denied earlier match
+2582,[1 0 0 0 0 0 0],46,9,user directory owner return
+2584,[1 0 0 0 0 0 0],59,11,whether cache pool accessed current context
+2585,[0 0 0 1 0 0 0],36,5,param pool cachepool accessed
+2587,[0 0 0 1 0 0 0],57,7,throw accesscontrolexception pool cannot accessed
+2588,[1 0 0 0 0 0 0],42,4,guarded link fsnamesystemreadlock
+2589,[0 0 0 0 0 0 1],42,8,caller method must hold lock
+2590,[1 0 0 0 0 0 0],87,14,group launch delegate launch configuration user selected mode
+2595,[0 0 0 1 0 0 0],16,2,param sublaunch
+2597,[0 0 0 0 1 0 0],49,2,see orgeclipsedebugcorelaunchisterminated
+2598,[1 0 0 0 0 0 0],154,19,override default behavior querying sublaunches see terminated see orgeclipsedebugcorelaunchisterminated
+2601,[0 0 0 0 1 0 0],46,2,see orgeclipsedebugcorelaunchterminate
+2602,[0 0 0 0 1 0 0],80,2,see orgeclipsedebugcorelaunchlaunchchangedorgeclipsedebugcoreilaunch
+2604,[0 0 0 0 1 0 0],99,2,see orgeclipsedebugcoreilauncheslistenerlaunchesterminatedorgeclipsedebugcoreilaunch
+2605,[0 0 0 0 1 0 0],93,2,see orgeclipsedebugcoreilauncheslistenerlaunchesaddedorgeclipsedebugcoreilaunch
+2607,[0 0 0 0 1 0 0],95,2,see orgeclipsedebugcoreilauncheslistenerlaunchesremovedorgeclipsedebugcoreilaunch
+2608,[0 0 0 0 1 0 0],134,3,see orgeclipsedebugcoremodellaunchconfigurationdelegategetlaunchorgeclipsedebugcoreilaunchconfiguration javalangstring
+2609,[0 0 0 0 1 0 0],207,5,see orgeclipsedebugcoremodelilaunchconfigurationdelegatelaunchorgeclipsedebugcoreilaunchconfiguration javalangstring orgeclipsedebugcoreilaunch orgeclipsecoreruntimeiprogressmonitor
+2611,[1 0 0 0 0 0 0],124,13,override default behavior terminating sublaunches see orgeclipsedebugcorelaunchterminate
+2612,[1 0 0 0 0 0 0],62,9,handle terminated sublaunch param launch
+2614,[0 0 1 0 0 0 0],141,23,remove sub launch keeping process terminated launch show association keep console content accessible
+2615,[1 0 0 0 0 0 0],53,10,terminate last sub launch
+2617,[1 0 0 0 0 0 0],108,6,nonjavadoc see orgeclipsedebugcorelaunchlaunchremovedorgeclipsedebugcoreilaunch
+2619,[1 0 0 0 0 0 0],121,6,nonjavadoc see orgeclipsedebugcoreilauncheslistenerlaunchesaddedorgeclipsedebugcoreilaunch
+2620,[1 0 0 0 0 0 0],123,6,nonjavadoc see orgeclipsedebugcoreilauncheslistenerlauncheschangedorgeclipsedebugcoreilaunch
+2621,[1 0 0 0 0 0 0],123,6,nonjavadoc see orgeclipsedebugcoreilauncheslistenerlaunchesremovedorgeclipsedebugcoreilaunch
+2623,[1 0 0 0 0 0 0],233,9,nonjavadoc see orgeclipsedebugcoremodelilaunchconfigurationdelegatelaunchorgeclipsedebugcoreilaunchconfiguration javalangstring orgeclipsedebugcoreilaunch orgeclipsecoreruntimeiprogressmonitor
+2624,[1 0 0 0 0 0 0],46,8,replace process changed launch
+2625,[1 0 0 0 0 0 0],20,4,add new process
+2626,[1 0 0 0 0 0 0],55,8,avoid notification process changed
+2627,[1 0 0 0 0 0 0],23,4,remove old process
+2628,[1 0 0 0 0 0 0],23,3,addremove process
+2629,[1 0 0 0 0 0 0],69,12,remove process got sublaunches launch
+2630,[0 0 0 0 0 0 1],147,24,temporarily turn remove terminated launch new one created preference work well multilaunch
+2631,[1 0 0 0 0 0 0],34,7,find launch found skip
+2634,[0 0 0 0 0 0 1],184,35,added launch list already received real launchchanged event know part list fake another event
+2635,[0 0 0 0 0 0 1],193,32,need override history make multilaunch appear last dont last launch would child launch correct repeating experience
+2636,[0 0 0 0 0 0 1],24,4,param millisecond
+2637,[0 0 0 0 1 0 0],157,3,see orgeclipsedebugcoremodellaunchconfigurationdelegatebuildprojectsorgeclipsecoreresourcesiproject orgeclipsecoreruntimeiprogressmonitor
+2638,[0 0 0 0 1 0 0],182,4,see orgeclipsedebugcoremodellaunchconfigurationdelegatebuildforlaunchorgeclipsedebugcoreilaunchconfiguration javalangstring orgeclipsecoreruntimeiprogressmonitor
+2640,[1 0 0 0 0 0 0],208,8,nonjavadoc see orgeclipsedebugcoremodellaunchconfigurationdelegatebuildforlaunchorgeclipsedebugcoreilaunchconfiguration javalangstring orgeclipsecoreruntimeiprogressmonitor
+2641,[0 0 0 0 0 0 1],25,6,build one
+2642,[0 0 0 1 0 0 0],37,4,param config configuration reference
+2643,[0 0 0 1 0 0 0],115,15,return codetruecode valid reference codefalsecode launch configuration filtered
+2647,[0 0 0 0 1 0 0],23,2,link simpleweektoolbar
+2648,[1 0 0 0 0 0 0],69,13,label link simpleweektoolbar since
+2649,[1 0 0 0 0 0 0],38,5,define label specific configuration
+2650,[1 0 0 0 0 0 0],26,4,define toplevel queue
+2652,[0 0 1 0 0 0 0],179,11,class provides common implementation cpptemplatenontypeparameterspecialization cpptemplatetypeparameterspecialization cpptemplatetemplateparameterspecialization
+2654,[0 1 0 0 0 0 0],16,2,author dsteffle
+2656,[0 0 0 0 0 0 1],59,11,give updater thread time update resource
+2657,[1 0 0 0 0 0 0],50,9,item properly removed updater thread
+2658,[1 0 0 0 0 0 0],54,10,start new job repeatedly update file
+2660,[1 0 0 0 0 0 0],50,9,item properly removed updater thread
+2662,[1 0 0 0 0 0 0],134,18,template template parameter code v code codetemplatelttemplatelttypename tgt class vgt class ctcode
+2665,[1 0 0 0 0 0 0],95,13,relation template template parameter nested template parameter
+2666,[1 0 0 0 0 0 0],71,11,relation template template parameter name
+2667,[1 0 0 0 0 0 0],80,12,relation template template parameter default value
+2668,[1 0 0 0 0 0 0],48,8,get nested template parameter
+2669,[1 0 0 0 0 0 0],129,24,get optional name template template parameter case name empty name returned
+2670,[1 0 0 0 0 0 0],84,12,get default value template template parameter codenullcode
+2672,[1 0 0 0 0 0 0],67,11,set default value template template parameter
+2677,[0 0 0 1 0 0 0],10,2,since
+2678,[1 0 0 0 0 0 0],23,5,since
+2679,[1 0 0 0 0 0 0],23,5,since
+2680,[1 0 0 0 0 0 0],60,11,add nested template parameter since
+2681,[1 0 0 0 0 0 0],93,16,set whether template template parameter parameter pack since
+2682,[1 0 0 0 0 0 0],120,18,return scope contains template parameter templatetemplate parameter since
+2683,[0 1 0 0 0 0 0],112,16,contributor john camelon ibm initial api implementation markus schorn wind river system
+2684,[0 0 0 0 1 0 0],53,2,link addtemplateparametericppasttemplateparameter
+2685,[0 0 0 0 0 1 0],72,4,deprecated use link addtemplateparametericppasttemplateparameter
+2687,[1 0 0 0 0 0 0],50,11,gdb tdump cli command since
+2689,[1 0 0 0 0 0 0],37,7,param ctx trace context
+2690,[0 1 0 0 0 0 0],54,6,contributor ericsson initial implementation
+2691,[0 0 0 0 0 0 1],253,47,overload qobjectconnect qt distinguished examining type forth parameter connect const char connect qmetamethod connect qtconnectiontype
+2692,[0 0 0 0 0 0 1],45,6,qmetamethod cannot statically analyzed
+2693,[0 0 0 0 0 0 1],389,66,overload qobjectdisconnect qt distinguished examining type second parameter number parameter used disambiguate one conflict disconnect const char params disconnect qmetamethod disconnect const qobject disconnect const char params
+2694,[1 0 0 0 0 0 0],73,12,otherwise find signal member parameter based overload
+2696,[1 0 0 0 0 0 0],45,6,qmetamethod cannot statically analyzed
+2697,[1 0 0 0 0 0 0],371,51,extract required information functioncallexpressions call qobjectconnect implementation handle overload qobjectconnect except qmetamethod related one qmetamethods cannot statically analyzed ignored p binding found identifying overload looking appropriate parameter
+2701,[0 0 1 0 0 0 0],102,14,value codecode mean known value codecode mean known
+2702,[0 0 1 0 0 0 0],120,17,value codecode mean known value codecode mean known since
+2703,[0 0 1 0 0 0 0],102,14,value codecode mean known value codecode mean known
+2704,[0 0 1 0 0 0 0],102,14,value codecode mean known value codecode mean known
+2705,[0 0 0 0 0 0 1],72,13,nonstop mode thread running state change reason
+2707,[1 0 0 0 0 0 0],205,18,blockidcommand instruction datanode regarding block control
+2709,[0 0 0 0 1 0 0],17,2,link inputstream
+2710,[0 1 0 0 0 0 0],23,3,author chris nokleberg
+2712,[0 0 0 1 0 0 0],40,8,param input stream wrapped
+2714,[1 0 0 0 0 0 0],128,23,wrap another input stream counting number byte read param input stream wrapped
+2715,[1 0 0 0 0 0 0],40,8,return number byte read
+2717,[0 1 0 0 0 0 0],149,20,contributor bryan wilkinson qnx initial api implementation markus schorn wind river system sergey prigogin google
+2719,[0 0 1 0 0 0 0],65,9,need volatile pdomcppunknownscope protects field
+2720,[1 0 0 0 0 0 0],109,17,test verify datanode uuid correctly initialized fsdataset initialization
+2721,[0 0 1 0 0 0 0],105,15,constructor actual verification ensuring datanodeuuid initialized
+2724,[0 0 0 0 1 0 0],24,2,link componentconnector
+2726,[0 0 0 1 0 0 0],82,8,param classtype link componentconnector class instantiate
+2731,[0 0 0 1 0 0 0],60,6,param classtype component connector class
+2733,[1 0 0 0 0 0 0],217,31,create new instance connector based type param classtype link componentconnector class instantiate return new instance connector
+2734,[1 0 0 0 0 0 0],278,40,return connector class use fully qualified server side component class name param fullyqualifiedname fully qualified name server side component class return component connector class use
+2736,[1 0 0 0 0 0 0],259,38,make sure code deferred lazy component connector type loaded triggering load waiting completion necessary param classtype component connector class
+2737,[0 0 0 0 0 0 1],132,19,concrete implementation class generated widgetmapgenerator one subclass widgetset compilation
+2739,[1 0 0 0 0 0 0],78,14,pull one journalandstream object edit log
+2740,[0 0 1 0 0 0 0],104,16,ignore exitexceptions test may result namenode immediate shutdown
+2741,[1 0 0 0 0 0 0],32,5,invalidate one edits journal
+2742,[1 0 0 0 0 0 0],54,9,nn terminated exitexception thrown
+2743,[1 0 0 0 0 0 0],68,13,single journal failure result call terminate
+2746,[1 0 0 0 0 0 0],34,5,invalidate edits journal
+2747,[1 0 0 0 0 0 0],54,9,nn terminated exitexception thrown
+2748,[1 0 0 0 0 0 0],32,5,invalidate one edits journal
+2750,[1 0 0 0 0 0 0],68,13,single journal failure result call terminate
+2752,[1 0 0 0 0 0 0],46,7,invalidated one required edits journal
+2754,[0 0 1 0 0 0 0],240,33,since required directory failed setreadytoflush directory listed prior nonrequired directory call setreadytoflush nonrequired directory regression test hdfs
+2756,[1 0 0 0 0 0 0],66,12,keep running unless less edits dirs remaining
+2757,[1 0 0 0 0 0 0],23,4,journal active
+2758,[1 0 0 0 0 0 0],44,7,invalidate redundant journal
+2759,[1 0 0 0 0 0 0],44,7,invalidate redundant journal
+2761,[1 0 0 0 0 0 0],54,9,nn terminated exitexception thrown
+2763,[1 0 0 0 0 0 0],54,9,nn terminated exitexception thrown
+2764,[1 0 0 0 0 0 0],96,15,replace journal index codeindexcode one throw exception flush
+2765,[0 0 0 1 0 0 0],54,10,param index index journal take offline
+2766,[0 0 0 1 0 0 0],69,7,return original codeeditlogoutputstreamcode journal
+2768,[1 0 0 0 0 0 0],141,23,mutative metadata operation file system return true operation successful false otherwise
+2769,[1 0 0 0 0 0 0],252,38,replace journal index codeindexcode one throw exception flush param index index journal take offline return original codeeditlogoutputstreamcode journal
+2771,[1 0 0 0 0 0 0],31,6,label error message
+2772,[1 0 0 0 0 0 0],14,3,default
+2773,[1 0 0 0 0 0 0],36,3,systemconnectionpropertypage id
+2775,[0 0 0 0 1 0 0],57,2,see orgeclipsedebuguiilaunchconfigurationtabisvalid
+2776,[0 0 0 0 1 0 0],62,2,see orgeclipsedebuguiilaunchconfigurationtabperformapply
+2777,[0 0 0 0 1 0 0],60,2,see orgeclipsedebuguiilaunchconfigurationtabinitialize
+2778,[1 0 0 0 0 0 0],50,9,rse connection dropdown new button
+2781,[1 0 0 0 0 0 0],73,13,local binary path change modify remote binary location
+2782,[0 0 0 0 0 0 1],145,10,needed according httpsbugseclipseorgbugsshowbugcgiid launchuipluginsetdialogshellparentgetshell
+2784,[1 0 0 0 0 0 0],105,16,createtargetexepath creates remote path usereditable textfield main tab
+2785,[1 0 0 0 0 0 0],35,6,command run execution
+2786,[1 0 0 0 0 0 0],77,11,createdownloadoption creates skip download check button
+2788,[1 0 0 0 0 0 0],76,5,see orgeclipsedebuguiilaunchconfigurationtabinitializefrom
+2789,[1 0 0 0 0 0 0],96,17,select last used connection connecion pulldown still exists
+2791,[0 0 1 0 0 0 0],22,3,already initialized
+2792,[1 0 0 0 0 0 0],132,21,setlocalpathforremotepath function set remote path text field value local executable path
+2793,[0 0 0 0 0 0 1],157,29,initialization dont want use default value connection want use one part configuration
+2795,[1 0 0 0 0 0 0],45,7,use remotewsroot instead workspace root
+2805,[0 0 0 1 0 0 0],54,4,param size codeiastexpressioncode
+2806,[0 0 0 1 0 0 0],34,7,return size bit field null
+2808,[1 0 0 0 0 0 0],131,26,return number bit bit field otherwise code null return size bit field null
+2810,[1 0 0 0 0 0 0],23,5,since
+2814,[1 0 0 0 0 0 0],226,36,extension imemoryblockretrievalextension interface support memory space memory space interface provisional thus class cannot yet api author alain lee john cortell
+2816,[1 0 0 0 0 0 0],171,29,caller link getmemoryspaces provides one method may need consult debugger backend thus need asynchronous
+2819,[0 0 0 1 0 0 0],78,10,param memoryspaceid string represents memory space
+2820,[0 0 0 1 0 0 0],120,18,return encoded string representation address null indicate custom encoding required
+2821,[0 0 0 0 1 0 0],36,3,link encodeaddressstring string
+2823,[0 0 0 1 0 0 0],73,12,return result decoding string component never null
+2824,[0 0 0 1 0 0 0],45,6,param context debug context
+2825,[0 0 0 1 0 0 0],66,8,param request asynchronous data request object
+2827,[0 0 0 1 0 0 0],73,10,param expression expression evaluated address
+2828,[0 0 0 1 0 0 0],45,6,param context debug context
+2829,[0 0 0 1 0 0 0],117,17,param memoryspaceid memory space block requested null na
+2830,[0 0 0 1 0 0 0],52,9,return memory block based given parameter
+2832,[1 0 0 0 0 0 0],294,44,inverse link encodeaddressstring string param str encoded string return result decoding string component never null throw coreexception decoding string expected format
+2834,[1 0 0 0 0 0 0],447,67,retrieves return memory block param expression expression evaluated address param context debug context param memoryspaceid memory space block requested null na return memory block based given parameter throw debugexception unable retrieve specified memory
+2835,[1 0 0 0 0 0 0],303,57,return true creating memory block null memory space id supported debugger may ability infer memory space expression case user forced select memory space prompted memory location
+2836,[0 1 0 0 0 0 0],90,12,contributor john camelon ibm rational software initial api implementation
+2837,[1 0 0 0 0 0 0],85,13,interface represents postfix array subscript expression x yzt
+2842,[0 0 0 1 0 0 0],17,2,param expression
+2843,[0 0 0 1 0 0 0],62,6,return codeiastexpressioncode represents array
+2844,[1 0 0 0 0 0 0],23,5,since
+2846,[1 0 0 0 0 0 0],111,14,allowed frozen ast deprecated replaced link setargumentiastinitializerclause
+2847,[1 0 0 0 0 0 0],158,19,return subscript expression codenullcode consider using link getargument deprecated replaced link getargument
+2848,[1 0 0 0 0 0 0],54,11,allowed frozen ast since
+2849,[1 0 0 0 0 0 0],120,22,return operand expression c operand braced initializer list since
+2850,[1 0 0 0 0 0 0],139,19,set expression represents array param expression codeiastexpressioncode set
+2851,[1 0 0 0 0 0 0],129,18,get expression represents array return codeiastexpressioncode represents array
+2852,[1 0 0 0 0 0 0],248,41,interface represents postfix array subscript expression x yzt noextend interface intended extended client noimplement interface intended implemented client
+2855,[0 0 0 0 1 0 0],41,2,link setargumentiastinitializerclause
+2858,[0 0 0 0 0 1 0],46,5,deprecated replaced link getargument
+2859,[0 0 0 0 0 1 0],67,5,deprecated replaced link setargumentiastinitializerclause
+2860,[0 0 0 1 0 0 0],30,5,return property id null
+2861,[0 0 0 1 0 0 0],98,14,param propertyid identifier null property whose value check
+2862,[0 0 0 1 0 0 0],10,2,since
+2863,[1 0 0 0 0 0 0],164,27,simple container filter checking whether item property value null filter also directly support inmemory filtering since
+2864,[1 0 0 0 0 0 0],86,15,constructor filter compare value item property null
+2865,[1 0 0 0 0 0 0],47,10,object class equal
+2866,[1 0 0 0 0 0 0],35,7,check property one one
+2867,[1 0 0 0 0 0 0],96,17,return property id property tested filter null valid filter
+2871,[1 0 0 0 0 0 0],78,12,return gdbmi thread group identifier context
+2873,[0 1 0 0 0 0 0],221,30,contributor ericsson initial api implementation marc khouzam ericsson dont use translatable string command summary since send directly gdb
+2875,[1 0 0 0 0 0 0],30,7,name sub action
+2876,[1 0 0 0 0 0 0],116,23,commaseparated string actual content sub command string sent gdb
+2877,[1 0 0 0 0 0 0],61,10,number step whilestepping command occur
+2878,[1 0 0 0 0 0 0],104,18,take sub action name find corresponding action build content string
+2879,[1 0 0 0 0 0 0],20,4,remove last comma
+2880,[1 0 0 0 0 0 0],35,8,create command sent gdb
+2881,[0 0 0 0 1 0 0],16,2,link bigdecimal
+2883,[0 0 0 0 1 0 0],24,2,link getformatlocale
+2886,[1 0 0 0 0 0 0],169,27,converter convert link string link bigdecimal back us given locale link numberformat instance formatting parsing
+2888,[0 0 0 0 1 0 0],12,2,link string
+2891,[1 0 0 0 0 0 0],42,6,temporary storage pointer modifier
+2892,[1 0 0 0 0 0 0],72,12,store pointer array modifier applied declarator
+2893,[0 0 0 0 0 0 1],49,9,declspec may null use getdeclspec
+2894,[1 0 0 0 0 0 0],26,5,link type together
+2897,[0 0 0 1 0 0 0],42,6,param testdir path root testing directory
+2899,[1 0 0 0 0 0 0],32,6,testing directory file
+2900,[1 0 0 0 0 0 0],23,4,test empty directory
+2901,[1 0 0 0 0 0 0],42,9,test input path directory
+2902,[1 0 0 0 0 0 0],37,9,test input path file
+2904,[1 0 0 0 0 0 0],245,41,set root testing directory reinitializes additional test path root method intended called subclass beforeclass method need override testing directory
+2905,[1 0 0 0 0 0 0],47,9,class test filestatus api
+2906,[0 1 0 0 0 0 0],75,10,contributor ibm rational software initial api implementation
+2908,[1 0 0 0 0 0 0],44,7,method quick pas path reconciler
+2909,[0 0 0 1 0 0 0],529,82,function replace system separator replace multiple separator single one skip skip quote note left untouched purpose order work properly circumstance header file includevector supposed find stl vector header include extvector gcc include tree includegccext vector l includeextvector work either
+2910,[0 0 0 1 0 0 0],37,6,param originalpath path process
+2911,[0 0 0 1 0 0 0],37,4,return reconciled path
+2913,[1 0 0 0 0 0 0],21,4,quote removed
+2916,[1 0 0 0 0 0 0],48,9,separator st string symbol
+2917,[1 0 0 0 0 0 0],19,4,process usual
+2918,[1 0 0 0 0 0 0],48,9,write nothing output skip next symbol
+2919,[1 0 0 0 0 0 0],23,5,check case
+2921,[1 0 0 0 0 0 0],23,4,separator
+2924,[0 0 0 1 0 0 0],33,4,return reconciled path
+2925,[1 0 0 0 0 0 0],33,5,avoid multiple calculation
+2926,[1 0 0 0 0 0 0],32,5,avoid duplicate separator
+2930,[1 0 0 0 0 0 0],306,60,defines viewport tag generator class used generating content viewport tag added html host page ui class p want use viewport value request use simpler link viewport annotation instead
+2931,[0 0 0 1 0 0 0],36,5,return viewport generator class
+2933,[0 0 0 0 1 0 0],14,2,link viewport
+2934,[0 1 0 0 0 0 0],242,29,contributor markus schorn initial api implementation andrew ferguson symbian bryan wilkinson qnx sergey prigogin google jens elmenthaler httpbugseclipseorg camel case completion
+2938,[0 0 0 1 0 0 0],65,11,return code true thread waiting read lock
+2940,[0 0 0 0 1 0 0],37,3,see findincludedbyiindexfile int
+2942,[0 0 0 0 1 0 0],37,3,see findincludedbyiindexfile int
+2943,[0 0 0 0 1 0 0],35,3,see findincludesiindexfile int
+2945,[1 0 0 0 0 0 0],134,17,constant find direct includes see findincludedbyiindexfile int see findincludesiindexfile int
+2946,[1 0 0 0 0 0 0],84,13,constant search declaration include definition
+2947,[1 0 0 0 0 0 0],84,13,constant search definition include declaration
+2948,[1 0 0 0 0 0 0],98,15,constant search reference include declaration definition
+2949,[1 0 0 0 0 0 0],186,30,constant search occurrence across language boundary used find occurrence cfunction declared extern c within clinkage
+2950,[1 0 0 0 0 0 0],75,11,constant search declaration including definition
+2951,[1 0 0 0 0 0 0],125,19,constant search occurrence binding includes declaration definition reference
+2952,[0 0 0 0 1 0 0],26,2,see getlastwriteaccess
+2953,[0 0 0 1 0 0 0],10,2,since
+2955,[0 0 0 1 0 0 0],10,2,since
+2958,[0 0 0 1 0 0 0],41,8,param binding ast index binding
+2959,[0 0 0 1 0 0 0],120,19,param binding binding declaration searched return array name throw coreexception
+2962,[0 0 0 1 0 0 0],70,11,noreference method intended referenced client
+2966,[0 0 0 0 1 0 0],24,2,link finddeclarations
+2967,[0 0 0 0 1 0 0],23,2,link finddefinitions
+2969,[0 0 0 0 1 0 0],22,2,link findreferences
+2987,[0 0 0 0 1 0 0],17,2,link depthzero
+2988,[0 0 0 0 1 0 0],17,2,link depthzero
+2998,[1 0 0 0 0 0 0],78,12,lock obtained link acquirereadlock must released
+2999,[1 0 0 0 0 0 0],171,33,return timestamp index last written used figure whether information read index still reliable
+3000,[0 0 0 1 0 0 0],172,26,param location iindexfilelocation representing location file return file index code null throw coreexception deprecated use
+3001,[0 0 0 1 0 0 0],462,73,param linkageid id linkage file parsed param location iindexfilelocation representing location file param macrodictionary name definition macro used disambiguate variant file content corresponding different inclusion point return file location code null file present index throw coreexception
+3003,[0 0 0 1 0 0 0],251,41,param linkageid id linkage file parsed param location iindexfilelocation representing location file return file location linkage throw coreexception since
+3004,[0 0 0 1 0 0 0],139,19,param location iindexfilelocation representing location file return array fileobjects throw coreexception
+3005,[0 0 0 1 0 0 0],122,18,param file file containing include directive return array include relation throw coreexception
+3006,[0 0 0 1 0 0 0],127,21,param file file included directive found return array include relation throw coreexception
+3007,[0 0 0 1 0 0 0],245,37,param file file containing include directive param depth depth includes followed one link depthzero link depthinfinite return array include relation throw coreexception
+3008,[0 0 0 1 0 0 0],244,38,param file file include directive point param depth depth includes followed one link depthzero link depthinfinite return array include relation throw coreexception
+3010,[0 0 0 1 0 0 0],292,52,param name name matched macro param filter filter allows skipping part index param monitor monitor report progress may code null return array macro matching name throw coreexception since
+3013,[0 0 0 1 0 0 0],362,61,param pattern pattern name binding match param isfullyqualified code true binding must global scope param filter filter allows skipping part index param monitor monitor report progress may code null return array binding matching pattern throw coreexception
+3014,[0 0 0 1 0 0 0],442,72,param pattern array pattern component qualified name binding match param isfullyqualified code true array pattern specifies fully qualified name param filter filter allows skipping part index param monitor monitor report progress may code null return array binding matching pattern throw coreexception
+3015,[0 0 0 1 0 0 0],285,49,param pattern pattern name binding match param filter filter allows skipping part index param monitor monitor report progress may code null return array binding matching pattern throw coreexception
+3017,[0 0 0 1 0 0 0],304,53,param name name matched qualified name binding param filter filter allows skipping part index param monitor monitor report progress may code null return array binding matching pattern throw coreexception
+3018,[0 0 0 1 0 0 0],378,65,param name name matched qualified name binding param filescopeonly true binding file scope returned param filter filter allows skipping part index param monitor monitor report progress may code null return array binding matching pattern throw coreexception
+3019,[0 0 0 1 0 0 0],379,62,param prefix prefix returned binding must start param filescopeonly true binding file scope returned param filter filter allows skipping part index param monitor monitor progress reporting cancellation may code null return array binding prefix throw coreexception
+3020,[0 0 0 1 0 0 0],70,11,noreference method intended referenced client
+3021,[0 0 0 1 0 0 0],280,35,param binding binding name searched param flag combination link finddeclarations link finddefinitions link findreferences link searchacrosslanguageboundaries return array name throw coreexception
+3022,[1 0 0 0 0 0 0],202,36,return code true index fully initialized index may fully initialized eclipse startup soon adding new project workspace since
+3024,[1 0 0 0 0 0 0],159,26,return array file containing unresolved includes noreference method intended referenced client since
+3025,[1 0 0 0 0 0 0],162,29,return array file indexed io error noreference method intended referenced client since
+3026,[1 0 0 0 0 0 0],177,36,return array file part index file parsed two linkage multiple fragment one file returned
+3027,[1 0 0 0 0 0 0],105,21,creates fileset used index long caller hold readlock
+3028,[1 0 0 0 0 0 0],490,84,return link iindexbinding index equivalent specified binding null binding exist index useful adapting binding obtained iindex object might created different scope ibinding object obtained directly ast param binding ast index binding return iindexbinding index equivalent specified binding
+3030,[1 0 0 0 0 0 0],332,48,search declaration definition resolve given binding fully equivalent pre findnamesbinding iindexfinddeclarationsdefinitions pre param binding binding declaration searched return array name throw coreexception
+3031,[1 0 0 0 0 0 0],299,46,search reference resolve given binding fully equivalent pre findnamesbinding iindexfindreferences pre param binding binding reference searched return array name throw coreexception
+3032,[1 0 0 0 0 0 0],459,66,search name resolve given binding search limited reference declaration definition combination param binding binding name searched param flag combination link finddeclarations link finddefinitions link findreferences link searchacrosslanguageboundaries return array name throw coreexception
+3034,[1 0 0 0 0 0 0],262,45,search global scope optionally scope binding given name case binding exists multiple project duplicate binding returned method make use btree faster method using pattern
+3035,[1 0 0 0 0 0 0],340,57,search global scope binding given name case binding exists multiple project duplicate binding returned method make use btree faster method using pattern fully equivalent pre findbindingsname true filter monitor pre
+3036,[1 0 0 0 0 0 0],243,44,search binding global scope given name case binding exists multiple project duplicate binding returned method make use btree faster method using pattern
+3037,[1 0 0 0 0 0 0],201,34,search macro container one macro name name match given pattern case binding exists multiple project duplicate binding returned
+3038,[1 0 0 0 0 0 0],308,53,search binding qualified name seen array simple name match given array pattern case binding exists multiple project duplicate binding returned search array pattern specifies partial qualification
+3039,[1 0 0 0 0 0 0],292,43,search binding simple name match given pattern case binding exists multiple project duplicate binding returned fully equivalent pre findbindingsnew pattern pattern isfullyqualified filter monitor pre
+3040,[1 0 0 0 0 0 0],132,28,search binding name name may originated ast search index may return code null
+3041,[1 0 0 0 0 0 0],70,13,search macro name start given prefix
+3042,[1 0 0 0 0 0 0],45,9,search macro given name
+3044,[1 0 0 0 0 0 0],68,10,look recursively include relation pointing given file
+3045,[1 0 0 0 0 0 0],69,10,look recursively include relation originated given file
+3046,[1 0 0 0 0 0 0],127,19,look include relation pointing given file pre findincludedbyfile depthzero pre
+3047,[1 0 0 0 0 0 0],126,19,look include relation originated given file pre findincludesfile depthzero pre
+3048,[1 0 0 0 0 0 0],63,11,return file object given location linkage
+3049,[1 0 0 0 0 0 0],340,57,return file object given location linkage multiple file returned header file stored index multiple variant different set macro definition method may return file actually managed fragment method return file without content also
+3051,[1 0 0 0 0 0 0],305,56,return file object given location linkage code null file indexed linkage p header file stored index multiple variant different set macro definition method return arbitrary one variant
+3052,[0 0 1 0 0 0 0],548,69,pre long timestamp ibinding binding null indexacquirereadlock try timestamp indexgetlastwriteaccess binding indexfindbinding finally indexreleasereadlock indexacqurereadlock try indexgetlastwriteaccess timestamp dont use binding valid anymore binding indexfindbinding string name bindinggetname finally indexreleasereadlock
+3053,[1 0 0 0 0 0 0],59,10,interface accessing index one project
+3054,[0 0 1 0 0 0 0],78,12,make default constructor private since hold static method
+3055,[1 0 0 0 0 0 0],67,13,set bit specified index code true
+3057,[1 0 0 0 0 0 0],77,15,return code true bit set specified index
+3058,[1 0 0 0 0 0 0],54,11,return code true bit set
+3059,[1 0 0 0 0 0 0],164,32,return index first bit set true occurs specified starting index bit exists code returned
+3060,[0 0 0 1 0 0 0],235,43,iterate true bit bitset use following loop pre code long bsnextsetbit sizeinwords gt bsnextsetbiti sizeinwords operate index
+3062,[0 0 0 1 0 0 0],73,11,param bitsetsizeinwords size bitset measured byte word
+3063,[0 0 0 1 0 0 0],68,16,return index next set bit bit
+3065,[1 0 0 0 0 0 0],49,12,find next set bit rest word
+3070,[0 0 0 1 0 0 0],8,2,code
+3072,[0 0 0 0 1 0 0],10,2,bug
+3073,[0 1 0 0 0 0 0],162,20,contributor intel corporation initial api implementation markus schorn wind river system serge beauchamp freescale semiconductor
+3074,[1 0 0 0 0 0 0],129,19,clocationtab implement common feature source location output location tab project preference
+3075,[0 0 1 0 0 0 0],152,25,add createlink always enabled edit enabled element selected entry filter delete enabled selected element entry
+3076,[1 0 0 0 0 0 0],6,2,add
+3078,[1 0 0 0 0 0 0],14,3,edit filter
+3081,[0 0 0 0 0 0 1],69,12,class hold element source location tree
+3082,[0 0 0 0 1 0 0],32,2,see javalangobjecttostring
+3084,[1 0 0 0 0 0 0],46,8,expand tree select current resource
+3086,[0 0 0 0 1 0 0],16,2,see graphconfig
+3088,[0 0 0 0 0 0 1],38,8,edge never adjacent
+3089,[1 0 0 0 0 0 0],111,15,test link incidencesetdirectedgraph default graph configuration see graphconfig
+3091,[1 0 0 0 0 0 0],38,4,makefilepreferencesmessages
+3093,[0 0 1 0 0 0 0],53,9,localfs set used writetoindexfile
+3094,[0 0 1 0 0 0 0],264,35,format index file logdir dir task log really stored stdoutstartoffset stdout file length stderrstartoffset stderr file length syslogstartoffset syslog file length
+3095,[0 0 1 0 0 0 0],33,6,file doesnt anything
+3096,[0 0 1 0 0 0 0],207,31,special case debugout profileout file guaranteed associated task attempt since jvm reuse disabled profilingdebugging enabled
+3097,[1 0 0 0 0 0 0],49,9,look exact line containing logname
+3099,[0 0 0 0 0 0 1],108,19,ensure atomicity update index file write temporary index file first rename
+3100,[0 0 1 0 0 0 0],275,38,format index file logdir dir task log really stored stdout startoffset stdout file length stderr startoffset stderr file length syslog startoffset syslog file length
+3102,[1 0 0 0 0 0 0],30,6,flush close appenders
+3103,[1 0 0 0 0 0 0],25,4,flush standard stream
+3105,[1 0 0 0 0 0 0],39,7,filter userlogs
+3106,[1 0 0 0 0 0 0],37,9,log stdout task
+3107,[1 0 0 0 0 0 0],37,9,log stderr task
+3109,[1 0 0 0 0 0 0],37,6,java profiler information
+3112,[0 0 0 1 0 0 0],35,8,param kind kind log read
+3114,[0 0 0 1 0 0 0],65,12,param end offset read upto negative relative tail
+3116,[1 0 0 0 0 0 0],26,6,find right log file
+3119,[0 0 0 1 0 0 0],30,7,param conf job look
+3120,[0 0 0 1 0 0 0],51,11,return number byte cap log file
+3121,[0 0 0 1 0 0 0],55,9,param setup setup command execed process
+3122,[0 0 0 1 0 0 0],59,11,param cmd command argument run
+3123,[0 0 0 1 0 0 0],65,10,param stdoutfilename filename stdout saved
+3125,[0 0 0 1 0 0 0],53,10,param taillength length tail saved
+3127,[0 0 0 1 0 0 0],47,8,return modified command run
+3128,[0 0 0 1 0 0 0],55,9,param setup setup command execed process
+3133,[0 0 0 1 0 0 0],36,7,return command line string
+3134,[1 0 0 0 0 0 0],51,9,construct command line running task jvm
+3135,[1 0 0 0 0 0 0],231,43,wrap command shell capture stdout stderr file setup command setting memory limit passed executed exec taillength entire output saved
+3136,[1 0 0 0 0 0 0],46,8,get desired maximum length task log
+3137,[1 0 0 0 0 0 0],97,18,export pid taskjvm env variable jvmpid currently pid used window
+3138,[0 0 0 1 0 0 0],59,11,param cmd command argument run
+3139,[0 0 0 1 0 0 0],65,10,param stdoutfilename filename stdout saved
+3141,[0 0 0 1 0 0 0],53,10,param taillength length tail saved
+3142,[0 0 0 1 0 0 0],36,7,return command line string
+3144,[0 0 0 1 0 0 0],78,12,param isexecutable make shell path first argument executable
+3145,[0 0 0 1 0 0 0],34,5,return return quoted string
+3146,[0 0 0 1 0 0 0],26,4,return base log directory
+3147,[0 0 0 1 0 0 0],12,2,param jobid
+3148,[0 0 0 1 0 0 0],38,7,return user log directory job
+3149,[1 0 0 0 0 0 0],55,9,construct command line running debug script
+3151,[0 0 0 0 0 0 1],99,19,executable name need expressed shell path shell find
+3152,[1 0 0 0 0 0 0],76,15,add quote command string return single string
+3153,[1 0 0 0 0 0 0],52,9,method return location user log directory
+3157,[0 0 0 0 1 0 0],18,2,link outputformat
+3160,[0 0 0 0 1 0 0],22,2,link compressioncodec
+3162,[0 0 0 0 1 0 0],22,2,link compressioncodec
+3166,[0 0 0 0 1 0 0],22,2,link compressioncodec
+3167,[0 0 0 0 1 0 0],10,2,link path
+3170,[0 0 0 0 1 0 0],10,2,link path
+3171,[0 0 0 0 1 0 0],10,2,link path
+3172,[0 0 0 0 1 0 0],10,2,link path
+3173,[0 0 0 0 1 0 0],10,2,link path
+3174,[0 0 0 0 1 0 0],21,2,link outputcommitter
+3175,[0 0 0 0 1 0 0],25,2,link fileoutputcommitter
+3177,[0 0 0 0 1 0 0],33,2,link getworkoutputpathjobconf
+3180,[0 0 0 0 1 0 0],10,2,link path
+3182,[0 0 0 1 0 0 0],51,10,return unique path accross task job
+3185,[0 0 0 1 0 0 0],51,10,return unique name accross task job
+3186,[0 0 0 1 0 0 0],36,7,param name name make unique
+3187,[0 0 0 1 0 0 0],42,7,param conf configuration job
+3188,[0 0 0 1 0 0 0],29,3,param conf jobconfiguration
+3189,[0 0 0 1 0 0 0],42,5,param name temporary taskoutput filename
+3191,[0 0 0 1 0 0 0],95,15,return link path task temporary output directory mapreduce job
+3192,[0 0 0 1 0 0 0],72,12,return link path output directory mapreduce job
+3193,[0 0 0 1 0 0 0],41,7,param conf configuration job
+3194,[0 0 0 1 0 0 0],87,14,param outputdir link path output directory mapreduce job
+3195,[0 0 0 1 0 0 0],41,7,param conf configuration job
+3196,[0 0 0 1 0 0 0],87,14,param outputdir link path output directory mapreduce job
+3197,[0 0 0 1 0 0 0],42,8,param conf link jobconf look
+3199,[0 0 0 1 0 0 0],89,13,return link compressioncodec used compress job output
+3200,[0 0 0 1 0 0 0],41,7,param conf link jobconf modify
+3203,[0 0 0 1 0 0 0],107,12,return codetruecode job output compressed codefalsecode otherwise
+3205,[0 0 0 1 0 0 0],59,10,param compress output job compressed
+3207,[1 0 0 0 0 0 0],48,9,set whether output job compressed
+3210,[1 0 0 0 0 0 0],65,9,get link compressioncodec compressing job output
+3211,[1 0 0 0 0 0 0],64,12,ensure output directory set already
+3213,[1 0 0 0 0 0 0],52,9,get delegation token outdirs file system
+3214,[1 0 0 0 0 0 0],22,4,check existence
+3216,[1 0 0 0 0 0 0],91,15,set link path task temporary output directory mapreduce job
+3218,[1 0 0 0 0 0 0],116,19,helper function create task temporary output directory return path task output file
+3219,[1 0 0 0 0 0 0],119,22,helper function generate link path file unique task within job output directory
+3220,[1 0 0 0 0 0 0],311,55,pthe path used create custom file within map reduce task path name unique task path parent job output directorypls pthis method us link getuniquename method make file name unique taskp
+3221,[1 0 0 0 0 0 0],504,90,helper function generate name unique task pthe generated name used create custom file within different task job name different task collide otherp pthe given name postfixed task type map r reduces task partition number example give name test running first map job generated name testmp
+3229,[1 0 0 0 0 0 0],18,4,register ctor
+3230,[0 0 0 0 0 0 1],154,29,localjobrunnerbased job mapping map task attempt output file null case
+3231,[1 0 0 0 0 0 0],304,55,custom comparator map output file ordering determined file size path case file size different file path first parameter considered smaller second one case file size path considered equal
+3233,[1 0 0 0 0 0 0],206,34,register set mapper output created localjobrunnerbased job reducetask know fetch called normal networked execution
+3234,[1 0 0 0 0 0 0],48,8,check mapoutputs compressed
+3235,[1 0 0 0 0 0 0],61,11,localize given jobconf specific task
+3236,[1 0 0 0 0 0 0],27,6,write number map
+3237,[1 0 0 0 0 0 0],58,11,get input file reducer local job
+3238,[1 0 0 0 0 0 0],18,3,update progress
+3242,[1 0 0 0 0 0 0],27,4,initialize codec
+3243,[1 0 0 0 0 0 0],27,5,free data structure
+3244,[1 0 0 0 0 0 0],21,4,sort complete
+3246,[1 0 0 0 0 0 0],51,9,indicate progress update need sent
+3247,[1 0 0 0 0 0 0],26,4,apply reduce function
+3248,[1 0 0 0 0 0 0],66,9,increment processed counter skipping feature enabled
+3250,[1 0 0 0 0 0 0],52,11,make task context get class
+3251,[1 0 0 0 0 0 0],21,4,make reducer
+3255,[1 0 0 0 0 0 0],87,14,verify dimensional resource ie memory cpu dominant resource type
+3257,[1 0 0 0 0 0 0],32,5,internally used calendar
+3261,[1 0 0 0 0 0 0],105,17,create group node next represent first level shown view
+3263,[1 0 0 0 0 0 0],59,8,current default register formatting
+3264,[1 0 0 0 0 0 0],67,12,inputwriter writes client input raw byte
+3267,[0 0 0 0 0 0 1],235,36,sccsget application shall ensure special target specified without prerequesites command specifeied target shall replace default command associated special target
+3271,[1 0 0 0 0 0 0],49,9,event handling selection space key
+3272,[1 0 0 0 0 0 0],25,5,trying replace grid
+3277,[1 0 0 0 0 0 0],88,16,writes given string log followed line terminator string
+3278,[1 0 0 0 0 0 0],32,7,shuts log
+3281,[0 1 0 0 0 0 0],54,8,contributor ibm initial api implementation
+3282,[1 0 0 0 0 0 0],51,10,log writer utility author vhirsl
+3283,[1 0 0 0 0 0 0],70,13,use singleton get register broadcast variable
+3287,[0 0 0 0 0 0 1],359,57,directory checkpoint exist eg running first time create new streamingcontext print creating new context console otherwise checkpoint data exists checkpoint create streamingcontext checkpoint data refer online documentation detail
+3289,[1 0 0 0 0 0 0],132,24,create socket stream target ipport count word input stream n delimited text eg generated nc
+3292,[1 0 0 0 0 0 0],62,7,get register droppedwordscounter accumulator
+3293,[1 0 0 0 0 0 0],80,12,use blacklist drop word use droppedwordscounter count
+3295,[1 0 0 0 0 0 0],40,9,spark sql udf argument
+3296,[0 0 0 1 0 0 0],202,14,file autogenerated code orgapachesparksqlapijavafunctionregistration
+3297,[0 0 0 0 0 0 1],64,11,numberofids scrolling table
+3298,[1 0 0 0 0 0 0],181,31,class test cachearchive option streaming test case creates archive file ship hadoop streaming compare output expected output
+3299,[1 0 0 0 0 0 0],89,14,identify function input keyvalue pair written directly output
+3300,[0 0 0 1 0 0 0],142,24,example specifies use field key use field value
+3301,[1 0 0 0 0 0 0],586,110,class implement mapperreducer class used perform field selection manner similar unix cut input data treated field separated user specified separator default value user specify list field form map output key list field form map output value inputformat textinputformat mapper ignore key map function field value otherwise field union key value
+3302,[0 0 0 0 0 0 1],80,7,field separator attribute mapreducefieldseldatafieldseparator
+3306,[1 0 0 0 0 0 0],65,8,test method link checkedprovidermethodsmodule
+3307,[0 0 0 0 0 0 1],38,7,rule applied pas
+3308,[1 0 0 0 0 0 0],60,10,implementation core algorithm mergesort
+3309,[1 0 0 0 0 0 0],23,2,reusable intwritables
+3310,[1 0 0 0 0 0 0],41,7,comparator algo use
+3311,[1 0 0 0 0 0 0],36,6,insertion sort smallest array
+3312,[1 0 0 0 0 0 0],43,8,recursively sort half dest src
+3313,[0 0 1 0 0 0 0],144,26,list already sorted copy src dest optimization result faster sort nearly ordered list
+3314,[1 0 0 0 0 0 0],45,9,merge sorted half src dest
+3317,[1 0 0 0 0 0 0],53,8,nonjavadoc method declared iaction
+3318,[1 0 0 0 0 0 0],106,16,executes action given selection default implementation nothing
+3319,[0 0 0 1 0 0 0],34,5,param selection new selection
+3320,[1 0 0 0 0 0 0],205,30,notifies action given selection changed default implementation set action enablement state codefalsecode param selection new selection
+3323,[0 0 0 1 0 0 0],34,5,param selection new selection
+3326,[0 0 0 1 0 0 0],41,6,return site selection provider
+3327,[0 0 0 1 0 0 0],28,5,return site shell
+3328,[0 0 0 1 0 0 0],32,5,return site selection
+3333,[1 0 0 0 0 0 0],159,18,notifies action given text selection changed default implementation call codeselectionchangediselection selectioncode
+3334,[1 0 0 0 0 0 0],163,18,notifies action given structured selection changed default implementation call codeselectionchangediselection selectioncode
+3335,[1 0 0 0 0 0 0],212,30,update action enablement state according given selection default implementation call one codeselectionchangedcode method depending type passed selection
+3336,[1 0 0 0 0 0 0],74,12,return selection provider managed site owning action
+3337,[1 0 0 0 0 0 0],62,11,return shell provided site owning action
+3338,[1 0 0 0 0 0 0],66,11,return selection provided site owning action
+3339,[1 0 0 0 0 0 0],40,7,return site owning action
+3340,[1 0 0 0 0 0 0],122,24,creates new action text image p configure action later using set method p
+3341,[1 0 0 0 0 0 0],163,17,action dispatch codeiactionruncode codeiselectionchangedlistenerselectionchangedcode according type selection
+3342,[0 0 0 0 0 0 1],589,65,ul liif selection type codeitextselectioncode coderunitextselectioncode codeselectionchangeditextselectioncode calledli liif selection type codeistructuredselectioncode coderunistructuredselectioncode code selectionchangedistructuredselectioncode calledli lidefault call coderuniselectioncode code selectionchangediselectioncodeli ul p note class intended subclassed outside cdt ui plugin p
+3343,[1 0 0 0 0 0 0],74,13,test manually requesting datanode send block report
+3344,[0 0 1 0 0 0 0],223,30,set really long value dfsblockreportintervalmsec dfsheartbeatinterval incremental block report heartbeat wont sent test unless theyre triggered manually
+3345,[0 0 0 0 0 0 1],44,8,get incremental block report
+3346,[0 0 0 0 0 0 1],127,21,receive incremental incremental block report since interval configured long
+3347,[1 0 0 0 0 0 0],126,21,create fake block deletion notification datanode sent next incremental block report
+3348,[1 0 0 0 0 0 0],35,6,manually trigger block report
+3349,[1 0 0 0 0 0 0],108,18,triggerblockreport return block report actually sent wait sent
+3357,[0 0 0 1 0 0 0],30,6,param editor c editor
+3361,[0 0 0 1 0 0 0],57,11,param part view part owns action group
+3362,[0 0 0 1 0 0 0],56,11,param site site action group
+3363,[0 0 0 1 0 0 0],98,13,param selectionprovider selection provider used instead page selection provider
+3364,[0 0 0 1 0 0 0],14,3,since
+3369,[1 0 0 0 0 0 0],62,9,editor provides implementation action
+3370,[1 0 0 0 0 0 0],42,7,method declared actiongroup
+3371,[1 0 0 0 0 0 0],42,7,method declared actiongroup
+3374,[0 0 0 0 0 0 1],84,15,note method internal use client call method
+3375,[1 0 0 0 0 0 0],284,37,creates new codegenerateactiongroupcode group requires selection provided part selection provider type codeorgeclipsejfaceviewersistructuredselectioncode param part view part owns action group
+3376,[1 0 0 0 0 0 0],183,25,creates new codegenerateactiongroupcode group requires selection provided given selection provider type link istructuredselection
+3378,[1 0 0 0 0 0 0],334,61,action group add source generate action part context menu installs handler corresponding global menu action p class may instantiated intended subclassed p noextend class intended subclassed client since
+3380,[1 0 0 0 0 0 0],115,18,popup menu id organize group source sub menu value codeorganizegroupcode
+3382,[1 0 0 0 0 0 0],105,18,popup menu id code group source sub menu value codecodegroupcode
+3384,[1 0 0 0 0 0 0],111,18,popup menu id comment group source sub menu value codecommentgroupcode
+3385,[1 0 0 0 0 0 0],105,18,popup menu id edit group source sub menu value codeeditgroupcode
+3386,[1 0 0 0 0 0 0],94,15,note constructor internal use client call constructor
+3387,[1 0 0 0 0 0 0],490,95,header data packet go readwrite pipeline includes information packet excluding checksum actual data data includes offset byte hdfs block data packet sequence number packet pipeline whether last packet pipeline length data packet whether packet synced dns
+3388,[0 0 0 0 0 0 1],191,32,serialized header written protocol buffer preceded byte integer representing full packet length byte short representing header length
+3390,[0 0 1 0 0 0 0],214,31,wireincompatible hadoop alpha due hdfs change length packet header blockreceiver version support variablelength header
+3391,[0 0 0 1 0 0 0],125,20,return number byte necessary write header including lengthprefixing payload header
+3393,[0 0 0 1 0 0 0],135,20,param lastseqno previous sequence number received expect current sequence number larger
+3395,[0 0 0 0 0 0 1],69,13,nonpositive data length last packet
+3396,[0 0 0 0 0 0 1],42,8,last packet contain data
+3397,[0 0 0 0 0 0 1],63,11,seqnos always increase packet received
+3400,[0 1 0 0 0 0 0],361,49,contributor ericsson ab initial implementation alvaro sanchezleon ericsson ab memory support bit addressable size bug alvaro sanchezleon ericsson ab memory make test run different value addressable size bug simon marchi ericsson refactoring remove usage asynccompletionwaitor
+3402,[1 0 0 0 0 0 0],24,5,get whole block
+3403,[1 0 0 0 0 0 0],53,9,get block involves multiple cached block
+3404,[1 0 0 0 0 0 0],84,17,get block require read gap block
+3407,[1 0 0 0 0 0 0],42,9,get third block first
+3409,[1 0 0 0 0 0 0],22,5,get first block
+3411,[1 0 0 0 0 0 0],26,4,setup call parameter
+3412,[1 0 0 0 0 0 0],227,17,memorycacheread get bunch block exercise memory cache
+3413,[1 0 0 0 0 0 0],55,10,run point variable initialized
+3416,[1 0 0 0 0 0 0],75,13,verify asynchronously byte set send many read query
+3417,[1 0 0 0 0 0 0],46,6,expect blocksize memory changed event
+3418,[1 0 0 0 0 0 0],39,8,wait query finish
+3419,[1 0 0 0 0 0 0],25,3,write asynchronously
+3421,[1 0 0 0 0 0 0],27,5,send many read query
+3422,[1 0 0 0 0 0 0],49,8,verify asynchronously byte
+3424,[1 0 0 0 0 0 0],47,10,run point array zeroed
+3426,[1 0 0 0 0 0 0],412,80,memory service test suite meant regression suite executed automatically dsf nightly build also meant augmented proper test case every time feature added event unlikely bug found memory service refer junit documentation explanation annotation
+3428,[1 0 0 0 0 0 0],35,6,enum address type integer
+3429,[0 0 0 0 0 0 1],64,10,integer enums cross platform serialization json
+3430,[0 0 1 0 0 0 0],82,15,hostdomain name port set separate string address list
+3431,[0 0 0 1 0 0 0],67,8,eg pre namenodeexampleorg pre
+3433,[1 0 0 0 0 0 0],28,4,address value
+3434,[0 0 0 1 0 0 0],47,5,pre httpexampleorg pre
+3436,[0 0 0 1 0 0 0],254,33,single element would pre zkregistry pre endpoint multiple element would list pre zkregistry zkregistry pre
+3437,[0 0 1 0 0 0 0],113,19,provide element tuple hostname port optionally path depending application
+3438,[0 0 0 0 0 0 1],189,40,third element entry path must entry client reading address endpoint free pick set must
+3439,[1 0 0 0 0 0 0],22,3,uri entry value
+3440,[1 0 0 0 0 0 0],91,14,path codeabccode style value entire path encoded single entry
+3441,[0 0 0 1 0 0 0],6,1,value
+3442,[0 0 0 1 0 0 0],6,1,value
+3443,[0 0 0 1 0 0 0],6,1,value
+3444,[0 0 0 1 0 0 0],6,1,value
+3445,[0 0 0 1 0 0 0],6,1,value
+3447,[0 0 0 0 0 0 1],71,14,internal use may removed replaced future
+3448,[0 0 0 0 0 0 1],71,14,internal use may removed replaced future
+3454,[1 0 0 0 0 0 0],14,3,styling
+3458,[0 0 0 1 0 0 0],10,2,param po
+3459,[0 0 0 1 0 0 0],119,17,param po position splitter cs string either pixel percentage
+3460,[0 0 0 1 0 0 0],161,19,return minimumposition po less minimumposition maximumposition po greater maximumposition po otherwise
+3461,[0 0 0 1 0 0 0],53,7,param po position converted
+3462,[0 0 0 1 0 0 0],33,4,return converted position string
+3463,[0 0 0 1 0 0 0],26,3,return firstcontainer
+3464,[0 0 0 1 0 0 0],27,3,return secondcontainer
+3465,[0 0 0 1 0 0 0],55,9,return true browser requires dragging curtain
+3467,[1 0 0 0 0 0 0],98,15,convert given split position string pixel percentage float percentage value
+3468,[1 0 0 0 0 0 0],101,15,return given position clamped range current minimum maximum position
+3469,[1 0 0 0 0 0 0],65,12,convert given string unit split position
+3470,[1 0 0 0 0 0 0],43,8,position percentage po pixel
+3472,[1 0 0 0 0 0 0],38,6,convert percentage value pixel
+3473,[1 0 0 0 0 0 0],47,10,reposition splitter case box
+3475,[1 0 0 0 0 0 0],64,11,move splitter within bound dont remember new value
+3476,[1 0 0 0 0 0 0],47,10,reposition splitter case box
+3477,[0 0 1 0 0 0 0],143,22,previous layout pas may changed position already need reset calculating positioning used
+3478,[0 0 1 0 0 0 0],177,28,dragging curtain interferes click event added mousedown add needed ie mouse move outside splitter
+3487,[1 0 0 0 0 0 0],50,8,emit everything collector
+3488,[0 1 0 0 0 0 0],116,16,contributor qnx software system initial api implementation markus schorn wind river system
+3489,[0 0 0 1 0 0 0],18,3,return string
+3491,[0 0 0 0 1 0 0],51,3,see iexecutableextensionsetinitializationdata
+3492,[0 0 0 0 1 0 0],57,3,see orgeclipsejfacewizardiwizardperformfinish
+3493,[0 0 0 1 0 0 0],26,5,return c project
+3494,[0 0 0 1 0 0 0],19,3,return istatus
+3495,[0 0 0 1 0 0 0],31,3,param projectfieldcontents
+3498,[1 0 0 0 0 0 0],88,11,method isvalidlocation param projectfieldcontents return istatus
+3501,[1 0 0 0 0 0 0],134,25,return c project handle corresponding project defined main page return c project
+3502,[1 0 0 0 0 0 0],215,28,store configuration element wizard config element used codeperformfinishcode set result perspective see iexecutableextensionsetinitializationdata
+3503,[1 0 0 0 0 0 0],48,7,reimplemented method superclass
+3504,[1 0 0 0 0 0 0],62,8,nonjavadoc method declared iworkbenchwizard
+3507,[1 0 0 0 0 0 0],519,90,creates new project resource selected name p normal usage method invoked user pressed finish wizard enablement finish button implies control page currently contain valid value p p note wizard cache new project successfully created subsequent invocation method answer project resource without attempting create p
+3508,[1 0 0 0 0 0 0],23,5,get project handle
+3509,[1 0 0 0 0 0 0],29,5,get project descriptor
+3510,[1 0 0 0 0 0 0],45,8,method getid return string
+3512,[1 0 0 0 0 0 0],36,6,app injection optional
+3513,[1 0 0 0 0 0 0],132,15,embedded ui serf two page brhttplocalhostmy brhttplocalhostmyanythingyouwant
+3514,[1 0 0 0 0 0 0],23,6,app api
+3517,[1 0 0 0 0 0 0],114,17,class implement gwt serialization link sparseimmutabletable author chris povirk
+3518,[0 0 0 0 1 0 0],26,2,link sparseimmutabletable
+3520,[1 0 0 0 0 0 0],114,17,posix application shall ensure special target specified without prerequisite command
+3525,[1 0 0 0 0 0 0],51,7,utility code optimized bytearray comparison
+3528,[1 0 0 0 0 0 0],121,16,provides lexicographical comparer implementation either java implementation faster implementation based
+3529,[0 0 0 0 1 0 0],12,2,code unsafe
+3531,[1 0 0 0 0 0 0],107,17,return unsafeusing comparer fall back purejava implementation unable
+3534,[1 0 0 0 0 0 0],27,5,short circuit equal case
+3535,[1 0 0 0 0 0 0],38,5,bring writablecomparator code local
+3540,[1 0 0 0 0 0 0],85,16,return true x less x value treated unsigned
+3541,[1 0 0 0 0 0 0],37,4,lexicographically compare two array
+3543,[0 0 0 1 0 0 0],28,4,param buffer right operand
+3544,[0 0 0 1 0 0 0],58,10,param offset start comparing left buffer
+3545,[0 0 0 1 0 0 0],59,10,param offset start comparing right buffer
+3546,[0 0 0 1 0 0 0],55,10,param length much compare left buffer
+3547,[0 0 0 1 0 0 0],56,10,param length much compare right buffer
+3548,[0 0 0 1 0 0 0],56,13,return equal left less right etc
+3549,[1 0 0 0 0 0 0],27,5,short circuit equal case
+3550,[1 0 0 0 0 0 0],214,39,compare byte time benchmarking show comparing byte time slower comparing byte time even bit hand substantially faster bit
+3552,[1 0 0 0 0 0 0],56,10,epilogue cover last minlength element
+3554,[1 0 0 0 0 0 0],62,9,permission parameter use short represent fspermission
+3555,[1 0 0 0 0 0 0],15,2,parameter name
+3556,[1 0 0 0 0 0 0],24,3,default parameter value
+3557,[0 0 0 1 0 0 0],33,4,return default fspermission
+3558,[0 0 0 1 0 0 0],33,5,param value parameter value
+3562,[0 0 0 1 0 0 0],37,4,return represented fspermission
+3565,[1 0 0 0 0 0 0],136,22,abstract counter class provide common implementation counter interface mapred mapreduce package
+3566,[1 0 0 0 0 0 0],58,8,verify setting adding subtracting capacity work
+3567,[1 0 0 0 0 0 0],22,5,setup context conf
+3568,[1 0 0 0 0 0 0],14,3,create queue
+3569,[0 1 0 0 0 0 0],69,9,contributor anton gorenkov initial api implementation
+3571,[0 0 0 0 1 0 0],23,2,link leaveipdomnode
+3572,[0 0 0 0 1 0 0],23,2,link visitipdomnode
+3573,[1 0 0 0 0 0 0],273,35,qtspecific specialization generic pdomvisitor class provides empty implementation link leaveipdomnode required implementation provide link visitipdomnode class also provides commonly required implementation
+3575,[1 0 0 0 0 0 0],95,17,simple interface used select node index based specific criterion
+3576,[1 0 0 0 0 0 0],48,9,filter selects node based name
+3577,[1 0 0 0 0 0 0],82,15,utility class search index node match given filter
+3580,[1 0 0 0 0 0 0],140,22,convenience method create combopreference widget registered potential focus holder default updater added
+3581,[1 0 0 0 0 0 0],141,22,convenience method create numberpreference widget registered potential focus holder default updater added
+3582,[1 0 0 0 0 0 0],37,6,convenience method create group
+3583,[1 0 0 0 0 0 0],36,6,convenience method create label
+3584,[1 0 0 0 0 0 0],37,6,convenience method create label
+3585,[1 0 0 0 0 0 0],40,6,convenience method create griddata
+3587,[0 0 0 1 0 0 0],60,9,param status status describing current page error state
+3589,[1 0 0 0 0 0 0],19,3,update preview
+3592,[0 0 0 1 0 0 0],30,4,param parent parent composite
+3593,[0 0 0 1 0 0 0],23,3,return created preview
+3594,[0 0 0 1 0 0 0],39,6,param composite composite create
+3596,[0 0 0 1 0 0 0],25,3,return created composite
+3597,[0 0 0 1 0 0 0],39,6,param composite composite create
+3599,[0 0 0 1 0 0 0],34,5,param parent parent composite
+3600,[0 0 0 1 0 0 0],31,4,return created content control
+3601,[0 0 0 1 0 0 0],415,69,param composite composite swt widget added param numcolumns number column composite gridlayout param preference map store value param key key store value param minvalue minimum value valid input param maxvalue maximum value valid input param text label text preference
+3602,[0 0 0 1 0 0 0],479,83,param composite composite swt widget added param numcolumns number column composite gridlayout param preference map store value param key key store value param value array n element indicating value store selection param text label text preference param item array n element indicating text written combo box
+3603,[0 0 0 1 0 0 0],439,73,param composite composite swt widget added param numcolumns number column composite gridlayout param preference map store value param key key store value param value array two element indicating value store uncheckedchecked param text label text preference param style swt style flag button
+3605,[0 0 0 1 0 0 0],69,13,return get currently used key used store value
+3607,[0 0 0 1 0 0 0],24,4,param enabled new value
+3608,[0 0 0 1 0 0 0],69,12,return get enabled state swt widget preference
+3609,[0 0 0 1 0 0 0],41,7,return get map preference
+3614,[1 0 0 0 0 0 0],60,11,set enabled state swt widget preference
+3615,[1 0 0 0 0 0 0],45,10,set key used store value
+3616,[1 0 0 0 0 0 0],204,35,return main control preference mainly used manage focus may codenullcode preference doesnt control able focus
+3617,[1 0 0 0 0 0 0],127,21,implemented subclass update swt widget state object changed enabled key
+3618,[1 0 0 0 0 0 0],38,7,wrapper around checkbox label
+3619,[1 0 0 0 0 0 0],32,4,create new checkboxpreference
+3620,[1 0 0 0 0 0 0],27,5,wrapper around combo box
+3622,[1 0 0 0 0 0 0],75,13,wrapper around textfied request integer input given range
+3623,[1 0 0 0 0 0 0],30,4,create new numberpreference
+3625,[1 0 0 0 0 0 0],110,17,class provides default way preserve reestablish focus multiple modify session
+3626,[0 0 1 0 0 0 0],436,76,modifydialogtabpage instance add relevant control upon creation always sequence established mapping control index allows restore focus later session index saved dialog setting one common preference tab page always currently active tab page store focus index
+3628,[1 0 0 0 0 0 0],295,49,default focus manager widget know widget focus listens focusgained event store index current focus holder dialog restarted coderestorefocuscode set focus last control
+3629,[0 0 1 0 0 0 0],199,33,standard preference object managed focus manager created using respective factory method swt widget added subclass created
+3630,[1 0 0 0 0 0 0],41,6,pixel converter layout calculation
+3632,[1 0 0 0 0 0 0],55,9,modify dialog display status message
+3633,[1 0 0 0 0 0 0],45,4,create new codemodifydialogtabpagecode
+3637,[1 0 0 0 0 0 0],153,27,method called control allocated including preview used set preview text create listener
+3638,[1 0 0 0 0 0 0],89,16,create left side modify dialog meant implemented subclass
+3639,[1 0 0 0 0 0 0],189,32,create right side modify dialog default preview displayed subclass override method order customize righthand side dialog
+3640,[1 0 0 0 0 0 0],299,44,implemented subclass method return instance cpreview currently choice compilationunitpreview contains valid compilation unit snippetpreview format several independent code snippet display window
+3641,[1 0 0 0 0 0 0],46,8,create nice javadoc comment string
+3644,[0 0 0 1 0 0 0],121,11,see guava user guide article href httpsgithubcomgoogleguavawikinewcollectiontypesexplainedbimap
+3645,[0 0 0 0 1 0 0],11,2,code bimap
+3646,[1 0 0 0 0 0 0],284,51,bimap bidirectional map map preserve uniqueness value well key constraint enables bimaps support inverse view another bimap containing entry bimap reversed key value
+3647,[0 0 0 0 1 0 0],9,2,code put
+3648,[0 0 0 0 1 0 0],10,2,link put
+3653,[0 0 0 0 1 0 0],9,2,code put
+3658,[0 0 0 1 0 0 0],216,38,param key key specified value associated param value value associated specified key return value previously associated key may
+3665,[1 0 0 0 0 0 0],261,41,alternate form code put silently remove existing entry value code value proceeding link put operation bimap previously contained provided keyvalue mapping method effect
+3666,[0 0 0 1 0 0 0],144,28,pnote successful call method could cause size bimap increase one stay even decrease one
+3668,[1 0 0 0 0 0 0],200,38,return inverse view bimap map bimaps value associated key two bimaps backed data change one appear
+3669,[0 0 0 1 0 0 0],121,18,pbnotebthere guaranteed correspondence iteration order bimap inverse
+3670,[0 0 0 0 1 0 0],32,3,code guicemultibindingsjar
+3671,[1 0 0 0 0 0 0],81,11,extension binding multiple instance collection extension requires
+3672,[1 0 0 0 0 0 0],43,7,base class implement interface node
+3673,[0 0 0 1 0 0 0],93,15,param path concatenation node location path seperator name
+3674,[0 0 0 1 0 0 0],126,19,param name node name null must contain link pathseparator param location node location
+3675,[0 0 0 1 0 0 0],218,35,param name node name null must contain link pathseparator param location node location param parent node parent node param level node level tree
+3677,[0 0 0 1 0 0 0],24,4,return node name
+3678,[0 0 0 1 0 0 0],36,5,return node network location
+3679,[0 0 0 1 0 0 0],28,4,param location location
+3680,[0 0 0 1 0 0 0],60,12,param node nonnull node return path node
+3682,[0 0 0 1 0 0 0],63,10,param path path normalize return normalised path
+3684,[0 0 0 1 0 0 0],24,4,param parent parent
+3686,[0 0 0 1 0 0 0],22,4,param level level
+3688,[0 0 0 1 0 0 0],59,13,eg root tree return child return
+3689,[1 0 0 0 0 0 0],23,4,set node parent
+3690,[1 0 0 0 0 0 0],46,8,normalize path stripping trailing
+3691,[0 0 0 0 1 0 0],21,2,link pathseparator
+3693,[1 0 0 0 0 0 0],22,6,get path node
+3694,[1 0 0 0 0 0 0],32,5,set node network location
+3695,[1 0 0 0 0 0 0],33,6,set node name location
+3696,[1 0 0 0 0 0 0],47,9,construct node name location
+3699,[1 0 0 0 0 0 0],20,2,default constructor
+3702,[1 0 0 0 0 0 0],42,8,level tree node resides
+3703,[1 0 0 0 0 0 0],12,2,parent
+3704,[1 0 0 0 0 0 0],31,5,path separator value
+3705,[1 0 0 0 0 0 0],42,8,path separator string value
+3707,[0 0 0 1 0 0 0],6,1,value
+3708,[0 0 0 1 0 0 0],6,1,value
+3709,[0 0 0 1 0 0 0],6,1,value
+3710,[0 0 0 0 1 0 0],21,2,link pathseparator
+3711,[0 0 0 0 1 0 0],11,2,link float
+3716,[1 0 0 0 0 0 0],70,12,validator validating link float inside given range
+3717,[1 0 0 0 0 0 0],71,13,creates validator checking float within given range
+3724,[1 0 0 0 0 0 0],54,11,index manager reported change index
+3725,[1 0 0 0 0 0 0],84,10,icproject cproject egetaffectedproject cproject null return
+3727,[1 0 0 0 0 0 0],41,9,case display longer valid
+3728,[1 0 0 0 0 0 0],10,1,benchmark
+3733,[0 0 0 1 0 0 0],15,2,return boolean
+3736,[1 0 0 0 0 0 0],33,4,return class struct union
+3737,[1 0 0 0 0 0 0],35,7,check structure struct
+3738,[1 0 0 0 0 0 0],34,7,check structure class
+3739,[1 0 0 0 0 0 0],34,7,check structure union
+3741,[1 0 0 0 0 0 0],49,7,interface allows implement classscope
+3743,[1 0 0 0 0 0 0],34,7,return scope name use
+3745,[0 0 0 0 1 0 0],27,2,link iscopegetscopename
+3747,[0 0 0 1 0 0 0],60,7,param visibility visibility codemembercode
+3748,[1 0 0 0 0 0 0],137,24,api representing graph node edge data analogous java collection framework apis list map set etc
+3749,[0 0 0 1 0 0 0],105,12,package part opensource hrefhttpsgithubcomgoogleguavaguavaa library
+3755,[1 0 0 0 0 0 0],39,7,return whether volatile type
+3756,[1 0 0 0 0 0 0],40,7,return type qualifying
+3757,[1 0 0 0 0 0 0],123,17,protocol client codesharedcachemanagercode claim release resource shared cache
+3758,[0 0 0 1 0 0 0],120,19,param request request release resource shared cache return empty response releasing resource
+3759,[0 0 0 1 0 0 0],135,23,param request request claim resource shared cache return response indicating resource already cache
+3760,[1 0 0 0 0 0 0],91,13,interface used client release resource codesharedcachemanager
+3764,[0 0 0 1 0 0 0],101,18,note method optimization client required call correctness
+3767,[0 0 0 0 1 0 0],28,2,link forwardingloadingcache
+3768,[1 0 0 0 0 0 0],41,7,make sure method forwarded
+3772,[0 1 0 0 0 0 0],129,17,contributor markus schorn initial api implementation andrew ferguson symbian bryan wilkinson qnx
+3774,[0 0 0 1 0 0 0],52,10,subclassed used query index
+3777,[1 0 0 0 0 0 0],120,18,get indexfilter filter binding without declaration linkage specified
+3778,[1 0 0 0 0 0 0],76,14,return whether include object given linkage query
+3780,[0 0 0 0 1 0 0],114,5,see iindexfindbindingsjavautilregexpattern boolean indexfilter orgeclipsecoreruntimeiprogressmonitor
+3781,[1 0 0 0 0 0 0],120,18,get indexfilter filter binding without declaration linkage specified
+3782,[1 0 0 0 0 0 0],85,13,get indexfilter filter binding linkage specified
+3783,[0 0 0 1 0 0 0],108,17,param linkageid id linkage whose binding retained return indexfilter instance
+3785,[0 0 0 1 0 0 0],73,13,return whether include object given linkage query
+3788,[0 0 0 1 0 0 0],112,19,param linkageid id linkage whose binding retained accept linkage
+3790,[0 0 0 1 0 0 0],57,9,param binding binding checked validity
+3791,[0 0 0 1 0 0 0],47,9,return whether binding valid
+3792,[1 0 0 0 0 0 0],222,42,indicates whether endpoint range contained range closed open range unbounded side neither open closed side bound simply exist
+3795,[1 0 0 0 0 0 0],72,11,return bound type corresponding boolean value inclusivity
+3797,[0 0 0 0 1 0 0],36,2,link orgapachesparksqldataframe
+3798,[0 0 0 0 1 0 0],45,2,link orgapachesparkmlattributeattribute
+3799,[0 0 0 0 1 0 0],50,2,link orgapachesparkmlattributeattributegroup
+3803,[1 0 0 0 0 0 0],130,24,dependency calculator us gcc mmd mf mp mt option order generate file side effect compilation
+3810,[0 0 0 0 1 0 0],257,6,see orgeclipsecdtmanagedbuildermakegenimanageddependencygeneratorgetdependencysourceinfoorgeclipsecoreruntimeipath orgeclipsecdtmanagedbuildercoreibuildobject orgeclipsecdtmanagedbuildercoreitool orgeclipsecoreruntimeipath
+3812,[0 0 0 0 1 0 0],261,6,see orgeclipsecdtmanagedbuildermakegenimanageddependencygeneratorpostprocessdependencyfileorgeclipsecoreruntimeipath orgeclipsecdtmanagedbuildercoreiconfiguration orgeclipsecdtmanagedbuildercoreitool orgeclipsecoreruntimeipath
+3813,[1 0 0 0 0 0 0],23,3,source schedulerapp
+3814,[1 0 0 0 0 0 0],32,6,also node noderemoval
+3816,[1 0 0 0 0 0 0],46,3,source applicationmasterservicescheduler
+3818,[1 0 0 0 0 0 0],63,9,source scheduler resource change approved scheduler
+3819,[1 0 0 0 0 0 0],40,7,nm reported resource change done
+3821,[0 0 0 0 1 0 0],39,3,see itokenscannergettokenoffset
+3822,[0 0 0 0 1 0 0],39,3,see itokenscannergettokenlength
+3823,[0 0 0 0 1 0 0],52,5,see itokenscannersetrangeidocument int int
+3824,[1 0 0 0 0 0 0],36,6,restart beginning partition
+3825,[0 0 0 0 1 0 0],81,7,see ipartitiontokenscannersetpartialrangeidocument int int string int
+3827,[1 0 0 0 0 0 0],15,3,ignore flast
+3829,[1 0 0 0 0 0 0],9,2,state
+3831,[1 0 0 0 0 0 0],15,3,ignore flast
+3832,[1 0 0 0 0 0 0],60,13,last char backslash escaped line
+3833,[1 0 0 0 0 0 0],27,4,flast carriagereturn
+3834,[1 0 0 0 0 0 0],10,1,character
+3835,[0 0 0 0 1 0 0],60,2,see orgeclipsejfacetextrulesitokenscannernexttoken
+3836,[0 0 0 1 0 0 0],25,2,param detectpreprocessor
+3837,[0 0 0 1 0 0 0],12,2,param char
+3841,[1 0 0 0 0 0 0],173,29,configure set default line end comment character p character considered line comment introducers end instruction line p
+3842,[1 0 0 0 0 0 0],193,30,configure set default line start comment character p character considered line comment introducers first nonwhitespace character line p
+3845,[1 0 0 0 0 0 0],75,13,amount character already read first call nexttoken
+3849,[1 0 0 0 0 0 0],46,9,offset last returned token
+3850,[1 0 0 0 0 0 0],20,4,scanner
+3851,[1 0 0 0 0 0 0],56,7,postfix string character singlelinecomment
+3853,[1 0 0 0 0 0 0],32,4,prefix multilinecomment
+3855,[1 0 0 0 0 0 0],56,7,postfix string character singlelinecomment
+3856,[1 0 0 0 0 0 0],56,7,postfix string character singlelinecomment
+3857,[1 0 0 0 0 0 0],32,5,postfix string character
+3859,[1 0 0 0 0 0 0],10,2,state
+3860,[1 0 0 0 0 0 0],53,10,character known used line end comment
+3869,[0 0 0 0 1 0 0],51,3,see freeformquerydelegategetquerystringint int
+3870,[0 0 0 0 1 0 0],100,5,see comvaadindatautilsqlcontainerqueryquerydelegatesetfiltersjava utillist
+3871,[0 0 0 0 1 0 0],125,5,see comvaadindatautilsqlcontainerqueryquerydelegatestorerowcomvaadin datautilsqlcontainerrowitem
+3872,[0 0 0 0 1 0 0],126,5,see comvaadindatautilsqlcontainerqueryquerydelegateremoverowcomvaadin datautilsqlcontainerrowitem
+3873,[0 0 0 0 1 0 0],63,2,see freeformquerydelegategetcontainsrowquerystringobject
+3875,[1 0 0 0 0 0 0],27,5,rewrite clause
+3877,[1 0 0 0 0 0 0],46,9,build rule provided key
+3878,[1 0 0 0 0 0 0],50,6,statement generation supported continue
+3879,[1 0 0 0 0 0 0],407,60,implementation containsrowwithkey method rewrite existing clause query string logic however complex time wrong thingsuptmsup situation logic enough implement getcontainsrowquerystring method freeformquerydelegate used instead logic
+3880,[0 0 0 0 1 0 0],96,5,see comvaadindatautilsqlcontainerqueryquerydelegategetprimarykeycolumns
+3881,[0 0 0 0 1 0 0],100,5,see comvaadindatautilsqlcontainerqueryquerydelegatesetorderbyjava utillist
+3882,[1 0 0 0 0 0 0],50,6,statement generation supported continue
+3886,[1 0 0 0 0 0 0],50,6,statement generation supported continue
+3887,[1 0 0 0 0 0 0],40,7,first try using prepared statement
+3888,[0 0 0 1 0 0 0],353,42,param querystring actual query perform param connectionpool jdbcconnectionpool use open connection sql database param primarykeycolumns primary key column readonly mode forced none provided optional
+3890,[1 0 0 0 0 0 0],221,36,implementation getcount actually fetch record database might performance issue override method select count query slow need
+3893,[1 0 0 0 0 0 0],40,7,first try using prepared statement
+3894,[1 0 0 0 0 0 0],43,6,count statement generation supported
+3895,[1 0 0 0 0 0 0],33,6,try using regular statement
+3896,[1 0 0 0 0 0 0],39,6,count query generation supported
+3897,[1 0 0 0 0 0 0],327,43,fetch result query implementation always fetch entire record set ignoring offset page length parameter order support lazy loading record must supply freeformquerydelegate implement freeformquerydelegategetquerystringintint method
+3898,[0 0 0 0 1 0 0],72,4,link freeformqueryfreeformquerystring jdbcconnectionpool string
+3900,[0 0 0 0 0 1 0],22,4,deprecated
+3901,[0 0 0 1 0 0 0],65,8,param querystring actual query perform
+3902,[0 0 0 1 0 0 0],146,19,param primarykeycolumns primary key column readonly mode forced parameter null empty
+3906,[0 0 0 0 1 0 0],22,2,link schedulingpolicy
+3907,[0 0 0 0 1 0 0],22,2,link schedulingpolicy
+3909,[0 0 0 0 1 0 0],22,2,link schedulingpolicy
+3910,[0 0 0 0 1 0 0],24,2,link resourcecalculator
+3913,[0 0 0 0 1 0 0],22,2,link schedulingpolicy
+3914,[0 0 0 0 1 0 0],22,2,link schedulingpolicy
+3915,[0 0 0 0 1 0 0],17,2,link schedulable
+3916,[0 0 0 0 1 0 0],17,2,link schedulable
+3917,[0 0 0 0 1 0 0],22,2,link schedulingpolicy
+3918,[0 0 0 0 1 0 0],17,2,link schedulable
+3921,[0 0 0 0 1 0 0],13,2,link fsqueue
+3922,[0 0 0 0 1 0 0],14,2,link resource
+3924,[0 0 0 0 1 0 0],14,2,link resource
+3925,[0 0 0 0 1 0 0],14,2,link resource
+3926,[0 0 0 0 1 0 0],14,2,link resource
+3927,[0 0 0 1 0 0 0],198,28,param queuefairshare fairshare queue param queueusage resource used queue param maxavailable available resource cluster queue return calculated headroom
+3929,[0 0 0 1 0 0 0],51,10,return true resource usage limit
+3930,[0 0 0 1 0 0 0],102,15,param usage link resource resource usage param fairshare link resource fair share
+3931,[0 0 0 1 0 0 0],57,10,return true check pass false otherwise
+3932,[0 0 0 1 0 0 0],61,10,param queue link fsqueues whose share updated
+3933,[0 0 0 1 0 0 0],60,8,param totalresources total link resource cluster
+3934,[0 0 0 0 1 0 0],22,2,link schedulingpolicy
+3938,[1 0 0 0 0 0 0],318,51,computes update steady share link fsqueues per link schedulingpolicy steady share differentiate queue without running application steady share used scheduling displayed web ui better visibility
+3941,[1 0 0 0 0 0 0],117,20,check specified link schedulingpolicy used queue specified depth hierarchy
+3944,[1 0 0 0 0 0 0],381,52,return link schedulingpolicy instance corresponding link schedulingpolicy passed string policy fair fairsharepolicy fifo fifopolicy drf dominantresourcefairnesspolicy custom link schedulingpolicys rm classpath policy canonical class name link schedulingpolicy
+3945,[1 0 0 0 0 0 0],77,10,return link schedulingpolicy instance corresponding passed clazz
+3946,[0 0 0 1 0 0 0],63,11,param policy canonical class name drf fair fifo
+3948,[0 0 0 1 0 0 0],52,7,return return name link schedulingpolicy
+3949,[0 0 0 1 0 0 0],36,7,return depth equal one field
+3950,[0 0 0 1 0 0 0],145,19,param policy link schedulingpolicy checking depthapplicability param depth queue depth hierarchy
+3952,[0 0 0 1 0 0 0],34,6,return comparator sort
+3954,[0 0 0 0 1 0 0],22,2,link schedulingpolicy
+3957,[0 0 0 1 0 0 0],14,2,param element
+3958,[0 0 0 1 0 0 0],17,2,return uielement
+3960,[1 0 0 0 0 0 0],129,22,interface method return uielement given element method return list element given element
+3964,[0 0 0 1 0 0 0],43,6,param property data type
+3966,[0 0 0 1 0 0 0],23,3,return generated value
+3968,[0 0 0 1 0 0 0],61,9,param order sort order property
+3970,[0 0 0 1 0 0 0],65,8,param filter original filter property
+3971,[0 0 0 1 0 0 0],72,10,return modified filter compatible underlying container
+3972,[1 0 0 0 0 0 0],89,13,return updated filter compatible underlying container
+3976,[1 0 0 0 0 0 0],137,19,return property type generator function called link propertygettype called generated property
+3977,[1 0 0 0 0 0 0],104,13,return value given item used generatedpropertycontainer generating new property
+3979,[1 0 0 0 0 0 0],54,3,propertyvaluegenerator generatedpropertycontainer
+3984,[1 0 0 0 0 0 0],77,12,set checkbox selection enablement control specified
+3986,[1 0 0 0 0 0 0],50,7,return field editor current boolean value
+3987,[1 0 0 0 0 0 0],40,8,create hide label base class
+3988,[1 0 0 0 0 0 0],25,5,validate focus gain
+3989,[1 0 0 0 0 0 0],97,15,field editor combine integer value preference boolean enablement preference
+3993,[1 0 0 0 0 0 0],44,10,id label case test failed
+3994,[1 0 0 0 0 0 0],28,7,make rpc test bug
+3995,[1 0 0 0 0 0 0],20,4,show result box
+3998,[1 0 0 0 0 0 0],22,1,itemplateslistprovider
+3999,[0 1 0 0 0 0 0],75,10,contributor qnx software system initial api implementation
+4002,[1 0 0 0 0 0 0],89,13,extension injecting object may throw provision time extension requires
+4010,[1 0 0 0 0 0 0],37,6,return empty immutable range set
+4011,[1 0 0 0 0 0 0],79,11,return immutable range set containing single range link rangeall
+4012,[1 0 0 0 0 0 0],172,21,return immutable range set containing specified single range link rangeisempty rangeisempty equivalent link immutablerangesetof
+4013,[1 0 0 0 0 0 0],60,9,return immutable copy specified code rangeset
+4015,[1 0 0 0 0 0 0],75,11,guaranteed throw exception leave code rangeset unmodified
+4017,[1 0 0 0 0 0 0],75,11,guaranteed throw exception leave code rangeset unmodified
+4018,[1 0 0 0 0 0 0],75,11,guaranteed throw exception leave code rangeset unmodified
+4021,[1 0 0 0 0 0 0],109,18,return list containing nonempty intersection code range range range set
+4022,[1 0 0 0 0 0 0],74,14,return view intersection range set given range
+4023,[1 0 0 0 0 0 0],149,20,return link immutablesortedset containing value given domain linkplain rangesetcontains contained range set
+4024,[0 0 0 1 0 0 0],235,33,pbnoteb code aassetdequalsbassetd imply code aequalsb example code code b could code code empty range code code
+4025,[0 0 0 1 0 0 0],353,48,pbwarningb extremely careful code asset view large range set code immutablerangesetofrangegreaterthan certain operation set performed efficiently others link sethashcode link collectionsfrequency cause major performance problem
+4028,[1 0 0 0 0 0 0],26,4,racy singlecheck idiom
+4031,[1 0 0 0 0 0 0],304,44,return code true immutable range set implementation contains reference usercreated object arent accessible via range set method generally used determine whether code copyof implementation make explicit copy avoid memory leak
+4032,[1 0 0 0 0 0 0],49,9,return new builder immutable range set
+4033,[1 0 0 0 0 0 0],35,6,builder immutable range set
+4034,[1 0 0 0 0 0 0],154,22,add specified range builder adjacentabutting range permitted empty range range nonempty overlap forbidden
+4037,[0 0 0 1 0 0 0],23,2,code immutablerangeset
+4039,[0 0 0 1 0 0 0],12,2,code copyof
+4041,[0 0 0 1 0 0 0],17,2,code
+4042,[0 0 0 1 0 0 0],21,2,link objecttostring
+4044,[0 0 0 1 0 0 0],11,2,code asset
+4045,[0 0 0 1 0 0 0],12,2,code
+4046,[0 0 0 1 0 0 0],17,2,code aequalsb
+4047,[0 0 0 1 0 0 0],12,2,code
+4048,[0 0 0 1 0 0 0],12,2,code
+4051,[0 0 0 1 0 0 0],12,2,code
+4054,[0 0 0 1 0 0 0],7,2,code
+4055,[0 0 0 1 0 0 0],27,2,link collectionsfrequency
+4057,[0 0 0 1 0 0 0],11,2,code range
+4066,[1 0 0 0 0 0 0],24,4,test code count
+4080,[1 0 0 0 0 0 0],25,4,request terminate gdb
+4083,[1 0 0 0 0 0 0],274,49,return list targetindependent mi feature supported gdb used consult gdb mi documentation mi listfeatures command possible name feature return value never null may empty list
+4084,[1 0 0 0 0 0 0],106,14,enable pretty printer also mi variable object basically sends enableprettyprinting
+4099,[1 0 0 0 0 0 0],61,9,convert widget offset corresponding document offset
+4102,[1 0 0 0 0 0 0],69,8,convert mouse screen coordinate codestyledtextcode offset
+4105,[1 0 0 0 0 0 0],16,3,cannot happen
+4107,[1 0 0 0 0 0 0],39,7,convert document offset
+4112,[1 0 0 0 0 0 0],16,3,cannot happen
+4116,[1 0 0 0 0 0 0],56,8,drag source adapter text selection itextviewers
+4117,[1 0 0 0 0 0 0],75,14,position category used indicate drag source selection
+4118,[1 0 0 0 0 0 0],60,10,position updater drag selection position
+4120,[1 0 0 0 0 0 0],35,6,drag selection position
+4125,[1 0 0 0 0 0 0],64,11,suffix make sure string different length
+4127,[1 0 0 0 0 0 0],25,3,check file length
+4129,[1 0 0 0 0 0 0],55,9,test append append file namenode
+4130,[1 0 0 0 0 0 0],25,3,check file length
+4135,[1 0 0 0 0 0 0],966,154,policy work combination implementation task checkpointing computes task preempted response rm request preemption strict request map container corresponding task fungible request attempt pick best container preempt reducer reverse allocation order taskattemptlistener interrogate policy handling task heartbeat check whether task preempted handling fungible request policy discount rm ask amount currently inflight preemption ie task checkpointing class also used maintain list checkpoint existing task centralizing functionality allows u visibility preemption checkpoint single location thus coordinating preemption checkpoint management decision single policy
+4136,[1 0 0 0 0 0 0],41,6,task attempt flagged preemption
+4137,[1 0 0 0 0 0 0],43,4,handling nonnegotiable preemption
+4142,[1 0 0 0 0 0 0],101,15,compute total amount pending preemption discounted current request
+4143,[1 0 0 0 0 0 0],76,9,discount preemption request based currently pending preemption
+4144,[1 0 0 0 0 0 0],66,11,respond aggregate request ignore locality
+4145,[1 0 0 0 0 0 0],9,2,remove
+4146,[1 0 0 0 0 0 0],34,7,go negative simply exit
+4147,[1 0 0 0 0 0 0],130,17,decrement pending resource zero negatve ignore processing next preemptionresourcerequest
+4149,[1 0 0 0 0 0 0],26,4,preempt reducer first
+4150,[1 0 0 0 0 0 0],68,13,map preemptable would add tobepreempted
+4151,[0 1 0 0 0 0 0],24,3,author dimitris andreou
+4164,[1 0 0 0 0 0 0],67,12,return funnel extract byte code byte array
+4165,[1 0 0 0 0 0 0],231,34,return funnel extract character code charsequence character time without performing encoding need use specific encoding use link funnelsstringfunnelcharset instead
+4168,[1 0 0 0 0 0 0],30,5,return funnel integer
+4169,[1 0 0 0 0 0 0],174,27,return funnel process code iterable funneling element iteration order specified funnel separator added element
+4170,[1 0 0 0 0 0 0],27,5,return funnel longs
+4171,[1 0 0 0 0 0 0],240,41,wrap code primitivesink link outputstream easy link funnelfunnel funnel object code primitivesink already way write content object code outputstream
+4172,[1 0 0 0 0 0 0],142,21,pthe code close code flush method returned code outputstream nothing method throw code ioexception
+4184,[1 0 0 0 0 0 0],92,16,test exit code script determines whether fencer succeeded failed
+4186,[1 0 0 0 0 0 0],64,12,test line stdout get passed info level message
+4187,[1 0 0 0 0 0 0],68,13,test line stderr get passed warn level log message
+4188,[1 0 0 0 0 0 0],86,13,verify configuration get passed environment variable fencer
+4189,[1 0 0 0 0 0 0],106,16,verify information fencing target get passed environment variable fencer
+4190,[1 0 0 0 0 0 0],233,44,test properly close input subprocess know there tty connected important use ssh wont try prompt password block forever example
+4195,[1 0 0 0 0 0 0],57,10,visit strategy used scope injection
+4196,[1 0 0 0 0 0 0],116,19,visit eager singleton single instance scope strategy found module injector binding
+4197,[1 0 0 0 0 0 0],90,15,visit scope instance scope strategy found module injector binding
+4198,[1 0 0 0 0 0 0],223,28,visit scope annotation scope strategy found module binding instance implement scope registered link comgoogleinjectbinderbindscopeclass scope binderbindscope
+4199,[1 0 0 0 0 0 0],319,56,visit unspecified unscoped strategy module strategy indicates injector use scoping annotation find scope injector indicates scope applied binding unscoped binding behave like scoped one linked scoped binding
+4206,[1 0 0 0 0 0 0],30,5,get service reference
+4211,[1 0 0 0 0 0 0],37,6,select context breakpoints map
+4212,[1 0 0 0 0 0 0],87,12,extract relevant parameter providing default value avoid potential npes
+4213,[1 0 0 0 0 0 0],29,4,execute command
+4214,[1 0 0 0 0 0 0],66,10,mi invalid location wont generate error
+4215,[1 0 0 0 0 0 0],64,11,create breakpoint object store map
+4216,[1 0 0 0 0 0 0],37,5,format return value
+4217,[1 0 0 0 0 0 0],28,4,flag event
+4221,[1 0 0 0 0 0 0],85,12,extract relevant parameter providing default value avoid potential npes
+4223,[1 0 0 0 0 0 0],65,11,create breakpoint object store map
+4224,[1 0 0 0 0 0 0],38,5,format return value
+4225,[1 0 0 0 0 0 0],29,4,flag event
+4228,[1 0 0 0 0 0 0],37,5,retrieve breakpoint parameter
+4230,[1 0 0 0 0 0 0],40,7,track number change request
+4231,[1 0 0 0 0 0 0],57,8,determine tracepoint pas count changed
+4232,[1 0 0 0 0 0 0],43,6,determine tracepoint command changed
+4234,[1 0 0 0 0 0 0],43,7,set number completion required
+4235,[1 0 0 0 0 0 0],37,6,pick context breakpoints map
+4236,[1 0 0 0 0 0 0],34,4,update breakpoint ignorecount
+4238,[1 0 0 0 0 0 0],37,6,pick context breakpoints map
+4240,[1 0 0 0 0 0 0],31,4,update tracepoint passcount
+4242,[1 0 0 0 0 0 0],37,6,pick context breakpoints map
+4243,[1 0 0 0 0 0 0],39,6,passcount tracepoints
+4255,[0 1 0 0 0 0 0],70,9,contributor ibm corporation initial api implementation
+4309,[0 1 0 0 0 0 0],146,20,contributor doug schaefer ibm initial api implementation markus schorn wind river system sergey prigogin google
+4375,[0 1 0 0 0 0 0],20,3,author mike kucera
+4449,[0 1 0 0 0 0 0],157,22,contributor ibm rational software initial api implementation yuan zhang beth tibbitts ibm research sergey prigogin google

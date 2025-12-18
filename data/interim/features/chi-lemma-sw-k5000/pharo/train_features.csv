@@ -1,0 +1,901 @@
+index,labels,comment_length,word_count,comment_clean
+0,[0 0 1 0 0 0],118,19,relative anchor take arbitrary element reference compute position based property element
+2,[0 0 0 1 0 0],35,7,simple arrow like arrowhead
+3,[0 0 0 1 0 0],56,11,size arrow length depend curve width
+4,[0 0 0 0 1 0],143,27,possible hovewer customize length fraction long outer arrow compared length side nose triangle
+8,[0 0 0 1 0 0],29,6,triangular arrow head
+10,[1 0 0 0 0 0],101,18,possible border around triangle specifying border width triangle arrowhead
+13,[0 0 1 0 0 0],70,12,solid arrowhead make background paint border paint
+16,[0 1 0 0 0 0],14,2,blchicken open
+21,[0 0 1 0 0 0],76,12,provide data structure independent api adding removing child
+23,[0 0 1 0 0 0],76,11,allow element optimize working child different scenarious
+26,[0 0 1 0 0 0],127,21,rope us balanced binary tree support fast adding removing accessing disadvantage taking memory
+33,[0 0 1 0 0 0],63,11,capture subset child class blelement instance
+34,[0 0 0 1 0 0],23,5,abstract class
+35,[0 0 1 0 0 0],96,15,exist explicitly capture combine various way filtering iterating child
+40,[0 0 0 0 1 0],28,7,enforce lazy api
+41,[0 0 0 0 1 0],3,1,api
+42,[0 0 0 0 1 0],156,25,instance created calling factory method method blchildrensubset class subclass instance class blchildren parameter
+43,[1 0 0 0 0 0],22,2,implementation detail
+47,[1 0 1 0 0 0],124,23,click event fired pointing device button mouse primary button pressed released single element
+48,[1 0 0 0 0 0],25,5,order fired event
+50,[1 0 0 0 0 0],8,2,mouse
+52,[0 0 1 0 0 0],25,4,class contains test
+58,[1 0 0 0 0 0],61,11,setting factor f produce upside x parabola
+60,[1 0 0 0 0 0],13,3,formula
+68,[0 1 0 0 0 0],83,18,see configure fire check click event child element
+69,[0 0 1 0 0 0],62,10,drag delegate provides drag item visual element lift
+70,[0 0 1 0 0 0],45,9,drag gesture fails drag item
+71,[0 0 1 0 0 0],40,7,contain example element bound api
+74,[0 0 1 1 0 0],155,24,dynamic element transformation sense transformation matrix may actually depend element property extent position
+75,[1 0 0 0 0 0],100,15,mean matrix computation performed requested taking owner element account
+76,[0 0 0 1 0 0],41,8,abstract root class effect
+77,[0 0 1 0 0 0],54,10,define default drawing strategy
+78,[0 0 1 0 0 0],62,14,influence bound owner used clip owner
+80,[0 0 1 0 0 0],59,8,contain example position change logging functionality
+81,[0 0 0 0 0 1],58,12,sent element removed parent
+85,[0 1 0 0 0 0],69,10,child blelementremovedevent self inform removed parent
+86,[0 1 0 0 0 0],21,3,parent blelement new
+87,[0 1 0 0 0 0],22,3,parent addchild child
+90,[0 0 1 1 0 0],105,19,example custom non element event target nicely integrated bloc infrastructure
+91,[0 0 1 1 0 0],84,13,element broken onlayout method throw error subscriptoutofbounds
+92,[0 0 1 0 0 0],92,12,contain experimental example work manually prepared laboratory environment
+94,[0 1 0 0 0 0],21,4,inspect run example
+95,[0 1 0 0 0 0],65,14,click one cell give focus blue border appear
+97,[0 0 1 0 0 1],81,15,geometry used define geometry drawn interaction area
+98,[0 0 1 1 0 1],69,13,event listener listens anchor moved event send anchor
+99,[0 0 1 0 0 0],40,8,sent anchor position changed
+100,[0 0 1 1 0 0],75,13,root class geometry element element driven geometry anchor
+103,[1 0 0 0 0 0],63,11,grid consists cell separated invisible line
+105,[1 0 0 0 0 0],39,9,index lie closed interval n
+106,[1 0 0 0 0 0],82,12,grid layout support fitcontent matchparent exact resizing mode owner
+107,[1 0 0 0 0 0],65,10,child allowed fitcontent exact resizing mode
+108,[1 0 0 0 0 0],148,27,child matchparent make sense case grid user use fill declare child take available cell space
+110,[1 0 0 0 0 0],108,19,user specify amount column row sending columncount rowcount instance grid layout
+112,[0 0 0 0 1 0],27,5,public api key message
+116,[0 0 0 0 1 0],143,21,alignmargins bound element extended outwards according margin edge resulting rectangle aligned
+118,[1 0 0 0 0 0],54,6,internal representation key implementation point
+127,[0 1 0 0 0 0],8,1,registry
+128,[0 0 1 1 0 0],88,17,fallback host chosen available supported host
+129,[0 0 0 1 0 0],24,6,bloc main loop
+132,[1 0 0 0 0 0],136,23,may delayed background process wanting run ensure background calculation ui element complete
+134,[0 0 0 1 0 0],42,9,type data source update command
+135,[1 0 0 0 0 0],50,8,suppose stateless therefore immutable
+139,[0 0 0 0 0 1],7,2,sent
+144,[0 1 0 0 0 0],86,17,event self inform item moved event asstring event asstring
+145,[0 0 0 1 0 1],64,14,data source collection class image
+146,[0 0 1 0 0 0],109,20,used example delay action data set currently running animation complete
+156,[0 0 1 0 0 1],85,16,attached bloc element define visual structure bloc element
+158,[1 0 0 0 0 0],18,2,layout constraint
+159,[1 0 0 0 0 0],113,20,support set attribute refered constraint bloc define visual property layout
+161,[1 0 0 0 0 0],132,17,layout dedicated constraint object instance class bllayoutcommonconstraints contain common constraint
+162,[1 0 0 0 0 0],121,19,type layout define specific constraint creating subclass class bllayoutconstraints
+163,[1 0 0 0 0 0],23,5,layout phase frame
+164,[1 0 0 0 0 0],72,13,layouting element phase executed space every frame
+165,[1 0 0 0 0 0],90,12,every frame space go several phase method blspaceframe initializephases
+166,[1 0 0 0 0 0],92,14,phase modeled subclass class blspaceframephase executed per frame
+167,[1 0 0 0 0 0],103,15,one class blspaceframelayoutphase consists layouting element contained space
+168,[1 0 0 0 0 0],85,15,done event task executed drawing phase
+169,[1 0 0 0 0 0],148,24,layouting executed frame various property like width height position change element contained space
+170,[1 0 0 0 0 0],123,19,however important aspect bloc one property change layouting performed immediately
+171,[1 0 0 0 0 0],125,19,instead layout request issued element whose property changed using message method blelement requestlayout
+172,[1 0 0 0 0 0],84,15,advantage element request layout phase skipped
+174,[1 0 0 1 0 0],104,18,hence bloc layout executed immediately property like width element change
+177,[1 0 0 0 0 0],160,27,done using messafe method blelement forcelayout used outside test bypass normal layouting system bloc
+178,[1 0 0 0 0 0],109,17,however often element need reach perform action example position extent change
+179,[1 0 0 0 0 0],44,7,react requesting another layout
+180,[1 0 0 0 0 0],41,7,tipical example deadling edge
+181,[1 0 0 0 0 0],90,17,edge layouted position element connects known
+183,[1 0 0 0 0 0],256,41,space allows layout request layouting phase limited number time method blspace computelayout avoid blocking rendering due infinite recursion caused layout request void spending much time layout frame
+185,[1 0 0 0 0 0],19,3,performing layout
+187,[1 0 0 0 0 0],74,12,performing layout element consists executing three main step
+189,[1 0 0 0 0 0],126,22,first step performing layout element consists determening measured bound element
+191,[1 0 0 0 0 0],65,10,default class blelement delegate measuring layout
+192,[1 0 0 0 0 0],88,12,layout override method bllayout measure implement actual measuring
+193,[1 0 0 0 0 0],129,22,normally layout follow top bottom approach measure current element asks child measuring
+194,[1 0 0 0 0 0],94,13,element real bound blelement bound measured bound blelement measuredbounds
+195,[1 0 0 0 0 0],111,20,real bound contain actual position extent element user element rely
+196,[1 0 0 0 0 0],83,15,measured bound used layouting hold new extent element
+197,[1 0 0 0 0 0],67,11,measuring phase change extent measured bound
+199,[1 0 0 0 0 0],80,15,measured bound act like temporary cache new bound element
+200,[1 0 0 0 0 0],119,19,introduced avoid changing real extent element layouting child still performed
+202,[1 0 0 0 0 0],19,3,applying layout
+205,[1 0 0 0 0 0],120,18,space start measurement process root element measurement tell child measure etc
+206,[1 0 0 0 0 0],65,10,measurement top bottom though composition element
+207,[1 0 0 0 0 0],83,14,step find size element set measuredextent position sometimes
+208,[1 0 0 0 0 0],28,5,space start layout step
+209,[1 0 0 0 0 0],79,16,know size child compute actual position child
+211,[1 0 0 0 0 0],56,8,element announce event position extent changed
+212,[1 0 0 0 0 0],71,12,without event handler layout process going happen
+213,[1 0 0 0 0 0],67,11,example node change position edge updated
+214,[1 0 0 0 0 0],13,2,layout event
+217,[1 0 0 0 1 0],28,7,define api layout
+218,[1 0 0 0 1 0],67,10,concrete implementation focus measure layout
+219,[0 0 1 0 0 0],25,4,class contains test
+221,[1 0 0 0 0 0],60,8,component named according mathematical convention
+223,[1 0 0 0 0 0],14,4,shx sy
+226,[1 0 0 0 0 0],41,9,example case matrix
+230,[1 0 0 0 0 0],37,7,top left x minor original matrix
+237,[0 0 0 1 0 0],79,12,affine transformation directly defined transformation matrix
+238,[0 0 0 1 0 0],70,9,represent concrete implementation unspecified measurement mode
+240,[0 0 0 1 0 0],43,8,host space created blmorphichost
+247,[0 0 0 1 0 0],27,6,middle mouse button
+249,[0 0 0 0 0 1],100,19,mouse move event fired pointing device usually mouse moved element
+250,[0 0 0 1 0 0],24,5,event processor
+255,[0 0 1 1 0 0],91,17,virtual anchor lay perpendicular line two reference anchor
+256,[1 0 0 0 0 0],137,20,curvature distance line connecting reference anchor defined fraction curvaturefraction length anchor
+259,[0 1 0 0 0 0],6,1,
+263,[0 1 0 0 0 0],6,1,
+265,[0 1 0 0 0 0],122,25,goal tutorial create element arrow like pointer middle top edge shown
+269,[0 1 0 0 0 0],168,29,even compex would implement support positioning arrow different edge eg left bottom ability multiple arrow separate edge
+272,[0 1 0 0 0 0],26,4,creating rectangle shape
+276,[0 1 0 0 0 0],129,26,order give arrow pointing enough space move top edge rectangle length arrow
+281,[0 1 0 0 0 0],39,8,injecting line inside top edge
+283,[0 1 0 0 0 0],82,14,done sending method bllineshape injectlineat length topedge
+285,[0 1 0 0 0 0],136,9,example blrectangleshapewitharrowexplanation rectanglewithtopinjectedline previewshow gtlivefor previewexpanded true previewheight
+287,[0 1 0 0 0 0],50,9,almost ready create rectangular arrow
+289,[0 1 0 0 0 0],148,27,sending method bllineshape splitat middle section topedge created previous line injection step
+290,[0 1 0 0 0 0],143,9,example blrectangleshapewitharrowexplanation rectanglewithtoppolylinesplitinhalf previewshow gtlivefor previewexpanded true previewheight
+291,[0 1 0 0 0 0],30,6,moving top triangle
+295,[0 1 0 0 0 0],129,9,example blrectangleshapewitharrowexplanation rectanglewithtoparrow previewshow gtlivefor previewexpanded true previewheight
+296,[0 0 1 0 0 0],73,11,make sure content element fit vertically within scalable element
+297,[0 0 1 0 0 0],75,11,make sure content element fit horizontally within scalable element
+299,[0 0 1 0 0 0],42,7,contain example space related event
+300,[0 0 0 1 0 0],26,5,represent frame phase
+301,[0 0 1 0 0 0],97,17,phase know start time send corresponding event phase completed
+302,[0 0 0 1 0 0],46,7,copy class blspartamozcanvasbuilder
+304,[0 0 0 1 0 0],40,6,represent text background attribute
+305,[0 0 1 0 0 1],62,11,used together brtext brtextstyler style text
+306,[0 0 0 0 1 0],27,5,public api key message
+307,[0 0 0 0 1 0],26,4,paint set background paint
+310,[0 1 0 0 0 0],27,3,text measurement strategy
+311,[0 0 0 0 0 1],106,14,class bltextelement provides different text measurement strategy suitable specific use case
+312,[0 1 0 0 0 1],146,24,perfect strategy therefore understanding difference important step learning work text bloc
+313,[0 1 0 0 0 0],17,2,label measurement
+315,[0 1 0 0 0 0],69,13,mean height text independent content
+316,[0 1 0 0 0 0],61,13,width given exact bound element text
+317,[0 1 0 0 0 0],155,27,please note since width precise depends content whitespace taken account computing width text element
+319,[0 1 0 0 0 0],18,2,editor measurement
+322,[0 1 0 0 0 0],39,3,method bltextelement editormeasurement
+323,[0 1 0 0 0 0],130,8,example bltextelementmeasurementstrategyexamples textelementwitheditormeasurement nocode previewshow gtlivefor previewheight
+324,[0 1 0 0 0 0],19,2,precise measurement
+326,[0 1 0 0 0 0],108,15,method bltextelement tightmeasurement exactly clip white space surrounding text
+327,[0 1 0 0 0 0],105,20,may useful displaying short piece text usually word centered within larger element
+328,[0 1 0 0 0 0],128,8,example bltextelementmeasurementstrategyexamples textelementwithtightmeasurement nocode previewshow gtlivefor previewheight
+329,[0 1 0 0 0 0],10,1,conslusion
+341,[0 0 1 1 1 0],130,21,example custom stencil creates rounded rectangular element cusomizable background color corner radius
+344,[0 1 0 0 0 0],55,10,example show existing button style
+345,[0 1 0 0 0 0],129,19,following glamorous button reacts various ui interaction event change style according state pressed hovered
+346,[0 1 0 0 0 0],43,3,example brexamplesshowroom glamorousbutton
+347,[0 1 0 0 0 0],51,9,button also disabled prevent click event
+348,[0 1 0 0 0 0],51,3,example brexamplesshowroom glamorousdisabledbutton
+349,[0 1 0 0 0 0],7,1,toggle
+350,[0 1 0 0 0 0],15,2,labelled toggle
+352,[0 1 0 0 0 0],47,3,example brexamplesshowroom materiallabeltoggle
+355,[0 1 0 0 0 0],91,18,compose label icon look create toggle button label icon
+356,[0 1 0 0 0 0],75,15,note order look defines visual order label icon
+357,[0 1 0 0 0 0],42,3,example brexamplesshowroom materialtoggle
+358,[0 1 0 0 0 0],100,21,thus said swapping label icon look move icon right label
+359,[0 1 0 0 0 0],50,3,example brexamplesshowroom materialreversedtoggle
+360,[0 1 0 0 0 0],9,1,accordion
+361,[0 1 0 0 0 0],4,1,tab
+362,[0 1 0 0 0 0],62,13,content tab defined help stencil
+363,[0 1 0 0 0 0],7,1,toolbar
+365,[0 1 0 0 0 0],44,3,example brexamplesshowroom glamoroustoolbar
+367,[0 1 0 0 0 0],4,1,list
+369,[1 0 1 0 0 0],115,15,import new icon using method name brglamorousicons class importiconsfromdirectory using script
+370,[0 1 1 0 0 0],70,13,import png file creates class method name
+371,[0 1 0 0 0 0],43,3,brglamorousicons importiconsfromdirectory
+372,[0 1 0 0 0 0],24,3,gt icon asfilereference
+377,[0 0 1 0 0 0],26,5,define widget look
+384,[0 0 1 0 0 0],67,14,sent look request selection update view model
+386,[0 0 0 1 0 0],19,3,moldable editor
+389,[0 0 1 1 0 0],108,22,sent text editor element element playing role cursor removed editor
+391,[0 1 0 0 0 0],14,2,show gtprintin
+392,[0 1 0 0 0 0],12,2,factorial
+394,[0 1 0 0 0 0],37,3,example brtexteditorexamples newtext
+395,[0 1 0 0 0 0],25,5,next build editor
+396,[0 1 0 0 0 0],39,3,example brtexteditorexamples neweditor
+397,[0 1 0 0 0 0],36,7,attach text enditor
+398,[0 1 0 0 0 0],41,4,example brtexteditorexamples editor text
+399,[0 1 0 0 0 0],34,6,next create editor element
+401,[0 1 0 0 0 0],38,5,finally build everything together
+402,[0 1 0 0 0 0],62,6,example brtexteditorexamples element editortext show gtlivein
+403,[0 1 0 0 0 0],4,1,done
+404,[0 0 1 0 0 0],20,4,allow letter
+407,[0 0 1 0 0 1],89,16,used record text selection interval user drag mouse text editor
+408,[0 0 1 0 0 1],91,15,additionally play role selection strategy support single multiple selection
+409,[0 0 1 0 1 0],109,17,hard job visually updating selection requesting segment holder partially update
+412,[0 0 1 0 0 0],39,8,hold data relevant address
+414,[0 0 1 0 0 1],51,8,sent buttonattribute button created
+415,[0 0 1 0 0 1],95,16,allow connector notified attach additional handler newly created button
+416,[0 0 1 0 0 0],98,19,create filled circle arrow head border background equal color curve
+417,[0 0 1 0 0 0],36,6,create filled triangle arrowhead
+418,[0 0 1 0 0 0],31,7,used remove arrow head
+419,[0 0 1 1 0 0],35,8,dummy tool nothing
+420,[0 0 1 0 0 1],60,13,display list editor object vertical list
+421,[0 0 1 0 0 1],51,9,fetch data diagrammer editor data source
+423,[0 1 0 0 0 0],10,1,diagrammer
+424,[0 0 0 1 0 0],84,14,scriptable toogle group display uniform collection selectable value
+425,[0 1 0 0 0 0],6,1,picker
+427,[0 1 0 0 0 0],7,2,world
+434,[0 1 0 0 0 0],21,4,margin blinsets
+436,[0 1 0 0 0 0],22,3,picker constraintsdo c
+442,[0 0 1 0 0 0],58,11,know extract dependency given example
+447,[1 0 0 0 1 0],47,8,user configure sourceclass
+449,[1 0 0 0 0 0],95,17,create example method defining example executed provider receiver
+451,[1 0 0 0 0 0],101,19,method defined instance side provider consists new instance class
+453,[1 0 0 0 0 0],69,10,optionally user configure factory explicit provider
+455,[1 1 0 0 0 0],90,14,initialize subject example call gtexamplesubjects provider object
+458,[1 1 0 0 0 0],85,15,execute method example receiver pragma argument
+459,[0 0 1 0 0 0],55,11,indicate subject example object
+460,[0 0 0 1 0 1],39,8,default subject example
+462,[0 1 0 0 0 0],142,22,example evaluating example treated differently debugging scenario scenario recorver static dependency
+463,[0 0 1 0 0 0],121,20,maintain context accessed within example processed execution processor
+464,[0 0 0 0 1 0],29,4,value execute processor
+466,[0 0 0 0 1 0],71,11,canprocess verifies processor execute given example
+467,[0 0 0 1 0 0],57,10,implementation moen tree layout algorithm
+470,[1 0 0 0 0 0],76,13,improved older algorithm ability handle non uniform sized node
+478,[1 0 0 0 0 0],70,10,accomplish us shape represented polyline structure
+482,[0 0 1 0 0 0],184,28,merging contour minimum horizontal vertical offset sibling placed resepct upper left sibling depending layout orientation calculated
+483,[0 0 1 0 0 0],85,14,bottom traversal finished calculation offset finished well
+487,[0 0 1 0 0 0],171,27,additionally implementation support alignment node top center bottom case vertical layout left center right case horizontal layout
+488,[0 0 1 0 0 0],218,39,done calculation difference size node compared largest node level well difference size parent compared largest node parent level
+489,[0 0 0 0 0 1],204,25,gtgradtreelayout superclass gtgradhorizontaltreelayout gtgradverticaltreelayout class contains generic tree layout method definition method two subclass need redefine
+490,[0 0 0 0 0 1],184,28,generally difference implementation hozitonal vertical variant really small revolving around one using setting x coordinate
+492,[0 0 1 0 0 0],75,12,compute smallest circle encloses specified array circle
+493,[0 0 1 0 0 0],145,20,enclosing circle computed using matou ek sharir welzl http wwwinfethzch personal emo publfiles subexlinprog alg pdf algorithm
+495,[0 1 0 0 0 0],55,11,add circle one one starting larger one
+496,[0 1 0 0 0 0],51,9,circle enclosure represented cyan circle
+499,[0 1 0 0 0 0],122,8,example gtgraphcircleenclosureexamples enclosurewithonecircle previewshow gtpreviewfor previewexpanded previewheight
+501,[0 1 0 0 0 0],125,19,two circle enclosure also special case derived directly method gtgraphcircleenclosure class enclosure
+502,[0 1 0 0 0 0],123,8,example gtgraphcircleenclosureexamples enclosurewithtwocircles previewshow gtpreviewfor previewexpanded previewheight
+503,[0 1 0 0 0 0],45,8,three circle enclosure special case
+505,[0 1 0 0 0 0],61,13,let add third circle enclosure see result
+506,[0 1 0 0 0 0],125,8,example gtgraphcircleenclosureexamples enclosurewiththreecircles previewshow gtpreviewfor previewexpanded previewheight
+507,[0 1 0 0 0 0],201,28,starting four circle enclosure computed recursively building updating basis enclosure consisting one three circle method gtgraphcircleenclosure class enclosureall
+508,[0 1 0 0 0 0],124,8,example gtgraphcircleenclosureexamples enclosurewithfourcircles previewshow gtpreviewfor previewexpanded previewheight
+511,[0 0 0 1 0 0],53,9,roforcebasedlayout inspired code
+522,[0 1 0 0 0 0],78,12,adapted extract paper squarified treemaps mentioned
+523,[0 1 0 0 0 0],375,40,suppose rectangle width example gtgraphtreemaplayoutexamples squarifywithsevennodes label width height example gtgraphtreemaplayoutexamples squarifywithsevennodes label height furthermore suppose rectangle must subdivided seven rectangle area example gtgraphtreemaplayoutexamples squarifywithsevennodes label nodevalues
+524,[0 1 0 0 0 0],38,7,area subdivided follows
+525,[0 1 0 0 0 0],133,10,example gtgraphtreemaplayoutexamples squarifywithsevennodes nocode codeexpanded false previewexpanded true previewshow gtpreviewfor
+526,[0 1 0 0 0 0],66,12,first step algorithm split initial rectangle
+527,[0 1 0 0 0 0],90,14,choose horizontal subdivision original rectangle wider high
+530,[0 1 0 0 0 0],140,14,aspect ratio first rectangle example gtgraphtreemaplayoutexamples squarifywithsevennodesfirststep label worstvaluerounded
+531,[0 1 0 0 0 0],97,6,example gtgraphtreemaplayoutexamples squarifywithsevennodesfirststep previewexpanded true nocode
+532,[0 1 0 0 0 0],48,9,next add second rectangle first
+533,[0 1 0 0 0 0],132,12,worst aspect ratio improves example gtgraphtreemaplayoutexamples squarifywithsevennodessecondstep label worstvaluerounded
+534,[0 1 0 0 0 0],98,6,example gtgraphtreemaplayoutexamples squarifywithsevennodessecondstep previewexpanded true nocode
+535,[0 1 0 0 0 0],202,25,however add next area original rectangle aspect ratio rectangle example gtgraphtreemaplayoutexamples squarifywithsevennodesthirdstep label worstvaluerounded
+537,[0 1 0 0 0 0],120,22,therefore decide reached optimum left half step two start processing right half
+538,[0 1 0 0 0 0],95,15,initial subdivision choose vertical rectangle higher wider
+540,[0 1 0 0 0 0],98,6,example gtgraphtreemaplayoutexamples squarifywithsevennodesfourthstep previewexpanded true nocode
+542,[0 1 0 0 0 0],231,17,worst aspect ratio decrease example gtgraphtreemaplayoutexamples squarifywithsevennodesfourthstep label worstvaluerounded example gtgraphtreemaplayoutexamples squarifywithsevennodesfifthstep label worstvaluerounded
+544,[0 1 0 0 0 0],297,30,addition next area however improve result worst aspect ratio increase example gtgraphtreemaplayoutexamples squarifywithsevennodesfifthstep label worstvaluerounded example gtgraphtreemaplayoutexamples squarifywithsevennodessixthstep label worstvaluerounded
+545,[0 1 0 0 0 0],97,6,example gtgraphtreemaplayoutexamples squarifywithsevennodessixthstep previewexpanded true nocode
+546,[0 1 0 0 0 0],72,14,reject previous step start fill right top partition
+549,[0 1 0 0 0 0],33,6,final result following
+554,[0 0 0 0 0 1],47,7,used class gtgraphtreemapsquarifystep
+556,[0 1 0 0 0 0],75,4,example gtgraphtreemaplayoutexamples squarifywithfournodesfirstarea nocode
+557,[0 1 0 1 0 0],62,12,installer shared library along side image vm
+559,[0 1 0 0 0 0],9,1,installer
+560,[0 1 0 0 0 0],11,2,extension
+562,[0 0 0 0 0 1],47,10,ui may want display transcript
+564,[0 0 1 0 0 0],46,8,forward view definition another object
+566,[0 0 1 0 0 0],91,18,also useful situtions object created purpose view
+570,[0 1 0 0 0 0],71,12,given point domain object euclidian coordinate system
+571,[0 1 0 0 0 0],100,20,projection point continuous x axis would projection axis would
+579,[0 0 1 0 0 0],90,14,gtremoteinspector provides mechanism remote viewing object rest json api
+580,[0 0 0 0 1 0],27,5,public api key message
+582,[0 0 0 0 1 0],11,2,message two
+583,[0 0 0 0 1 0],41,7,bonus point create instance
+584,[0 0 1 1 0 0],96,18,release strategy us current loaded tag repository version number
+586,[0 0 1 0 0 0],52,8,version number already exists repository
+587,[1 0 0 0 0 0],45,10,passive export metadata
+591,[0 1 0 0 0 0],119,13,see method gtrlbaselinetagreleasestrategy assertcompatiblewithrepository assertion check used
+592,[0 0 1 0 0 0],137,24,execute commit current change staged commit push tag corresponding version number repository release
+593,[1 0 0 0 0 1],74,10,work strategy type class gtrlsemantictagreleasestrategy
+594,[1 0 0 0 0 0],95,8,see method gtrlsemantictagreleasestrategy commitandtagrelease implementation detail
+595,[0 0 1 0 0 0],51,9,increment major number semantic version
+596,[0 0 1 0 0 0],69,14,reset patch minor part version number zero
+597,[1 0 0 0 0 0],134,27,symbolic version number applied patch minor number reset zero created version number
+598,[0 0 1 1 0 0],86,16,abstraction type dependency loading configuration system
+599,[0 0 1 0 0 0],59,9,model option configuring release performed
+600,[0 0 0 0 0 1],64,12,used class gtrlreleasebuilder create new release
+601,[0 0 0 0 0 1],132,19,user configure default option apply repository release configure option individual repository
+602,[0 0 0 0 1 0],57,10,main api method setting default option
+603,[0 0 0 0 1 0],106,12,method gtrlreleaseconfiguration defaultreleasebranchname branch name perform release
+605,[0 0 0 0 1 0],60,6,subclass class gtrlsemanticversioncomputation
+606,[0 0 0 0 1 0],135,18,method gtrlreleaseconfiguration defaultversionnumber version number use case previous release repository
+607,[0 0 0 0 1 0],169,25,method gtrlreleaseconfiguration forcenewrelease force new release repository even new change repository dependency change
+608,[0 0 1 1 0 0],100,19,sent snippet widget look request receive snippet model widget model
+610,[1 0 0 0 0 0],136,20,text extent user space coordinate mostly entirely independent current transformation matrix
+611,[1 0 0 0 0 0],120,25,call cairo scale cr text drawn twice big reported text extent doubled
+612,[1 0 0 0 0 0],157,26,change slightly due hinting assume metric independent transformation matrix otherwise remain unchanged
+614,[0 0 0 1 0 0],85,14,represent sparta canvas provide api perform various drawing operation
+615,[0 0 1 0 0 0],86,14,define abstract api sparta canvas concrete implementation must
+616,[0 0 1 0 0 0],8,1,overview
+617,[0 0 1 0 0 0],94,14,main responsibility create provide backend specific builder various object
+619,[0 1 0 0 0 0],126,27,example one want fill path paint need send fill message canvas get fill builder painter
+622,[0 0 1 0 0 0],104,17,also responsible creation filter primitive filter type used filter operation
+623,[0 0 1 0 0 0],38,7,found filter protocol
+626,[0 0 0 0 1 0],27,5,public api key message
+628,[0 0 0 0 1 0],51,8,stroke create builder stroke drawing operation
+632,[0 0 0 0 1 0],46,7,transform create builder transform canvas
+635,[0 0 0 0 1 0],51,8,filter create builder filter drawing operation
+637,[0 0 0 0 1 0],30,5,bitmap create bitmap factory
+639,[0 0 0 0 1 0],39,6,filter create common filter factory
+641,[0 0 0 0 1 0],82,16,similar create empty canvas size anextent type format
+642,[0 0 0 0 1 0],61,10,asform rasterize return resulting image form
+646,[0 1 0 1 0 0],35,4,canvas spartacanvas extent
+649,[0 1 0 0 0 0],29,5,create triangle vector path
+655,[0 1 0 0 0 0],5,1,close
+657,[0 1 0 1 0 0],100,13,http githubcom syrel sparta raw master image spartacanvas triangle pathpng label trianglepath
+663,[0 1 0 0 0 0],18,4,stop color red
+679,[0 1 0 0 0 0],31,5,stroke triangle blue color
+685,[0 1 0 0 0 0],5,1,draw
+690,[0 1 0 0 0 0],29,5,create gaussian blur filter
+692,[0 1 0 0 0 0],30,3,blur canvas gaussianblurfilter
+696,[0 1 0 0 0 0],13,2,canvas filter
+699,[0 1 0 0 0 0],5,1,draw
+702,[0 0 0 1 0 0],19,4,represent line
+703,[0 0 1 0 0 0],116,21,meant polymorphic rectangle path used path various operation except clipping
+704,[0 0 0 0 1 0],27,5,public api key message
+705,[0 0 0 0 1 0],23,5,get start point
+706,[0 0 0 0 1 0],19,5,get end point
+708,[0 0 1 1 0 0],77,15,represent font face source know retrieve font content
+709,[0 0 0 1 0 0],21,5,buffer source
+710,[0 0 1 0 0 0],55,8,implement basic infrastructure event management
+711,[0 0 0 1 0 0],72,14,composite filter arbitrary amount input soures
+714,[0 1 0 0 0 0],28,3,merge canvas compositefilter
+716,[0 1 0 0 0 0],14,2,source filter
+717,[0 1 0 0 0 0],14,2,source filter
+718,[0 1 0 0 0 0],14,2,source filter
+719,[0 1 0 0 0 0],14,2,source filter
+720,[0 0 1 0 0 0],12,1,tspartapaint
+721,[0 0 1 0 0 0],27,7,define api paint
+722,[0 0 1 0 0 0],8,1,overview
+725,[0 0 0 0 0 1],85,14,sparta canvas provides paint builder used build concerete paint
+727,[0 0 0 0 1 0],37,8,define api abstract paint
+728,[0 0 0 0 1 0],67,10,transformation get current transformation matrix mil
+729,[0 0 0 0 1 0],44,5,transformation set new paint transformation
+730,[0 0 0 0 1 0],36,7,set supposed identity
+731,[0 0 0 0 1 0],22,5,clamp repeat
+732,[0 0 0 0 1 0],24,4,reflect mirror image
+733,[0 0 0 0 1 0],34,8,repeat repeat x axis
+734,[0 0 0 0 1 0],26,5,repeatx repeat x axis
+735,[0 0 0 0 1 0],26,5,repeaty repeat axis
+736,[0 0 0 0 1 0],56,8,rotatebydegrees rotate amount degree clockwise
+737,[0 0 0 0 1 0],56,8,rotatebyradians rotate amount radian clockwise
+738,[0 0 0 0 1 0],50,11,scaleby scale factor point number
+739,[0 0 0 0 1 0],47,9,translateby translate point number
+741,[1 0 0 0 0 0],121,21,generally paint meant external object however additional flexibility implemented trait
+742,[0 0 1 0 1 0],41,8,define api stroke option object
+750,[0 1 0 0 0 0],27,5,create base string
+752,[0 1 0 0 0 0],60,4,adocument gtdocumentexamples new documentwithexistingclass
+753,[0 1 0 0 0 0],30,3,anxdfile adocument savetoxdoc
+754,[0 1 0 0 0 0],19,2,znbaseencoder new
+757,[0 0 1 0 0 0],87,14,check opposite class declared pragma mseproperty type opposite defined
+758,[0 0 1 1 0 0],99,11,famixannotationtypegroup moosegroup containing famix enities type famixannotationtype
+759,[0 1 0 0 0 0],1,1,g
+761,[0 1 0 0 0 0],26,2,g generatewithoutcleaning
+775,[0 1 0 0 0 0],6,1,model
+782,[0 0 0 1 0 0],75,9,parametertype represents symbolic type used parameterizable class
+786,[0 1 0 0 0 0],39,5,aclass parameterizableclass
+787,[0 1 0 0 0 0],39,8,b c parametertype aclass
+788,[0 0 1 0 0 1],61,13,famixtrait model trait found pharo php
+790,[0 0 1 1 0 0],90,16,represent property object currently imported yet imported
+791,[0 0 1 0 0 0],50,10,useful value resolved
+792,[0 0 1 0 0 0],62,14,time value resolved check resolved
+793,[0 0 1 0 0 0],51,11,case push value real property
+794,[0 0 0 1 0 0],11,1,description
+804,[1 0 0 0 0 0],100,19,include system cache case user want store information speed application
+806,[0 0 0 0 1 0],27,5,public api key message
+809,[0 1 0 0 0 0],8,1,example
+812,[0 0 0 1 0 0],11,1,description
+813,[0 0 0 1 0 0],73,13,responsible printing mse format markup model export
+814,[0 1 0 0 0 0],8,1,example
+815,[0 1 0 0 0 0],7,1,printer
+816,[0 1 0 0 0 0],30,3,printer fmmseprinter onstring
+817,[0 1 0 0 0 0],50,4,fmmetametamodel default exportwithprinter printer
+820,[0 0 0 1 0 0],73,12,relation slot representing property containing one element
+821,[0 1 0 0 0 0],8,1,example
+822,[0 1 0 0 0 0],25,3,trait named famixtmethod
+823,[0 1 0 0 0 0],65,7,slot parenttype fmone type famixtwithmethods opposite method
+824,[0 1 0 0 0 0],27,4,package famix trait method
+825,[0 0 0 1 0 0],11,1,description
+826,[0 0 1 1 0 0],66,13,abstract slot used declare fame property class
+827,[0 0 0 1 0 0],71,10,visitor instance famixmetamodelgenerator subclass
+831,[0 0 1 1 0 0],44,6,lan interface comment testing purpose
+832,[0 0 1 1 0 0],99,16,breadth first search bfs algorithm traversing searching tree graph data structure
+833,[0 0 1 0 0 0],182,33,start tree root arbitrary node graph sometimes referred search key explores neighbor node first moving next level neighbour
+836,[0 1 0 0 0 0],41,3,malformalcontext mammal computeconcepts
+842,[0 0 0 0 1 0],21,2,attribute dictionary
+850,[0 0 0 0 1 0],52,8,dictionary attach arbitrary information node
+855,[0 0 0 0 1 0],8,1,incoming
+856,[0 0 0 0 1 0],5,1,level
+858,[0 0 0 0 1 0],8,1,outgoing
+859,[0 0 0 0 1 0],6,1,parent
+861,[0 0 1 0 0 0],153,30,mean find subset edge form tree includes every vertex total weight edge tree minimized
+862,[0 0 1 0 0 0],125,22,graph connected find minimum spanning forest minimum spanning tree connected component
+864,[0 0 1 0 0 0],72,12,detect like horizontal decomposition algos class
+865,[0 1 0 0 0 0],24,4,data fca context lattice
+866,[0 1 0 0 0 0],178,35,data cat fourlegs hair dog smart fourlegs hair dolphin smart marine gibbon hair smart thumbed man smart thumbed whale smart marine
+867,[0 1 0 0 0 0],25,3,fca malformalcontext new
+869,[0 1 0 0 0 0],58,6,mallatticepatterns mallattice context reportpatterns
+870,[0 1 0 0 0 0],16,3,moose model
+871,[0 1 0 0 0 0],26,4,fca model treillis context
+872,[0 1 0 0 0 0],39,5,model moosemodel root allmodels second
+875,[0 1 0 0 0 0],32,5,treillis mallattice context
+878,[0 1 0 0 0 0],37,5,mallattice new viewlattice treillis
+879,[0 1 0 0 0 0],36,4,smalltalk collection class hierarchy
+880,[0 1 0 0 0 0],26,4,fca model treillis context
+881,[0 1 0 0 0 0],66,6,treillis mallattice malformalcontext classhierarchycollection
+882,[0 1 0 0 0 0],45,4,mallatticepatterns treillis reportmodules
+883,[0 0 1 0 0 0],84,16,basic node able host model represent edge additional class
+890,[0 1 0 0 0 0],50,6,term addstring string using camelcasescanner new
+894,[0 0 1 0 0 0],34,6,store metadata package
+896,[0 0 1 0 0 0],34,6,store metadata package
+900,[0 0 0 1 0 0],72,11,moosecustomtask task perform computation specified block
+901,[0 0 0 0 1 0],20,5,main api
+902,[0 0 0 0 1 0],51,6,ablock description adescription length anumber
+904,[0 0 0 0 1 0],77,12,moose entity answer mooseid moosename moosemodel
+906,[0 1 0 0 0 0],85,13,state instance variable provides mechanism extending state entity
+907,[0 1 0 0 0 0],42,5,achieved mooseentitystate
+908,[0 1 0 0 0 0],71,13,using mechanism package extend entity add state
+910,[0 1 0 0 0 0],70,10,important mechanism enable extensibility modularity
+912,[0 1 0 0 0 0],33,2,yourentity yourextendingattribute
+914,[0 1 0 0 0 0],41,5,see mooseentitystate information
+915,[0 1 0 0 0 0],17,2,meta description
+916,[0 1 0 0 0 0],56,10,entity also meta described term fame
+917,[0 1 0 0 0 0],36,7,achieved mean pragmas
+918,[0 1 0 0 0 0],52,11,first class side method
+922,[0 1 0 0 0 0],19,2,package yourpackage
+924,[0 1 0 0 0 0],90,16,pragma mseproperty type must placed getter method denote fame property
+925,[0 1 0 0 0 0],11,2,example
+928,[0 1 0 0 0 0],63,10,msecomment attribute extended different package
+929,[0 1 0 0 0 0],55,5,self privatestate attributeat yourextendingattribute
+930,[0 0 0 0 1 0],13,2,important api
+931,[0 0 0 0 1 0],95,14,mooseid integer uniquely identifies entity within entire moose environment
+933,[0 0 0 0 1 0],69,10,generated automatically creation mooseentity
+935,[0 0 0 0 1 0],51,13,may nil entity part model
+938,[0 0 0 0 1 0],66,10,moosename return symbol qualify current entity
+939,[0 0 0 0 1 0],29,7,unique
+946,[0 0 1 0 0 0],11,1,description
+947,[0 0 1 0 0 0],102,14,trait provides common paradigm agnostic vocabulary query dependency software entity
+949,[0 0 0 0 1 0],70,12,api offer possibility query entity three parameter
+951,[0 0 0 0 1 0],56,7,kind association famixacces famixreference
+952,[0 0 0 0 1 0],66,12,scope query receiver receiver child
+955,[1 0 0 0 0 0],106,13,symbol used find moosequeryabstactdirectionstrategy configure moosequerycalculator
+956,[0 0 0 0 1 0],27,5,public api key message
+957,[0 0 0 0 1 0],169,25,query asymbol afamixassociation look association kind afamixassociation direction described symbol receiver child
+958,[0 0 0 0 1 0],157,22,querylocal asymbol afamixassociation look association kind afamixassociation direction described symbol receiver
+959,[0 0 0 0 1 0],119,19,queryall asymbol look association direction described symbol receiver child
+960,[0 1 0 0 0 0],8,1,example
+969,[0 1 0 0 0 0],25,3,afamixclass queryall
+971,[0 1 0 0 0 0],27,3,afamixmethod queryall
+975,[0 1 0 0 0 0],32,3,afamixmethod queryalllocal
+978,[0 0 1 1 0 0],148,27,ppdebugparser parser trace progress return special object browsed see parsing advanced time
+979,[0 0 0 0 0 1],42,6,used adding enabledebug parsing
+980,[0 0 0 0 1 0],26,5,root result root parser
+985,[0 0 0 1 0 1],93,16,abstract literal parser parses kind literal type specified subclass
+986,[0 0 1 0 0 0],68,12,return failure delegate parser consumed input
+993,[0 0 0 1 0 0],94,14,simple demo script parser combinators compiler construction course
+994,[0 0 1 0 1 0],40,6,ppisland allows imprecise parsing
+995,[0 0 1 0 1 0],54,13,one create parser p calling p island eg
+996,[0 1 0 0 1 0],41,8,p x island accepts following input
+1000,[0 1 0 0 0 0],3,1,xab
+1003,[0 1 0 0 0 0],1,1,c
+1005,[0 1 0 0 0 0],3,1,xac
+1006,[0 1 0 0 0 0],6,1,xb
+1007,[0 1 0 0 0 0],6,1,ab
+1008,[0 1 0 0 1 0],95,17,input represented dot called water water appear island
+1009,[0 1 0 0 0 0],89,19,use want define grammar rule want skip something
+1011,[0 0 0 0 1 0],23,2,afterwaterparser object
+1012,[0 0 0 0 1 0],10,2,awp object
+1013,[0 0 0 0 1 0],24,2,beforewaterparser object
+1014,[0 0 0 0 1 0],10,2,bwp object
+1015,[0 0 0 0 1 0],14,2,context object
+1021,[0 0 0 0 1 0],17,1,beforewaterparser
+1023,[0 0 0 0 1 0],3,1,bwp
+1027,[0 0 0 0 1 0],6,1,island
+1029,[0 0 0 1 0 0],18,5,node filter
+1030,[0 0 1 0 0 0],47,9,xpath node applies filter xml element
+1031,[0 0 1 1 0 0],85,15,pillar specific class manage code generated configuration class
+1032,[0 0 0 1 0 0],37,6,object managing configuration
+1033,[0 0 1 0 0 0],53,11,usually invoked command line
+1034,[0 1 0 0 0 0],22,5,main entry point
+1036,[0 1 0 0 0 0],33,7,type command line
+1037,[0 1 0 0 0 0],78,10,pharo ui pillarimage pillar export latex chapter chapter chapterpillar
+1038,[0 1 0 0 0 0],29,6,obtain
+1040,[0 1 0 0 0 0],31,2,createconfiguration pillarconf
+1041,[0 1 0 0 0 0],41,3,basedirectory filesystem workingdirectory
+1042,[0 1 0 0 0 0],13,1,argdictionary
+1045,[0 1 0 0 0 0],12,1,asdictionary
+1047,[0 0 0 1 0 0],23,3,bash scripting language
+1048,[0 0 0 1 0 1],68,12,visitor specialized visiting book testing code
+1049,[0 0 1 0 0 0],109,16,therefore redefine visitcodeblock specify different parameter codelock may
+1054,[0 0 0 0 1 0],57,8,checkandreportfilenamed start visit given file
+1055,[0 0 0 1 0 0],49,6,class representing documentlistannotation
+1060,[0 0 1 0 0 0],87,11,abstract alternately change template specified mutliple directory
+1062,[0 0 1 0 0 0],69,12,template annotation remplaced raw document html
+1063,[0 0 1 0 0 0],76,11,template value specify directory mustache file
+1064,[0 0 1 0 0 0],70,11,specify complete path starting project directory
+1065,[0 1 0 0 0 0],64,11,also path complete path project directory
+1066,[0 1 0 0 0 0],106,13,doclist path blog limit sort date template template docarticlemustache template templatemustache
+1067,[0 1 0 0 0 0],137,17,doclist path wrongdirectory limit sort date template template docarticlemustache template templatemustache raise error
+1068,[0 0 0 1 0 0],39,9,footnote create
+1069,[0 1 0 0 0 0],13,2,noted astring
+1071,[0 0 1 0 0 0],92,17,convert level pillar heading level heading exported document
+1077,[0 0 0 1 0 0],25,3,hypertext markup language
+1078,[0 0 1 0 0 0],39,8,include reference pillar file
+1079,[0 0 1 0 0 0],91,18,add transformation remplace annotation pillar file tree
+1080,[0 0 0 0 1 0],21,5,tag inputfile
+1082,[0 0 0 0 1 0],78,17,path file key value required write without key
+1083,[0 1 0 0 0 0],8,1,example
+1084,[0 1 0 0 0 0],23,2,inputfile myfilepillar
+1085,[0 1 0 0 0 0],39,4,inputfile value directory myfilepillar
+1089,[0 0 0 1 0 0],71,11,represent abstraction ordered unordered html latex list
+1090,[0 0 0 1 0 0],28,6,writer commonmark
+1099,[0 0 0 1 0 0],46,11,warning parse pillar file
+1100,[0 0 0 1 0 0],56,12,abstract class describe phase export
+1101,[0 0 1 0 0 0],60,11,phase take input transforms return output
+1104,[0 1 0 0 0 0],141,28,create new phase define prority class method define action phase method actionon aninput
+1106,[0 1 0 0 0 0],56,10,also add transformation output like
+1110,[0 1 0 0 0 0],7,2,
+1112,[0 1 0 0 0 0],32,3,configuration self configuration
+1115,[0 0 1 0 0 0],70,12,responsible starting parsing process pillar document
+1120,[0 0 0 1 0 0],34,8,parser pillar syntax
+1122,[0 0 0 1 0 0],38,7,preformatted text source code
+1128,[0 0 0 0 1 0],29,4,package targetted package
+1130,[0 0 0 0 1 0],27,4,method targetted method
+1132,[0 0 0 0 1 0],87,16,width prfigure width would used classic figure inclusion caption
+1134,[0 0 0 0 1 0],87,16,label prfigure label would used classic figure inclusion caption
+1135,[0 0 0 0 1 0],13,3,file label aa
+1138,[0 0 0 1 0 0],48,8,transformer showclass annotation
+1139,[0 0 1 0 0 0],71,14,know visit showclass annotation way transform
+1141,[0 0 0 1 0 0],21,4,error syntax
+1143,[0 0 0 0 0 1],40,7,typically used unnumbered list
+1144,[0 0 1 1 0 0],30,6,class watch served site
+1145,[0 0 1 0 0 0],42,7,second website regenerated
+1146,[0 0 1 1 0 0],85,14,accuracy framework testing numerical accuracy result method
+1148,[0 0 0 1 0 0],50,10,stepper adam moulton method order
+1149,[0 0 1 0 0 0],51,11,step adam moulton method reach order
+1153,[0 0 0 1 0 0],106,15,pmexponentialgenerator us uniform random variable sample exponential distribution
+1155,[0 0 0 0 1 0],61,9,default randomgenerator pmrandom modified
+1159,[0 0 1 0 0 0],63,11,computes gradient function collection number
+1160,[0 1 0 0 0 0],19,5,example f xy x
+1162,[0 1 0 0 0 0],15,6,g value
+1164,[0 1 0 0 0 0],15,6,g value
+1165,[0 1 0 0 0 0],5,3,
+1166,[0 0 0 1 0 1],95,12,implicitannouncer used odesolver announce step result implicitsolverannouncement
+1169,[0 0 0 0 1 0],92,18,ksstatistic return kolmogorovs calculated maximum iow
+1170,[0 0 0 0 1 0],21,9,use max f n
+1171,[0 0 0 0 1 0],93,14,see eg http wwwitlnistgov div handbook eda section edaghtm would wrong
+1172,[0 0 0 0 1 0],60,10,pvalue return probability getting ksstatistic
+1175,[0 1 0 0 0 0],29,3,nd dhbnormaldistribution new
+1177,[0 1 0 0 0 0],82,12,k kolmogorovsmirnov comparedata collect nd random withdistribution nd
+1180,[0 0 1 1 0 0],96,21,implement line search algorithm find minimum function g x interval x
+1181,[0 0 1 0 0 0],48,14,method initialized g g g
+1182,[1 0 0 0 0 0],111,29,step x x suppose minimize g x ieg due nonlinearity g x might fail
+1183,[1 0 0 0 0 0],86,17,case method find x function minimized sense
+1185,[1 0 0 0 0 0],39,9,small alpha default e
+1189,[0 1 0 0 0 0],75,21,funblock implementation g x g g dg g g g
+1192,[0 1 0 0 0 0],34,3,storedmethod setfunction funblock
+1193,[0 1 0 0 0 0],66,7,storedmethod setvalueatzero g derivativeatzero dg valueatone g
+1195,[1 0 0 0 0 0],19,2,optimization tip
+1196,[1 0 0 0 0 0],60,13,guaranteed g x called resulting x
+1197,[1 0 0 0 0 0],105,13,see dhbnewtonzerofinder pmnewtonzerofinder us minimize number function evaluation
+1198,[0 0 0 1 0 0],34,5,represent mathematical matrix
+1199,[0 1 0 0 0 0],35,8,build row follows
+1200,[0 1 0 0 0 0],29,10,pmmatrix row
+1201,[0 0 0 0 1 0],41,6,understand usual matrix operation
+1204,[0 0 0 0 1 0],46,8,solve system x astate starttime endtime
+1205,[1 0 0 0 0 0],44,8,announcement made step taken
+1207,[0 0 1 1 0 0],77,12,test class exercise scikit learn eigenvector flip algorithm
+1209,[0 0 1 0 0 0],33,8,hold state time
+1210,[1 0 0 0 0 0],223,47,want use point since state may vector quantity behavior array number little store point array want array state scalar quantity time
+1211,[0 0 1 1 0 0],78,13,basic stepper execute one timestep specific order given stepsize
+1213,[1 0 0 0 0 0],33,5,stepper perform one single step
+1214,[0 0 0 0 0 1],66,11,general stepper type described stepper concept
+1216,[0 0 0 1 0 0],37,4,glmroassalmorphictest xxxxxxxxx
+1220,[0 0 0 1 0 0],49,10,super class roassal example
+1221,[0 1 0 0 0 0],65,12,try use script know excecution roassal example
+1222,[0 1 0 0 0 0],15,2,example error
+1223,[0 1 0 0 0 0],31,3,example orderedcollection new
+1226,[0 1 0 0 0 0],10,2,example
+1227,[0 1 0 0 0 0],38,6,example gtexamples met time builder
+1228,[0 1 0 0 0 0],21,3,time dateandtime
+1229,[0 1 0 0 0 0],37,5,builder example perform met selector
+1231,[0 1 0 0 0 0],22,4,iftrue builder build
+1232,[0 1 0 0 0 0],26,4,time dateandtime time
+1233,[0 1 0 0 0 0],17,3,time asduration
+1234,[0 1 0 0 0 0],28,5,iftrue example add met time
+1235,[0 1 0 0 0 0],26,6,error error add met
+1236,[0 1 0 0 0 0],37,4,displayingprogress running example
+1237,[0 1 0 0 0 0],15,2,example error
+1238,[0 0 0 1 0 0],53,12,data set set point intended charted
+1239,[0 0 0 0 0 1],42,10,data set added rtgrapher
+1240,[0 0 0 1 0 1],51,11,base class builder roassal like
+1245,[0 0 0 1 0 0],68,11,superclass class hierarchy describing attach point
+1246,[0 0 1 0 0 0],52,9,attach point indicates line start end
+1249,[0 0 1 0 0 1],48,9,simply render view axis configuration
+1250,[0 0 1 0 0 0],30,5,describe cubic bezier spline
+1252,[0 1 0 0 0 0],13,3,v rtview new
+1253,[0 1 0 0 0 0],49,10,rtellipse new color color red alpha size
+1254,[0 1 0 0 0 0],22,5,e elementon begin
+1255,[0 1 0 0 0 0],20,5,e elementon end
+1257,[0 1 0 0 0 0],28,3,lineshape rtbezierline new
+1258,[0 1 0 0 0 0],28,3,lineshape controlelement e
+1259,[0 1 0 0 0 0],61,5,lineshape attachpoint rtshorterdistanceattachpoint instance
+1260,[0 1 0 0 0 0],33,6,edge lineshape edgefrom e e
+1261,[0 1 0 0 0 0],32,9,v add e add e add e add edge
+1265,[0 1 0 0 0 0],23,5,e translateby
+1267,[0 1 0 0 0 0],1,1,v
+1271,[0 0 0 1 0 0],29,6,rtbox rectangular box
+1272,[0 1 0 0 0 0],3,1,eg
+1273,[0 1 0 0 0 0],1,1,v
+1274,[0 1 0 0 0 0],13,3,v rtview new
+1276,[0 1 0 0 0 0],6,2,v open
+1277,[0 0 1 0 0 0],106,18,scale element discretized bucket element bucket associated element
+1278,[0 0 1 0 0 0],56,8,bucket formed creating partition uniformly
+1279,[0 1 0 0 0 0],51,4,rtcalendarexample new installtitle visualizationcsv
+1280,[0 1 0 0 0 0],4,1,code
+1281,[0 1 0 0 0 0],23,4,b tab color dictionary
+1282,[0 1 0 0 0 0],111,14,tab rttabtable new input http blocksorg mbostock raw djicsv asurl retrievecontents usingdelimiter
+1283,[0 1 0 0 0 0],19,2,tab removefirstrow
+1284,[0 1 0 0 0 0],26,3,dictionary dictionary new
+1285,[0 1 0 0 0 0],22,5,tab value ar value
+1286,[0 1 0 0 0 0],62,10,value ar fifth asnumber ar second asnumber ar second asnumber
+1288,[0 1 0 0 0 0],44,14,color
+1290,[0 1 0 0 0 0],49,16,
+1292,[0 1 0 0 0 0],24,3,b rtcalendarbuilder new
+1294,[0 1 0 0 0 0],41,7,b monthshape shape b monthshapepath
+1298,[0 1 0 0 0 0],1,1,
+1302,[0 1 0 0 0 0],28,3,b yearlayout horizontalline
+1306,[0 1 0 0 0 0],20,5,index value
+1308,[0 1 0 0 0 0],26,6,index iftrue index
+1310,[0 1 0 0 0 0],1,1,
+1314,[0 1 0 0 0 0],8,3,b view
+1316,[0 0 0 1 0 0],49,10,roassal shape use rtellipse
+1320,[0 0 1 0 0 0],154,22,qualitative scheme imply magnitude difference legend class hue used create primary visual difference class
+1323,[0 1 0 0 0 0],29,3,colorpalette qualitative show
+1326,[0 0 1 1 0 0],41,9,new class combine attach point
+1327,[0 0 1 1 0 0],118,22,class create editable label shape forget roassal visualization build morphs
+1328,[0 0 1 1 0 0],69,12,rtellipsetest test class testing behavior rtellipse
+1330,[0 1 0 0 0 0],4,1,code
+1336,[0 1 0 0 0 0],11,3,b object v
+1338,[0 0 0 1 0 0],36,4,roexplorabuildertest xxxxxxxxx
+1349,[0 1 0 0 0 0],10,2,edge
+1359,[0 1 0 0 0 0],29,5,example using spawn block
+1367,[0 1 0 0 0 0],57,10,filter spawnblock el rtview new addall el copy
+1371,[0 0 1 0 0 0],21,5,define range gt
+1373,[0 1 0 0 0 0],18,4,g view rtview new
+1374,[0 1 0 0 0 0],14,3,d rtdata new
+1375,[0 1 0 0 0 0],35,6,d dotshape color color blue trans
+1376,[0 1 0 0 0 0],36,4,d point rtshape withallsubclasses
+1377,[0 1 0 0 0 0],33,7,d cl cl numberofmethods
+1378,[0 1 0 0 0 0],38,7,d x cl cl numberoflinesofcode
+1379,[0 1 0 0 0 0],9,3,g add d
+1380,[0 1 0 0 0 0],115,12,rtgrapherselectrangeviewcontext ongrapher g callback element g view attributeat presentation selection element
+1381,[0 1 0 0 0 0],1,1,g
+1382,[0 0 1 0 0 0],57,9,highlight indicates interaction done
+1384,[0 1 0 0 0 0],3,1,eg
+1388,[0 1 0 0 0 0],24,2,methodselector selector
+1389,[0 1 0 0 0 0],23,2,methodsnames rtmethods
+1393,[0 1 0 0 0 0],35,5,b classnameshape color color black
+1395,[0 1 0 0 0 0],35,5,b boxshape bordercolor color black
+1396,[0 1 0 0 0 0],43,5,b addobjects collection withallsubclasses
+1403,[0 1 0 0 0 0],22,3,b interaction showedge
+1404,[0 1 0 0 0 0],25,2,connecttoall subclass
+1405,[0 1 0 0 0 0],23,3,b interaction showlabel
+1408,[0 1 0 0 0 0],34,3,node rthighlightablewithcursor
+1409,[0 1 0 0 0 0],43,5,b edge movebehind connectfrom superclass
+1410,[0 1 0 0 0 0],16,3,b layout radial
+1419,[0 1 0 0 0 0],3,1,eg
+1421,[0 1 0 0 0 0],37,7,e rtellipse new size elementon
+1422,[0 1 0 0 0 0],8,3,v add e
+1423,[0 1 0 0 1 0],59,13,e rtlabeled new text value value value asstring
+1426,[0 0 0 0 1 0],12,2,color object
+1427,[0 0 0 0 1 0],20,2,highlightable object
+1428,[0 0 0 0 1 0],19,2,offsetonedge object
+1429,[0 0 0 0 1 0],15,2,position object
+1431,[0 0 0 0 1 0],6,1,canvas
+1435,[0 0 0 0 1 0],13,1,highlightable
+1438,[0 0 0 0 1 0],12,1,offsetonedge
+1440,[0 0 0 0 1 0],8,1,position
+1442,[0 0 0 0 1 0],4,1,text
+1445,[0 1 0 0 0 0],4,1,code
+1446,[0 1 0 0 0 0],13,4,v b b edge
+1447,[0 1 0 0 0 0],12,3,b rtbox new
+1449,[0 1 0 0 0 0],7,1,element
+1450,[0 1 0 0 0 0],17,4,translateto
+1451,[0 1 0 0 0 0],14,2,rtdraggable
+1452,[0 1 0 0 0 0],12,3,b rtbox new
+1454,[0 1 0 0 0 0],7,1,element
+1455,[0 1 0 0 0 0],19,4,translateto
+1456,[0 1 0 0 0 0],14,2,rtdraggable
+1457,[0 1 0 0 0 0],28,3,edge orderedcollection new
+1458,[0 1 0 0 0 0],150,22,edge add rtarrowedline new head rtfilleddiamond ashead color color black width attachpoint rtrectangleattachpoint new offset edgefrom b b
+1460,[0 1 0 0 0 0],142,20,edge add rtdecoratedline new filleddiamondhead color color green width attachpoint rtrectangleattachpoint new offset edgefrom b b
+1464,[0 1 0 0 0 0],6,2,add b
+1466,[0 1 0 0 0 0],27,6,edge update
+1467,[0 1 0 0 0 0],1,1,v
+1468,[0 0 1 0 0 0],44,9,interpolator way create line svg
+1470,[0 1 0 0 0 0],138,24,instance visualization rtview element visualizalitations use explore web browser
+1477,[0 0 0 0 1 0],12,2,popup object
+1478,[0 0 0 0 1 0],11,2,view object
+1479,[0 0 0 0 1 0],5,1,popup
+1483,[0 0 1 0 0 0],77,11,continuous attach point presumes shape rotated rectangle
+1484,[0 1 0 0 0 0],13,3,v rtview new
+1485,[0 1 0 0 0 0],33,7,e rtbox new size elementon
+1486,[0 1 0 0 0 0],37,7,e rtellipse new size elementon
+1488,[0 1 0 0 0 0],23,5,e translateby
+1489,[0 1 0 0 0 0],17,3,e rtdraggable
+1490,[0 1 0 0 0 0],17,3,e rtdraggable
+1493,[0 1 0 0 0 0],22,6,l edgefrom e e
+1494,[0 1 0 0 0 0],8,3,v add l
+1495,[0 1 0 0 0 0],1,1,v
+1498,[0 0 0 0 0 1],13,1,dcrtresizable
+1499,[0 0 1 0 0 0],42,5,rtrotatedlabel describes rotated label
+1500,[0 1 0 0 0 0],10,3,v shape e
+1501,[0 1 0 0 0 0],13,3,v rtview new
+1502,[0 1 0 0 0 0],86,15,shape rtrotatedlabel new text c class c name angleindegree c c numberofmethods
+1503,[0 1 0 0 0 0],49,5,e shape elementson collection withallsubclasses
+1505,[0 1 0 0 0 0],12,3,v addall e
+1506,[0 1 0 0 0 0],6,2,v open
+1507,[0 0 0 1 0 0],45,8,class nice scale check subclass
+1509,[0 0 1 0 0 0],114,23,draggable view allows keep mark position view scale large view
+1512,[0 0 0 0 1 0],52,7,default configuration isbasic isstatic
+1514,[0 0 0 0 1 0],90,19,bar specificity like scalable give idea size view
+1525,[0 0 1 1 0 0],109,22,class create visualization ring center root tree arc sub tree
+1526,[0 0 1 0 0 0],92,19,customize angle arc play radius width arc
+1528,[0 1 0 0 0 0],4,1,code
+1532,[0 1 0 0 0 0],97,15,b shape colorelement el el model subclass isempty iftrue color purple iffalse color lightgray
+1534,[0 1 0 0 0 0],25,4,b view rtdraggableview
+1536,[0 1 0 0 0 0],8,3,b view
+1537,[0 0 0 1 0 0],105,18,rtsvgabstractline refers common interface regular svg line bezier line path
+1541,[0 0 0 1 0 0],62,12,rtsvgpopup kind popup born certain element
+1542,[0 0 1 0 0 0],92,16,click refers posibility activating popup element clicked
+1548,[0 0 0 1 1 0],53,9,rttextword represents one word original text
+1549,[0 0 0 0 1 0],17,2,interval interval
+1551,[0 0 0 0 1 0],8,1,interval
+1552,[0 0 0 0 1 0],41,8,interval word original text
+1556,[0 0 0 1 0 1],85,11,rtverticalmultipledata represents group data point vertically located
+1557,[1 0 0 0 0 0],32,7,group x value
+1558,[1 0 0 0 0 0],30,5,negative data allowed
+1561,[0 1 0 0 0 0],16,3,b rtgrapher new
+1565,[0 1 0 0 0 0],19,3,addmetric third
+1567,[0 1 0 0 0 0],42,5,barchartwithbartitle first rotation
+1572,[0 1 0 0 0 0],16,3,b rtgrapher new
+1574,[0 1 0 0 0 0],17,3,point class
+1575,[0 1 0 0 0 0],33,3,addmetric numberoflinesofcode
+1576,[0 1 0 0 0 0],29,3,addmetric numberofmethods
+1577,[0 1 0 0 0 0],41,5,barchartwithbartitle name rotation
+1580,[0 0 1 1 0 0],114,18,rtweightedcirclelayout circle layout give space big element fewer space small element
+1583,[0 1 0 0 0 0],79,17,element rtellipse new size color color red size vv vv elementson
+1584,[0 1 0 0 0 0],18,3,v addall element
+1585,[0 1 0 0 0 0],35,3,rtweightedcirclelayout element
+1586,[0 1 0 0 0 0],1,1,v
+1587,[0 0 1 1 1 0],170,26,shape represent openstreetmap background object track camera zoom level translation build view corresponding part openstreetmap
+1589,[0 0 0 0 1 0],19,2,rectangle rectangle
+1591,[0 0 0 0 1 0],30,5,tile dictionary point form
+1593,[0 0 0 0 1 0],8,1,position
+1595,[0 0 0 0 1 0],19,4,bound shape
+1610,[1 0 0 0 0 0],40,8,lon roassal space l l
+1614,[1 0 0 0 1 0],102,18,depending rtview size canvas parameter get right tile osm display
+1616,[1 0 0 0 1 0],47,9,camera get zoom level offset
+1617,[1 0 0 0 1 0],55,11,compute osm zoom level camera zoom value
+1618,[1 0 0 0 1 0],54,8,make remainder zoom transform inside trosmshape
+1619,[1 0 0 0 1 0],91,18,take corner bounding box get lat long get tile x based previous zoom level
+1620,[1 0 0 0 1 0],44,6,set clipping rectangle trosmshape bound
+1621,[1 0 0 0 0 0],18,3,display tile
+1624,[1 0 0 0 0 0],35,7,remove tile used display
+1625,[0 0 1 0 0 0],56,12,load html remote file inject dom
+1626,[0 0 0 1 0 0],70,13,cache reaps element instead incrementally
+1628,[0 0 0 0 0 1],45,8,background process send reap
+1634,[0 0 1 0 0 0],86,15,streaming desired response flushed sending flush message
+1637,[0 1 0 0 0 0],59,10,example search result page might use something like
+1638,[0 1 0 0 0 0],23,2,rendercontenton acanvas
+1641,[0 1 0 0 0 0],14,2,acanvas flush
+1645,[0 1 0 0 0 0],14,2,acanvas flush
+1646,[0 1 0 0 0 0],30,5,flush search result
+1649,[0 0 0 0 0 1],73,12,uncommitted response handled usual server adapter
+1651,[0 0 0 1 0 0],43,9,basically key value pair string
+1655,[1 0 0 0 0 0],13,2,netscape spec
+1657,[1 0 0 0 0 0],11,2,cookie spec
+1658,[1 0 0 0 0 0],32,4,http toolsietforg html rfc
+1660,[1 0 0 0 0 0],33,4,http toolsietforg html rfc
+1662,[1 0 0 0 0 0],52,6,http msdnmicrosoftcom en u library msaspx
+1663,[1 0 0 0 0 0],49,5,http bugzillamozillaorg show bugcgiid
+1664,[0 0 0 1 0 1],87,14,compared warequestcookie represent information sent user agent
+1666,[0 1 1 0 0 0],84,15,datalist together new list attribute input used make comboboxes
+1667,[0 1 0 0 0 0],19,3,input list browser
+1668,[0 1 0 0 0 0],20,3,datalist id browser
+1669,[0 1 0 0 0 0],19,3,option value safari
+1670,[0 1 0 0 0 0],30,4,option value internet explorer
+1671,[0 1 0 0 0 0],18,3,option value opera
+1672,[0 1 0 0 0 0],20,3,option value firefox
+1674,[0 0 1 0 0 0],65,8,wadelayedanswerdecoration add delay displaying component
+1675,[0 0 1 1 0 0],102,15,wadevelopment collection convenience method dealing seaside development squeak
+1676,[0 0 1 0 0 0],28,5,exist legacy purpose
+1677,[0 0 1 0 1 0],101,16,encode everything written using nextput nextputall onto wrapped stream
+1678,[0 0 1 0 0 1],103,15,waerrorhandler catch error warning provides two method handling type exception
+1682,[1 0 0 0 0 0],162,25,either method implemented default implementation call handledefault used provide common behaviour exception type
+1684,[0 0 0 0 1 0],19,2,maximumsize integer
+1685,[0 0 0 0 1 0],26,2,maximumrelativeage integer
+1686,[0 0 0 0 1 0],26,2,maximumabsoluteage integer
+1691,[0 0 0 0 1 0],22,5,maximum size
+1693,[0 0 0 0 1 0],18,1,maximumrelativeage
+1695,[0 0 0 0 1 0],15,4,limit
+1697,[0 0 0 0 1 0],18,1,maximumabsoluteage
+1698,[0 0 0 0 1 0],109,19,many second creation session considered expired matter last accessed
+1699,[0 0 0 0 1 0],15,4,limit
+1705,[0 0 0 0 1 0],85,13,removerelativeoldest remove entry accessed longest time
+1706,[0 0 0 0 1 0],81,12,removeabsoluteoldest remove entry created longest time ago
+1707,[0 0 0 0 1 0],58,3,signalerror signal wamaximumnumberofsessionsexceedederror
+1711,[0 0 0 0 1 0],33,7,button inst var must set
+1712,[0 0 0 0 1 0],157,28,string symbol button inst var decorated component must implement method name called button selected
+1713,[0 0 0 0 1 0],40,6,button collection string symbol
+1716,[0 0 1 0 0 1],68,12,form element act container input element button
+1717,[1 0 0 0 0 0],16,2,evaluation order
+1718,[1 0 0 0 0 0],62,11,input field callback evaluated order
+1719,[1 0 0 0 0 0],20,4,appear xhtml
+1720,[1 0 0 0 0 0],48,8,button always evaluated last matter
+1721,[1 0 0 0 0 0],26,4,positioned
+1728,[0 0 1 0 0 0],92,17,value src attribute specifies uri image decorate button
+1735,[0 0 1 0 0 0],100,12,platform implement subclass specifying behaviour unimplemented method
+1738,[0 0 0 0 0 1],44,7,document handler query field used
+1739,[0 0 0 1 0 0],68,9,walabelledformdialog abstract class generating html form
+1740,[0 1 1 0 1 0],112,17,given data model walabelledformdialog display label input field instance variable interest
+1741,[0 1 1 0 1 0],47,9,user supplied data placed data model
+1743,[0 1 0 0 1 0],84,15,model method return object whose field wish populate date
+1744,[0 1 0 0 1 0],49,8,row method return collection symbol
+1745,[0 1 0 0 1 0],75,14,symbol used generate accessor method data model
+1746,[0 0 1 0 0 0],57,12,standard text input field used row data
+1748,[0 0 1 0 0 0],34,5,see rendernameon example
+1749,[1 1 0 0 1 0],36,8,default form one button ok
+1750,[1 1 0 0 1 0],87,16,override button method change text number submit button form
+1751,[1 0 0 0 0 0],74,11,override defaultbutton method indicate button default
+1753,[1 0 0 0 0 0],18,3,see example
+1755,[0 1 0 0 0 0],10,1,initialize
+1779,[0 1 0 0 0 0],17,2,rendernameon html
+1780,[0 1 0 0 0 0],69,12,show specily special input instead using simple text field
+1781,[0 1 0 0 0 0],11,2,html select
+1783,[0 1 0 0 0 0],14,2,selected roger
+1785,[0 0 0 0 1 0],105,15,contact class used instance variable name phonenumber standard getter setter method
+1786,[0 0 0 1 0 0],71,12,walistattribute attribute restricted list value
+1787,[0 0 1 1 0 0],78,15,wamemoryinput dialog allows user enter amount memory
+1790,[0 0 0 1 0 0],27,4,defines embedded object
+1791,[0 0 1 0 0 0],63,9,optgroup element allows author group choice logically
+1792,[0 0 1 0 0 0],177,32,particularly helpful user must choose long list option group related choice easier grasp remember single long list option
+1795,[0 0 1 1 0 1],64,9,implementation visitor pattern painter subclass
+1796,[0 0 1 1 0 0],110,18,wapath represents path navigation breadcrumb web page display standard breadcrumb xxx yyy zzz
+1797,[0 0 1 0 0 1],84,15,wapath maintains stack association one location page path
+1798,[0 0 0 0 0 1],68,12,association key text displayed breadcrimb
+1799,[0 0 0 0 0 1],96,18,association value object choosing code us restore page
+1800,[0 0 0 0 1 0],73,14,add path use method wapath pushsegment anobject name lulu
+1803,[0 0 0 0 1 0],78,16,code notified user click link wapath object
+1804,[0 0 0 0 1 0],114,19,render page call wapath currentsegment get current object generate page accordingly
+1808,[0 0 0 1 0 0],34,7,pharo specific url encoder
+1809,[0 0 0 1 0 0],34,7,pharo specific xml encoder
+1811,[0 0 1 0 0 0],88,15,plugins easy way add remove additional tool without changing codebase
+1815,[0 0 1 0 0 0],217,38,add filter wasession example avoid session hijacking add static request handler waapplication wadispatcher might restrict access handler ip change
+1817,[0 0 1 0 0 0],107,14,warequestcontext encapsulates knowledge available processing single request
+1820,[0 1 1 0 0 0],38,5,waselection creates selectable list
+1823,[1 0 0 0 0 0],78,16,return item selected user index text shown user
+1824,[0 1 0 0 0 0],9,1,selection
+1828,[0 0 0 1 0 0],54,10,waserver abstract base class server
+1829,[0 0 0 0 1 0],6,1,codec
+1830,[0 0 0 0 1 0],22,1,usessmalltalkencoding
+1831,[0 0 0 0 1 0],13,2,codec wacodec
+1832,[0 0 0 0 1 0],5,1,codec
+1833,[0 0 0 1 0 0],51,9,superclass xml element class
+1834,[1 0 0 0 0 0],22,4,main addition
+1835,[1 0 0 0 0 0],17,3,element name tag
+1836,[1 0 0 0 0 0],39,4,attribute instance wahtmlattributes
+1838,[0 0 1 0 0 0],74,12,wauptimetracker used track timestamp image last booted
+1839,[0 0 1 0 1 1],53,9,access timestamp image booted follows
+1842,[0 0 1 0 1 1],60,11,access duration long ago image booted follows
+1845,[0 0 1 0 1 1],60,9,system startup imageboottime set automatically

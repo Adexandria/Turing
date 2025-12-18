@@ -1,0 +1,1369 @@
+index,labels,comment_length,word_count,comment_clean
+1,[0 0 0 0 1],14,1,functionality
+8,[1 0 0 0 0],62,13,used decorator call wrap execution
+12,[1 0 0 0 0],70,11,exit commits transaction release savepoint normal exit
+14,[1 0 0 0 0],69,14,possible disable creation savepoints goal
+16,[1 0 0 0 0],70,12,stack savepoints identifier maintained attribute
+18,[1 0 0 0 0],40,7,none denotes absence savepoint
+24,[0 0 0 1 0],68,12,implementation basic test decorator
+27,[0 0 0 1 0],75,13,intended autofieldmixin become public api possible
+29,[0 0 0 1 0],23,4,stored database
+31,[1 0 0 0 0],57,8,automatically generated field subclass autofield
+33,[1 0 0 0 0],46,9,implemented field used instead
+34,[0 0 1 0 0],70,12,issue addressed metaclass could used
+38,[0 0 0 0 1],39,7,service specific account type bar
+40,[0 0 0 0 1],7,1,derive
+41,[0 0 1 0 0],64,13,use class want access mechanism
+42,[0 0 1 0 0],66,13,parse command line argument work code call
+43,[0 0 1 0 0],58,12,response need change behavior
+46,[1 0 0 0 0],65,10,command parsing execution behavior normal flow work
+49,[1 0 0 0 0],49,8,django admin managepy load command class
+52,[1 0 0 0 0],51,10,run argv method call create parser get
+54,[1 0 0 0 0],49,7,environment change requested option like
+55,[1 0 0 0 0],47,8,pythonpath call execute method
+56,[1 0 0 0 0],29,4,passing parsed argument
+59,[1 0 0 0 0],55,9,calling handle method parsed argument
+61,[1 0 0 0 0],60,12,output command intended produce block
+62,[1 0 0 0 0],53,10,sql statement wrapped begin commit
+63,[1 0 0 0 0],1,1,
+64,[1 0 0 0 0],44,8,handle execute raised exception eg
+65,[1 0 0 0 0],56,10,commanderror run argv instead print error
+66,[1 0 0 0 0],19,4,message stderr
+68,[0 0 1 0 0],64,10,subclass many built command command type either place
+69,[0 0 1 0 0],57,11,logic handle perform additional
+70,[0 0 1 0 0],56,11,parsing work handle delegate
+71,[0 0 1 0 0],30,4,specialized method needed
+74,[0 1 0 0 0],60,11,short description command printed
+75,[0 1 0 0 0],18,2,output transaction
+76,[0 1 0 0 0],52,8,boolean indicating whether command output sql
+78,[0 1 0 0 0],31,6,wrapped begin commit
+83,[0 1 0 0 0],62,11,migration disk match migration database
+85,[0 1 0 0 0],68,13,boolean true entire django project checked error
+86,[0 1 0 0 0],31,5,prior executing command
+87,[0 1 0 0 0],46,7,validate individual application model
+91,[0 1 0 0 0],13,2,app registry
+92,[0 0 1 0 1],74,11,class subclass responsible emitting schema changing
+93,[0 0 1 0 1],68,9,statement database model creation removal alteration field
+94,[0 0 1 0 1],36,6,renaming index fiddling
+95,[0 0 0 0 1],37,6,base class query expression
+97,[0 0 1 0 0],71,11,using base class requires subclassing provide response mixin
+98,[0 0 0 0 1],42,8,list object published given year
+99,[0 0 0 0 1],62,8,secure password hashing using bcrypt algorithm recommended
+101,[1 0 0 0 0],38,6,must first install bcrypt library
+103,[0 0 1 0 0],18,4,useful
+105,[1 0 0 0 0],43,9,example following used
+109,[1 0 0 0 0],18,2,radiochoice label
+111,[1 0 0 0 0],5,1,label
+112,[1 0 0 0 0],10,3,endfor
+114,[0 0 0 1 0],57,10,ensure one instance alias exists per thread
+115,[0 1 0 0 1],38,5,class creating enumerated choice
+117,[0 0 0 1 0],31,7,given file like object
+119,[0 0 0 0 1],54,11,class act client testing purpose
+120,[0 0 0 1 0],56,11,allows user compose get post request
+122,[0 0 0 1 0],58,9,server response object annotated detail
+124,[0 0 0 1 0],31,5,process serving request
+126,[0 0 0 1 0],61,10,thus session detail lifetime client instance
+127,[0 0 1 0 0],59,11,intended replacement twill selenium
+129,[0 0 1 0 0],58,10,context template produced view rather
+130,[0 0 1 0 0],30,6,html rendered end user
+131,[0 0 0 0 1],54,10,provide ability combine one two object
+132,[0 0 0 0 1],15,2,connector
+133,[1 0 0 0 0],25,7,example f foo f bar
+140,[0 0 0 0 1],60,9,test various hook using custom template context
+141,[0 0 0 0 1],62,12,test ability mixin custom validate key method
+144,[0 0 0 1 0],49,7,backend override default key validation
+145,[0 1 0 0 1],71,10,test custom remoteusermiddleware subclass custom http auth user
+146,[0 0 0 0 1],61,11,used test database argument signal
+148,[0 0 0 0 1],62,12,invalid field passed admin view via url query string
+149,[0 0 0 0 1],36,6,django specific rest html tweak
+154,[0 0 0 0 1],73,11,pickling class fails unpickling error incorrect
+155,[0 0 0 0 1],26,5,argument passed init
+156,[0 0 0 0 1],72,13,wrapper around bytesio restricts read since data
+157,[0 0 0 0 1],69,14,network sought cannot read outside content
+158,[0 0 0 0 1],7,1,length
+159,[0 0 0 1 0],66,13,make sure view anything test client
+161,[0 0 0 1 0],47,9,try store message first backend
+162,[0 0 0 1 0],18,3,store unstored
+164,[0 0 1 0 0],28,5,model added ticket
+166,[0 0 0 0 1],19,3,table column field
+167,[0 0 0 0 1],30,5,accept encoding header
+168,[0 0 0 0 1],61,11,widget split input two input type hidden input
+170,[0 0 0 1 0],22,4,difference
+171,[0 0 0 1 0],75,12,assigning width height width field height field appropriate
+172,[0 0 0 0 1],61,13,form replaces model url field custom one
+173,[0 0 0 0 1],28,7,model fk
+178,[1 0 1 0 0],74,11,related instance rendering called programmatically case
+179,[0 0 0 1 1],43,8,read allowed device
+183,[0 0 0 0 1],52,8,base class provides complete list interface
+186,[0 0 0 1 0],36,6,function get single external self
+187,[0 0 0 1 0],48,9,return single item index general use
+188,[0 0 0 1 0],46,11,index always satisfy len self
+190,[0 0 0 1 0],52,10,use within class optional
+191,[0 0 0 1 0],63,11,note get single internal get single internal return
+192,[0 0 0 1 0],53,8,different type object set list must distinguish
+193,[0 0 0 1 0],46,7,two handle appropriately
+194,[0 0 0 1 0],37,6,function set list self length item
+195,[0 0 0 1 0],27,4,recreate entire object
+197,[0 0 0 1 0],61,11,therefore necessary cache value temporary
+198,[0 0 0 1 0],15,3,temp list item
+199,[0 0 0 1 0],39,5,clobbering original storage
+200,[0 0 0 1 0],34,6,function set single self value
+201,[0 0 0 1 0],48,10,set single item index value optional
+203,[0 0 0 1 0],26,5,object using set list
+204,[0 0 0 1 0],17,3,function len self
+205,[0 0 0 1 0],17,3,return length
+206,[0 0 0 1 0],13,2,int minlength
+207,[0 0 0 1 0],33,5,minimum legal length optional
+208,[0 0 0 1 0],13,2,int maxlength
+209,[0 0 0 1 0],33,5,maximum legal length optional
+210,[0 0 0 1 0],21,4,type tuple allowed
+211,[0 0 0 1 0],46,9,type tuple allowed item type optional
+212,[0 0 0 0 1],36,7,test logout login view
+213,[0 0 0 1 0],70,12,make list filter destroy existing escaping result
+214,[0 0 0 1 0],8,1,escaped
+215,[0 0 0 0 1],64,12,keep track many form instance displayed page
+216,[0 0 0 0 1],59,9,implementation cache binding using python memcached
+217,[0 0 0 0 1],72,13,file upload handler stream uploads memory used small file
+218,[0 0 0 0 1],34,6,base class migration
+219,[1 1 0 0 0],24,6,one
+220,[1 1 0 0 0],27,4,following attribute
+221,[1 1 0 0 0],87,9,operation list operation instance probably djangodbmigrationsoperations
+222,[1 1 0 0 0],57,10,dependency list tuples app path migration name
+223,[1 1 0 0 0],55,11,run list tuples app path migration name
+224,[1 1 0 0 0],34,6,replaces list migration name
+225,[0 0 0 0 1],53,9,represent digraph migration project
+226,[0 0 1 0 0],57,11,migration node dependency edge
+227,[0 0 1 0 0],9,2,
+228,[0 0 1 0 0],69,9,implicit dependency numbered migration numbering
+232,[1 0 0 0 0],35,6,graph handler responsible
+234,[1 0 0 0 0],71,11,migration file replaced migration either unapplied
+236,[1 0 0 0 0],69,10,replacing migration repoint dependency pointed
+240,[0 0 0 1 0],71,11,initialization class scan directory open
+244,[0 0 0 1 0],56,6,djangodbmigrationsmigration look like
+248,[0 0 0 1 0],79,13,disk injected main set replacing named migration
+250,[0 0 0 1 0],14,2,new migration
+254,[1 0 0 0 0],10,2,memory
+266,[0 0 1 0 0],64,9,multivaluedictparse read input stream chunk size chunk
+267,[0 0 1 0 0],67,11,return tuple multivaluedict post multivaluedict file
+268,[0 0 0 0 1],69,11,subclass dictionary customized handle multiple value
+269,[0 0 0 0 1],9,2,key
+270,[1 0 0 0 0],57,9,multivaluedict name adrian simon position developer
+272,[1 0 0 0 0],5,1,simon
+275,[1 0 0 0 0],28,4,dget lastname nonexistent
+284,[0 0 0 0 1],39,6,aggregate logic multiple field
+285,[0 0 0 1 0],68,12,clean method take decompressed list value
+287,[0 0 0 1 0],13,3,value
+288,[0 0 0 1 0],66,12,list cleaned corresponding field first value
+289,[0 0 0 1 0],69,13,cleaned first field second value cleaned second
+291,[0 0 0 1 0],31,5,compressed single value
+293,[0 0 0 1 0],67,12,addition value added widgetget context widget
+295,[0 0 0 1 0],58,10,looped rendered like normal widget
+297,[0 0 0 0 1],42,5,test nestedobject utility collection
+298,[0 0 0 0 1],36,5,base class migration operation
+299,[0 0 0 1 0],60,11,responsible mutating memory model state
+300,[0 0 0 1 0],65,11,see db migration statepy represent performs well
+302,[0 0 0 0 1],69,11,overwrite existing file instead appending suffix generate
+304,[0 0 0 0 1],69,10,model validation child foreign key relationship depends
+305,[0 0 0 0 1],27,5,validation parent
+306,[0 0 0 0 1],71,11,permission system provides way assign permission specific
+307,[0 0 0 0 1],26,5,user group user
+311,[1 0 0 0 0],65,13,add permission limit user ability view add form
+312,[1 0 0 0 0],18,4,add object
+313,[1 0 0 0 0],64,12,change permission limit user ability view change
+314,[1 0 0 0 0],48,9,list view change form change object
+315,[1 0 0 0 0],61,10,delete permission limit ability delete object
+317,[0 0 0 1 0],70,10,permission listed automatically created model
+319,[0 0 0 0 1],46,9,proxied model described
+321,[0 0 0 1 0],70,12,apps call migrate verifies table created
+322,[0 0 0 0 1],55,11,cannot access raw post data request
+323,[0 0 0 1 1],53,10,multipart post data accessed via post
+324,[0 0 0 1 1],11,2,file etc
+326,[0 0 0 0 1],59,10,run test record everything display anything
+327,[0 0 0 1 1],71,10,regression test ensure environment variable
+328,[0 0 0 1 1],36,5,set correctly requestfactory
+329,[0 0 0 0 1],75,13,accessor related object manager one many relation created
+330,[0 0 0 0 1],19,2,genericrelation
+331,[1 0 0 0 0],14,3,example
+332,[1 0 0 0 0],16,3,class post model
+333,[1 0 0 0 0],32,3,comment genericrelation comment
+335,[0 0 0 1 1],37,7,operator operator
+336,[0 0 0 1 1],25,4,test actual geometric
+337,[0 0 0 1 1],25,4,equality two feature
+338,[0 0 0 1 1],35,9,b feature
+339,[0 0 0 1 1],44,7,vertex vertex operator return true
+340,[0 0 0 0 1],27,5,convert queryset json
+344,[0 0 0 1 0],32,5,inside custom session model
+345,[0 0 0 0 1],31,6,simple view docstring
+347,[0 0 1 0 1],47,6,spatialrefsys object reduce redundant code
+348,[0 0 0 0 1],70,12,widget split datetime input two input type hidden input
+353,[0 0 0 0 1],50,9,exception used template exist
+356,[0 1 0 0 0],5,1,tried
+357,[0 1 0 0 0],4,1,
+358,[0 1 0 0 0],66,12,formatted list tuples containing origin status
+360,[0 1 0 0 0],33,6,reason template found
+361,[0 1 0 0 0],5,1,chain
+363,[0 1 0 0 0],15,4,used
+364,[0 1 0 0 0],68,8,encapsulate multiple exception loading template multiple
+367,[0 0 0 0 1],11,2,opened
+369,[0 0 1 0 0],40,7,doc output required testing
+371,[0 0 0 0 1],38,7,something model point
+373,[0 1 0 0 1],75,14,form creates user privilege given username
+374,[0 1 0 0 1],9,1,password
+375,[0 0 0 0 1],70,11,adapter class cursor variable prevents wrapped object
+376,[0 0 0 0 1],75,12,converted string used instantiate oracleparam
+378,[1 0 0 0 0],21,3,cursorexecute
+380,[0 0 0 1 0],28,6,two type frame
+381,[0 0 0 1 0],74,11,clause subclass however processing validation
+382,[0 0 0 1 0],43,8,mean intended complete done
+385,[0 0 1 0 0],42,8,xframe option exempt value set true
+386,[1 0 1 0 0],70,13,default set x frame option header sameorigin meaning
+387,[1 0 1 0 0],60,12,response loaded frame within site
+390,[1 0 1 0 0],73,15,response loaded frame site set x frame option
+391,[1 0 1 0 0],40,8,project django setting deny
+393,[0 0 0 1 0],62,13,object returned input cell passed
+395,[0 0 0 1 0],44,9,frontend work notebook
+406,[0 1 0 0 0],37,6,bytestring containing raw pcm data
+410,[0 1 0 0 0],10,1,dependent
+412,[0 1 0 0 0],32,7,url download data
+414,[0 1 0 0 0],43,10,path local file load data
+415,[0 1 0 0 0],13,2,embed boolean
+416,[0 1 0 0 0],65,13,audio data embedded using data uri true
+418,[0 1 0 0 0],32,8,set true want
+419,[0 1 0 0 0],68,11,audio playable later internet connection notebook
+420,[0 1 0 0 0],62,12,default true unless keyword argument url set
+421,[0 1 0 0 0],24,5,default value false
+422,[0 1 0 0 0],12,2,rate integer
+423,[0 1 0 0 0],34,7,sampling rate raw data
+424,[0 1 0 0 0],59,11,required data parameter used array
+427,[0 1 0 0 0],18,4,default false
+429,[0 1 0 0 0],67,10,whether audio normalized rescaled maximum possible
+432,[0 1 0 0 0],40,9,set false data must
+433,[0 1 0 0 0],49,10,inclusive otherwise error raised
+439,[1 0 0 0 0],15,2,framerate
+440,[1 0 0 0 0],29,4,nplinspace framerate
+444,[1 0 0 0 0],29,6,dataleft npsin nppi
+454,[1 0 0 0 0],26,6,audio data b raw wav data
+456,[0 0 0 0 1],40,6,context manager capturing stdout err
+459,[0 0 0 0 1],58,7,custom ipython displayhook replace sysdisplayhook
+460,[0 0 0 1 0],72,15,class many thing basic idea callable
+461,[0 0 0 1 0],51,9,get called anytime user code return value
+462,[0 0 0 0 1],57,10,dummy module used ipython interactive module
+467,[0 0 0 0 1],32,5,transformer help syntax obj
+469,[0 0 0 0 1],49,8,access history database without adding
+470,[1 0 0 0 0],53,9,intended use standalone history tool
+473,[0 0 0 0 1],43,7,part configuring shell environment
+476,[0 0 0 1 0],14,3,meth init path
+477,[0 0 0 1 0],49,9,meth init shell implemented subclass
+478,[0 0 0 1 0],19,4,meth init gui pylab
+479,[0 0 0 1 0],20,3,meth init extension
+480,[0 0 0 1 0],14,3,meth init code
+482,[0 0 1 0 0],71,13,used formatting string value need updated
+486,[0 0 1 0 0],52,10,make function easier type egcd
+491,[1 0 0 0 0],4,1,must
+492,[1 0 0 0 0],65,11,use method decorator line magic cell magic decorate
+493,[1 0 0 0 0],42,6,individual method magic function
+494,[1 0 0 0 0],62,11,use class decorator magic class ensure magic
+496,[1 0 0 0 0],15,1,initialization
+497,[0 0 0 0 1],16,3,myframe
+501,[0 0 0 0 1],51,8,subclass base display hook using coloured prompt
+505,[0 0 0 1 0],23,3,attribute style access
+506,[0 0 0 1 0],65,10,protection class member like key item using attribute
+507,[0 0 0 1 0],13,2,style access
+508,[0 0 0 1 0],57,9,ability restrict assignment existing key
+516,[0 0 0 0 1],72,11,string suitable defining dummy color scheme terminal get
+517,[0 0 0 0 1],26,4,confused color escape
+519,[0 0 0 0 1],59,10,placeholder user defined magic added runtime
+520,[0 0 1 1 0],75,13,magic eventually merged single namespace runtime
+523,[0 0 1 1 0],16,3,class
+524,[0 0 0 0 1],81,15,class embedding youtube video ipython session based video id
+525,[1 0 0 0 0],72,13,eg embed video http wwwyoutubecom watchv foo would
+526,[1 0 0 0 0],2,1,
+528,[1 0 0 0 0],11,2,display vid
+529,[1 0 0 0 0],24,5,start second
+530,[1 0 0 0 0],31,6,vid youtubevideo abc start
+535,[1 1 0 0 0],49,8,parameter provided documented
+536,[0 1 0 0 0],64,5,http developersgooglecom youtube player parametersparameters
+537,[1 0 0 0 0],80,12,converting notebook using nbconvert jpeg representation video
+539,[0 0 0 0 1],55,10,base mock pretend poplib pop connection
+540,[1 0 0 0 0],55,10,pm popmailbox localhost user bad conn cl mockpop
+542,[1 0 0 0 0],11,1,accesserror
+544,[1 0 0 0 0],17,3,conn cl mockpop
+545,[1 0 0 0 0],7,1,pmstat
+546,[1 0 0 0 0],9,2,
+547,[1 0 0 0 0],11,1,pmiterkeys
+551,[1 0 0 0 0],25,6,msg subject msg pm
+552,[1 0 0 0 0],13,5,msg msg
+553,[1 0 0 0 0],43,9,pmget msg size evil pmget msg size good
+555,[1 0 0 0 0],17,3,pmget byte evil
+556,[1 0 0 0 0],47,8,testmailpileis nsubject msg n noh hi
+557,[1 0 0 0 0],1,1,n
+558,[1 0 0 0 0],4,1,
+559,[1 0 0 0 0],14,3,pm invalid key
+562,[0 0 0 0 1],34,5,search autocrypt database
+563,[0 0 0 0 1],63,12,broker try auto upgrade connection use tl
+564,[0 0 0 0 1],63,13,least ssl handshake record info
+566,[0 0 0 1 0],67,11,object must initialized dictionary describes
+567,[0 0 0 1 0],67,11,structured way variable exist legal value
+568,[0 0 0 1 0],50,10,default
+575,[0 1 0 1 0],24,5,data type sanity check
+576,[0 1 0 1 0],1,1,
+577,[0 1 0 1 0],15,3,default value
+578,[0 0 0 1 0],72,13,sanity check dictionary rule value expected
+580,[0 0 0 1 0],4,1,
+581,[0 1 0 0 0],67,13,used empty list dictionary default value
+583,[0 0 0 1 0],36,7,rule place default value
+584,[0 0 1 1 0],68,16,default value empty list assumed list
+585,[0 0 1 1 0],29,5,value type specified
+588,[1 0 0 0 0],11,5,int
+590,[1 0 0 0 0],11,4,int
+596,[1 0 0 0 0],14,6,x x str
+600,[1 0 0 0 0],34,6,pot potato pot liquid vodka
+610,[1 0 0 0 0],7,2,vodka
+612,[1 0 0 0 0],1,1,
+614,[1 0 0 0 0],10,2,pot color
+618,[1 0 0 0 0],3,1,
+622,[1 0 0 0 0],31,5,traceback recent call last
+624,[1 0 0 0 0],31,5,traceback recent call last
+629,[1 0 0 0 0],56,8,configvalueerror invalid value config color green
+631,[1 0 0 0 0],18,3,many potato
+632,[1 0 0 0 0],14,5,type int
+635,[0 0 0 0 1],26,5,add one mailbox
+636,[0 0 1 0 0],71,14,account specified mailbox assigned id use
+640,[0 0 0 0 1],36,8,connect waiting gui matic gui
+644,[0 0 0 0 1],49,7,encrypteddict deal unicode value
+645,[0 0 0 0 1],40,9,single event event log
+648,[0 0 0 0 1],48,8,create forwarding draft one message
+649,[0 0 0 0 1],11,2,view group
+651,[0 0 0 0 1],9,2,list tag
+653,[0 0 0 0 1],41,7,plugin system find template file
+654,[0 0 0 0 1],35,7,maildir class window using
+656,[0 0 0 0 1],62,11,router object implement vfs interface
+657,[0 0 0 0 1],47,5,delegating call individual implementation
+659,[0 0 0 0 1],55,12,posting list map search term message id
+661,[0 0 0 0 1],64,8,combine storagebackeddata pack unpacklonglist pack
+663,[1 0 0 0 0],43,10,storage sbl x x x x x x x x
+664,[1 0 0 0 0],35,4,sbl storagebackedlongs storage sbl
+666,[1 0 0 0 0],4,1,true
+667,[1 0 0 0 0],12,2,sblappend
+668,[1 0 0 0 0],8,1,sblsave
+670,[1 0 0 0 0],4,1,true
+676,[1 0 0 0 0],9,2,
+677,[1 0 0 0 0],58,13,create file card disk using random name
+678,[1 0 0 0 0],48,7,vcsadd vcards mailpilevcard vcardline fn dude
+679,[1 0 0 0 0],28,4,vcardline email devilcom
+680,[1 0 0 0 0],30,4,mailpilevcard vcardline fn guy
+681,[1 0 0 0 0],43,9,vcards looked directly e mail
+683,[1 0 0 0 0],6,2,u dude
+684,[1 0 0 0 0],42,5,vcsget vcard nosuchemailaddress none
+685,[1 0 0 0 0],4,1,true
+686,[1 0 0 0 0],36,7,found using search
+687,[1 0 0 0 0],25,5,vcsfind vcards guy fn
+688,[1 0 0 0 0],5,2,u guy
+692,[1 0 0 0 0],4,1,true
+695,[0 0 0 0 1],47,9,object serving base class engine
+702,[0 0 1 0 0],10,2,input data
+703,[0 0 1 0 0],70,12,supplied break format converted subclass method
+704,[0 0 1 0 0],46,8,get kwargs break expected format
+706,[0 0 0 0 1],9,1,interface
+707,[0 0 0 0 1],53,9,array boolean true false data missing value
+709,[0 0 0 1 0],63,12,represented numpy array boolean array data
+710,[0 0 0 1 0],55,10,boolean array mask true indicating missing
+725,[0 1 0 0 0],19,3,indicates missing
+727,[0 1 0 0 0],43,8,whether copy value mask array
+742,[1 0 0 0 0],23,4,length dtype boolean
+743,[0 0 0 0 1],59,7,dateoffset subclass representing possibly n business hour
+744,[0 0 0 0 1],53,8,mixin business type provide related function
+745,[0 0 0 0 1],56,7,dateoffset increment business year begin date
+749,[0 1 0 1 0],29,3,category sequence optional
+751,[0 1 0 0 0],35,6,ordered bool none default false
+753,[0 1 0 0 0],76,13,none used maintain ordered value existing categoricals
+755,[0 1 0 1 0],50,9,false existing ordered maintain
+757,[0 0 0 1 0],10,1,category
+758,[0 0 0 1 0],7,1,ordered
+761,[0 0 1 0 0],5,1,note
+764,[0 0 1 0 0],36,3,see ref categoricalcategoricaldtype
+769,[1 0 0 0 0],33,11,pdseries b c dtype
+771,[1 0 0 0 0],3,2,b
+773,[1 0 0 0 0],5,2,nan
+775,[1 0 0 1 0],24,5,category object b
+776,[0 0 0 0 1],48,8,index based underlying class categorical
+778,[0 0 0 1 0],5,1,also
+779,[0 0 0 1 0],66,10,like categorical might order numerical operation
+780,[0 0 0 1 0],23,3,addition division
+784,[0 1 0 0 0],30,5,value categorical
+785,[0 1 0 1 0],38,7,category given value
+786,[0 1 0 1 0],37,6,category replaced nan
+787,[0 1 0 1 0],31,4,category index like optional
+788,[0 1 0 1 0],35,5,category categorical
+789,[0 1 0 0 0],24,5,item need unique
+790,[0 1 0 1 0],65,14,category given also dtype
+791,[0 1 0 0 0],32,7,inferred data
+792,[0 1 0 1 0],22,3,ordered bool optional
+793,[0 1 0 1 0],56,10,whether categorical treated ordered
+794,[0 1 0 0 0],12,1,categorical
+795,[0 1 0 0 0],45,10,given dtype resulting
+796,[0 1 0 1 0],30,4,categorical unordered
+797,[0 1 0 0 0],45,6,dtype categoricaldtype category optional
+799,[0 1 0 1 0],23,4,category ordered
+802,[0 1 0 0 0],29,6,make copy input ndarray
+806,[0 0 0 1 0],5,1,code
+808,[0 0 0 1 0],7,1,ordered
+812,[0 0 0 1 0],10,2,ordered
+813,[0 0 0 1 0],12,2,unordered
+815,[0 0 0 1 0],34,6,category validate
+816,[1 0 0 1 0],62,12,explicit ordered true given category
+817,[0 0 1 0 0],5,1,note
+818,[0 0 1 0 0],18,4,see user guide
+819,[0 0 1 0 0],83,8,http pandaspydataorg panda doc stable user guide advancedhtmlcategoricalindex
+823,[1 0 0 1 0],100,26,categoricalindex b c b c category b c ordered false dtype category noqa
+825,[1 0 0 0 0],38,13,c pdcategorical b c b c
+826,[1 0 0 0 0],21,2,pdcategoricalindex c
+827,[1 0 0 1 0],100,26,categoricalindex b c b c category b c ordered false dtype category noqa
+828,[1 0 0 1 0],54,9,ordered categoricalindex min max value
+829,[0 0 0 1 0],60,16,ci pdcategoricalindex b c b c ordered true
+830,[1 0 0 1 0],20,6,category c b
+832,[0 0 0 1 0],99,26,categoricalindex b c b c category c b ordered true dtype category noqa
+833,[1 0 0 0 0],1,1,c
+834,[0 0 0 0 1],67,7,custom distutils command subclassed cythondistutilsbuild ext
+836,[0 0 0 0 1],43,8,represent data column indexed
+839,[0 0 1 0 0],37,6,see read excel documentation
+843,[0 1 0 0 0],55,9,file like object xlrd workbook openpypl workbook
+845,[0 1 0 0 0],24,4,engine str default none
+847,[0 1 0 0 0],52,10,acceptable value none xlrd openpyxl odf
+849,[0 0 0 0 1],59,11,class defines holiday start end date rule
+852,[1 0 0 1 0],63,9,integerarray currently experimental api internal
+853,[1 0 1 0 0],48,8,represent integerarray numpy array
+862,[0 1 0 0 0],26,6,integer dtype array
+864,[0 1 0 0 0],52,9,boolean dtype array indicating missing value
+875,[0 0 0 1 0],47,7,create integerarray func pandasarray
+876,[1 0 0 1 0],51,9,int array pdarray none dtype pdintdtype
+877,[1 0 0 0 0],9,2,int array
+881,[1 0 0 0 0],21,4,length dtype int
+882,[1 0 0 0 0],49,8,string alias dtypes also available
+883,[1 0 0 0 0],21,3,capitalized
+884,[1 0 0 1 0],33,7,pdarray none dtype int
+888,[1 0 0 1 0],34,7,pdarray none dtype uint
+890,[1 0 0 0 0],9,3,nan
+891,[1 0 0 0 0],22,4,length dtype uint
+892,[0 0 0 0 1],36,5,extensiondtype interval data
+895,[0 1 0 1 0],21,3,subtype str npdtype
+896,[0 1 0 0 0],33,6,dtype interval bound
+898,[0 0 0 1 0],7,1,subtype
+902,[1 0 0 1 0],30,3,pdintervaldtype subtype int
+904,[0 0 0 0 1],45,6,hold method nonconsolidatable block
+905,[0 1 0 0 1],34,6,make plot series dataframe
+906,[1 0 1 0 0],33,6,us backend specified
+909,[1 0 1 0 0],31,5,default matplotlib used
+916,[0 1 0 0 0],45,7,allows plotting one column versus another
+917,[0 1 0 0 0],22,6,used data
+919,[0 1 0 0 0],8,2,kind str
+921,[0 1 0 0 0],22,4,line line plot default
+922,[0 1 0 0 0],21,4,bar vertical bar plot
+924,[0 1 0 0 0],14,2,hist histogram
+925,[0 1 0 0 0],11,2,box boxplot
+927,[0 1 0 0 0],19,4,density kde
+928,[0 1 0 0 0],14,3,area area plot
+930,[0 1 0 0 0],20,3,scatter scatter plot
+931,[0 1 0 0 0],19,3,hexbin hexbin plot
+933,[0 1 0 0 0],28,5,use index bool default true
+934,[0 1 0 0 0],30,7,use index tick x axis
+936,[0 1 0 0 0],26,6,title use plot
+938,[0 1 0 0 0],25,6,top figure
+939,[0 1 0 0 0],35,8,list passed subplots
+942,[0 1 0 0 0],16,3,axis grid line
+945,[0 1 0 0 0],18,4,style list dict
+946,[0 1 0 0 0],37,6,matplotlib line style per column
+951,[0 1 0 0 0],44,9,use log scaling symlog scaling axis
+952,[0 1 0 0 0],20,2,versionchanged
+953,[0 1 0 0 0],34,7,loglog bool sym default false
+954,[0 1 0 0 0],55,12,use log scaling symlog scaling x ax
+955,[0 1 0 0 0],20,2,versionchanged
+956,[0 1 0 0 0],15,2,xticks sequence
+957,[0 1 0 0 0],29,6,value use xticks
+958,[0 1 0 0 0],15,2,yticks sequence
+959,[0 1 0 0 0],29,6,value use yticks
+961,[0 1 0 0 0],17,4,ylim tuple list
+962,[0 1 0 0 0],21,4,rot int default none
+963,[0 1 0 0 0],61,9,rotation tick xticks vertical yticks horizontal
+965,[0 1 0 0 0],26,4,fontsize int default none
+966,[0 1 0 0 0],32,6,font size xticks yticks
+969,[0 1 0 0 0],34,6,string load colormap
+970,[0 1 0 0 0],21,3,name matplotlib
+972,[0 1 0 0 0],59,10,true plot colorbar relevant scatter hexbin
+974,[0 1 0 0 0],14,2,position float
+983,[0 1 0 0 0],66,14,true draw table using data dataframe data
+985,[0 1 0 0 0],61,13,series dataframe passed use passed data draw
+987,[0 1 0 0 0],48,8,yerr dataframe series array like dict str
+989,[0 1 0 0 0],7,1,detail
+991,[0 1 0 0 0],19,3,equivalent yerr
+993,[0 1 0 0 0],60,10,using secondary axis automatically mark column
+995,[0 1 0 0 0],35,6,include bool bool default false
+1003,[0 1 0 0 0],17,2,versionadded
+1005,[0 1 0 0 0],46,7,option pas matplotlib plotting method
+1009,[0 1 0 0 0],43,8,object returned backend
+1010,[0 0 1 0 0],5,1,note
+1011,[0 0 1 0 0],60,9,see matplotlib documentation online subject
+1019,[0 0 1 1 0],6,1,center
+1020,[0 0 0 0 1],39,6,implement n largest smallest series
+1022,[0 1 0 0 0],10,2,obj series
+1023,[0 1 0 0 0],5,2,n int
+1024,[0 1 0 0 0],33,7,keep first last default first
+1026,[0 1 0 0 0],15,2,nordered series
+1027,[0 0 1 0 1],62,10,called decorate set operation intervalindex
+1028,[0 0 1 0 1],37,7,perform type check advance
+1029,[0 0 0 0 1],40,6,patch sqltable fallback support
+1030,[0 0 1 0 0],64,11,instead table variable use create table statement
+1031,[0 0 0 0 1],40,7,mapping panda table sql table
+1032,[0 0 0 1 0],50,9,us fact table reflected sqlalchemy
+1033,[0 0 0 1 0],27,4,better type conversion
+1035,[0 0 0 1 0],41,7,pas function time
+1037,[0 1 0 0 0],7,1,warning
+1039,[0 1 0 0 0],44,8,part api may change without warning
+1041,[0 1 0 0 0],17,3,value array like
+1042,[0 1 0 0 0],18,4,array data
+1044,[0 1 0 0 0],47,7,currently expects object dtype ndarray
+1045,[0 1 0 0 0],38,6,element python string
+1046,[0 1 0 0 0],8,2,may
+1055,[0 0 1 1 0],58,7,stringarray return booleanarray comparison method
+1057,[1 0 0 1 0],42,9,pdarray text none data
+1058,[1 0 0 0 0],14,3,dtype string
+1059,[1 0 0 0 0],11,1,stringarray
+1060,[1 0 0 0 0],31,8,text na data
+1061,[1 0 0 0 0],7,1,value
+1062,[1 0 0 0 0],31,5,traceback recent call last
+1063,[1 0 0 1 0],64,8,comparison method return class pandasbooleanarray
+1066,[1 0 0 0 0],15,3,true na false
+1067,[0 0 0 0 1],49,7,vectorized string function series index
+1068,[0 0 1 0 0],18,4,na stay na unless
+1070,[0 0 1 0 0],31,5,patterned python string
+1073,[1 0 0 0 0],11,1,sstrsplit
+1076,[0 0 0 0 1],58,8,test specific intervalindex datetime like subtype
+1079,[0 0 0 0 1],50,7,test periodindex period series ops consistency
+1080,[0 0 0 0 1],43,7,everything wanted test sorting
+1081,[0 0 0 0 1],60,11,error raised attempting get slice multiindex
+1082,[0 0 0 0 1],37,7,index lexsorted
+1084,[0 0 0 0 1],51,8,small proxy class enables external file object
+1087,[0 0 1 0 0],53,10,workaround limitation bz module bzfile
+1088,[0 0 1 0 0],51,8,class unlike gzipgzipfile support
+1089,[0 0 1 0 0],23,4,file object argument
+1093,[0 0 0 0 1],29,5,lazy loading moved object
+1094,[0 0 0 0 1],66,10,object provides sequence like access logical ancestor
+1096,[0 0 1 0 0],74,13,requires given class parseexpression found given order
+1097,[0 0 1 1 0],43,6,expression may separated whitespace
+1099,[0 0 1 1 0],54,9,may also constructed using operator
+1100,[0 0 1 1 0],22,2,suppress backtracking
+1103,[1 0 0 0 0],31,5,name expr oneormore word alpha
+1104,[1 0 0 0 0],48,9,expr integer id name expr name integer age
+1106,[1 0 0 0 0],42,8,expr integer id name expr name integer age
+1108,[1 0 0 0 0],14,2,generally
+1109,[1 0 0 0 0],63,10,provide fewer feature option infinite nargs
+1111,[0 0 0 1 0],63,9,parameter passed onwards parameter constructor
+1113,[0 0 0 0 1],69,10,raised brokenpipeerror occurs stdout stream logging
+1114,[0 0 0 0 1],56,10,bucket used store bytecode one template
+1116,[0 0 0 0 1],74,12,initialized bytecode cache passed loading function
+1118,[0 0 0 1 0],48,6,automatically reject outdated cache material
+1119,[0 0 1 0 0],47,10,like macro without name call instead
+1120,[0 1 0 0 0],19,4,call called
+1121,[0 1 0 0 0],53,9,unnamed macro caller argument node hold
+1122,[0 0 0 0 1],36,6,case insensitive dict like object
+1124,[0 0 0 0 1],39,8,mutablemapping well dict copy
+1125,[0 0 0 0 1],4,1,also
+1126,[0 0 0 0 1],22,4,provides lower item
+1133,[0 0 1 1 0],33,5,contain case sensitive key
+1134,[1 0 0 0 0],30,4,however querying contains
+1135,[1 0 0 0 0],27,4,testing case insensitive
+1136,[1 0 0 0 0],23,2,cid caseinsensitivedict
+1137,[1 0 0 0 0],27,4,cid accept application json
+1138,[1 0 0 0 0],22,5,list cid accept true
+1140,[1 0 0 0 0],55,8,value content encoding response header regardless
+1141,[1 0 0 0 0],45,8,header name originally stored
+1142,[1 0 0 0 0],52,8,constructor update equality comparison
+1143,[1 0 0 0 0],55,10,operation given key equal lower
+1144,[1 0 0 0 0],22,3,behavior undefined
+1145,[0 0 0 0 1],53,8,enhanced string len operation colored output
+1148,[0 0 0 0 1],19,3,struct winconh
+1150,[0 0 1 0 0],66,11,creating instance neither supported useful created
+1151,[0 0 1 0 0],73,11,automatically various stage template evaluation
+1152,[0 0 1 0 0],19,4,created hand
+1153,[0 0 1 0 0],25,4,context immutable
+1154,[1 1 0 0 0],37,6,modification attr parent must
+1155,[1 1 0 0 0],64,10,happen modification attr var allowed generated
+1156,[1 1 0 0 0],19,3,template code
+1157,[1 1 0 0 0],47,7,template filter global function marked
+1158,[1 1 0 0 0],70,11,func contextfunction get active context passed first argument
+1159,[1 1 0 0 0],48,9,allowed access context read
+1160,[0 1 0 0 0],61,10,template context support read dict operation get
+1162,[0 1 0 0 0],20,4,getitem contains
+1163,[0 1 0 0 0],36,6,additionally meth resolve
+1167,[0 0 0 0 1],73,13,two cooky meet criterion specified cookie jar
+1168,[0 0 1 0 0],80,16,use get set include domain path args order specific
+1169,[0 0 0 0 1],25,5,sequence data view
+1170,[0 1 0 0 0],41,9,entry instance item class
+1171,[0 0 0 0 1],15,3,date literal
+1172,[0 0 0 0 1],38,6,graph structure directed edge
+1175,[1 0 0 0 0],17,2,construction
+1180,[0 0 0 1 1],19,3,globals others
+1190,[0 1 0 0 0],44,8,string marking beginning block
+1191,[0 1 0 0 0],15,4,default
+1193,[0 1 0 0 0],38,8,string marking end block
+1197,[0 1 0 0 0],13,3,default
+1203,[0 1 0 0 0],18,3,comment end string
+1204,[0 1 0 0 0],40,8,string marking end comment
+1205,[0 1 0 0 0],21,3,line statement prefix
+1207,[0 1 0 0 0],11,1,statement
+1214,[0 1 0 0 0],11,2,trim block
+1215,[0 1 0 0 0],57,13,set true first newline block
+1222,[0 1 0 0 0],35,6,sequence start newline
+1224,[0 1 0 0 0],10,5,n r n
+1232,[0 1 0 0 0],15,2,versionadded
+1234,[0 1 0 0 0],31,6,either import path
+1236,[0 1 0 0 0],27,5,information
+1238,[0 1 0 0 0],32,5,optimizer enabled
+1242,[0 1 0 0 0],63,13,callable used process result variable
+1244,[0 1 0 0 0],27,5,example one convert
+1246,[0 1 0 0 0],10,1,autoescape
+1248,[0 1 0 0 0],8,1,default
+1249,[0 1 0 0 0],39,6,detail autoescaping see
+1250,[0 1 0 0 0],27,3,class jinjautilsmarkup
+1251,[0 1 0 0 0],28,7,jinja also
+1252,[0 1 0 0 0],57,12,callable passed template name
+1253,[0 1 0 0 0],17,2,versionchanged
+1255,[0 1 0 0 0],10,2,cache size
+1257,[0 1 0 0 0],35,7,per default mean
+1259,[0 1 0 0 0],32,7,cache cleaned
+1261,[0 1 0 0 0],11,2,auto reload
+1266,[0 1 0 0 0],13,2,disable
+1267,[0 1 0 0 0],14,2,bytecode cache
+1269,[0 1 0 0 0],12,2,enable async
+1270,[0 1 0 0 0],47,8,take advantage newer python feature
+1271,[0 1 0 0 0],13,2,requires
+1273,[0 0 0 0 1],40,7,usually mean child exited
+1275,[0 0 0 0 1],37,5,general exception extract error
+1276,[0 0 0 0 1],55,12,wrap list line object readline make
+1279,[1 0 0 0 0],60,12,example could use read file looking
+1280,[1 0 0 0 0],53,10,pattern control modem serial device
+1283,[1 0 0 0 0],5,1,usage
+1284,[1 0 0 0 0],38,6,metadata filemetadata path pkg info
+1285,[0 0 0 1 0],73,12,provider reject data metadata request except pkg info
+1287,[0 0 0 1 0],22,3,provided location
+1289,[1 0 0 0 0],5,1,usage
+1290,[1 0 0 0 0],38,6,metadata filemetadata path pkg info
+1293,[0 0 0 1 0],22,3,provided location
+1294,[0 0 0 0 1],37,6,load template file system
+1295,[0 0 0 0 1],30,5,loader find template
+1297,[1 0 0 0 0],68,13,loader take path template string multiple
+1299,[1 0 0 0 0],11,2,given order
+1301,[1 0 0 0 0],63,12,per default template encoding utf changed
+1302,[1 0 0 0 0],52,8,setting encoding parameter something else
+1303,[1 0 0 0 0],63,10,follow symbolic link set followlinks parameter true
+1304,[1 0 0 0 0],60,8,loader filesystemloader path template followlinks true
+1307,[0 0 0 0 1],49,7,lookahead matching given parse expression
+1308,[1 0 1 0 0],55,8,followedby advance parsing position within
+1311,[1 0 1 0 1],43,6,expression match current position
+1312,[1 0 1 0 1],10,1,followedby
+1313,[1 0 1 0 1],33,6,always return null token list
+1314,[1 0 1 1 0],32,6,result name defined
+1315,[1 0 1 1 0],65,11,lookahead expression returned access
+1316,[1 0 1 1 0],5,1,name
+1320,[1 0 0 0 0],21,4,data word word alpha
+1323,[1 0 0 0 0],86,12,attr expr group label suppress oneormore data word stopon label setparseaction join
+1324,[1 0 0 0 0],81,12,oneormore attr expr parsestring shape square color black posn upper left pprint
+1326,[1 0 0 0 0],50,12,shape square color black posn upper left
+1327,[1 0 0 0 0],64,13,get attribute item expression ascii
+1328,[1 0 0 0 0],36,5,bytestring prefer attribute
+1331,[0 0 1 0 0],44,8,fact kind hebrew logical visual
+1332,[1 0 0 0 0],70,12,score two sbcharsetprobers produce final answer
+1333,[0 0 0 0 1],61,11,reduces sequence character single space
+1334,[1 0 0 0 0],6,1,built
+1336,[0 0 1 0 0],66,10,disjointed model probers result hebrewprober
+1338,[0 0 0 0 1],11,2,html parser
+1341,[0 0 0 0 1],69,11,warned certain ssl configuration available platform
+1343,[1 0 0 0 0],57,10,read metadata contained pydistjson
+1345,[1 0 0 0 0],28,7,dry run mode used
+1346,[0 0 0 0 1],33,6,internal name compiler
+1347,[0 0 1 0 0],29,5,cannot create node
+1348,[0 0 1 0 0],34,6,parser provides
+1349,[0 0 1 0 0],61,6,meth jinjaparserparserfree identifier method creates
+1350,[0 0 1 0 0],25,5,new identifier
+1351,[0 0 1 0 0],41,7,identifier available
+1353,[0 0 0 0 1],38,6,date field improperly specified
+1354,[0 0 0 0 1],30,4,exception invalid header
+1355,[1 0 0 0 1],60,11,invalid version found user refer pep
+1356,[0 0 0 0 1],45,7,unicode set kanji unicode character range
+1359,[0 1 0 1 0],62,13,key bare unquoted quoted using basic literal
+1360,[0 1 0 1 0],67,10,quote following escaping rule single line stringtype
+1361,[0 0 0 0 1],48,8,lock file creation failed reason
+1363,[1 0 0 0 0],16,2,raise lockfailed
+1364,[1 0 0 0 0],16,2,except lockerror
+1366,[0 0 0 0 1],34,5,simple lru cache implementation
+1368,[0 0 1 0 0],6,1,scale
+1369,[0 0 1 0 0],59,13,long used storage template
+1370,[0 0 1 0 0],18,5,harm
+1371,[0 0 0 0 1],64,14,string ready safely inserted html xml
+1372,[0 0 0 0 1],64,11,document either escaped marked
+1373,[0 0 0 0 1],5,1,safe
+1374,[0 1 0 1 0],66,12,passing object constructor convert text wrap
+1376,[1 1 0 1 0],27,6,escape text use
+1390,[1 0 1 0 0],55,8,implement html interface framework
+1393,[1 0 1 0 0],52,9,passing object implement html wrap
+1411,[1 0 1 0 0],64,10,method escape argument return markup instance
+1413,[1 0 1 0 0],25,6,markup em foo amp bar em
+1415,[1 0 1 0 0],29,6,markup em hello em lt foogt
+1416,[0 0 0 0 1],69,12,class implement bytecode cache us memcache cache
+1418,[0 0 0 1 0],47,8,enforce specific memcache library
+1420,[0 0 0 1 0],31,4,minimal interface required
+1421,[1 0 0 0 0],70,12,minimal interface client passed constructor
+1423,[1 0 0 0 0],31,6,method set key value timeout
+1425,[1 0 0 0 0],21,5,value string
+1429,[1 0 0 0 0],61,12,provided integer number second cache
+1431,[1 0 0 0 0],14,3,method get key
+1433,[1 0 0 0 0],20,5,item
+1439,[0 0 0 0 1],27,3,memoized zipfile manifest
+1440,[0 0 0 0 1],30,5,required metadata missing
+1441,[0 0 0 0 1],30,5,dict special property
+1442,[0 0 0 1 0],67,12,initiation key list set tuples converted
+1443,[0 0 0 1 0],63,12,multiple key accessing one item original
+1444,[0 0 0 1 0],43,7,list like object return matching value
+1445,[1 0 0 1 0],63,11,default value set default attribute
+1447,[0 0 0 0 1],57,8,lazy loading moved object sixmovesurllib request
+1451,[0 0 0 0 1],30,6,represents item tree
+1453,[0 0 0 0 1],63,9,lookahead disallow matching given parse expression
+1454,[0 0 0 1 0],55,9,notany advance parsing position within
+1455,[0 0 0 1 0],66,10,input string verifies specified parse expression
+1456,[0 0 0 1 0],39,7,match current position
+1457,[0 0 0 1 0],17,3,also notany
+1460,[1 0 0 0 0],18,4,null token list
+1464,[1 0 0 0 0],51,9,take care mistake keywords identifier
+1466,[1 0 0 0 0],31,5,boolean term optional ident
+1468,[1 0 0 0 0],40,5,operation hierarchy use infixnotation
+1470,[1 0 0 0 0],33,7,integer followed
+1473,[0 0 0 0 1],68,13,raised attempt made unlock file someone else locked
+1478,[0 0 0 0 1],30,3,ordered multivalue dictionary
+1480,[0 0 0 1 1],4,1,key
+1482,[0 0 0 0 1],46,7,retains order insertion deletion
+1483,[0 0 0 1 0],59,10,internally item stored doubly linked list self
+1484,[0 0 0 1 0],6,1,item
+1485,[0 0 0 1 0],1,1,
+1486,[0 0 0 1 0],17,2,dictionary self
+1487,[0 0 0 1 0],53,10,map also maintained store ordered list
+1488,[0 0 0 1 1],73,12,linked list node reference one value associated key
+1489,[0 0 0 1 0],75,12,standard dict method interact first value associated given
+1490,[0 0 0 1 1],4,1,key
+1491,[0 0 0 1 0],66,12,mean omdict retains method parity dict dict
+1492,[0 0 0 1 0],69,12,object replaced omdict object interaction
+1500,[1 0 0 0 0],63,8,added parameter optional existing use remains unaffected
+1504,[1 0 0 0 0],43,8,new method also added omdict
+1507,[1 0 0 0 0],72,11,interact item dictionary including multiple item
+1508,[1 0 0 1 1],13,3,key
+1509,[1 0 0 0 0],26,5,new omdict method
+1510,[1 0 0 0 0],23,6,load size reverse
+1512,[1 0 0 0 0],56,10,poplist popvalue popvalues popitem poplistitem
+1513,[1 0 0 0 0],52,10,allitems allkeys allvalues list listitems
+1514,[1 0 0 0 0],56,8,iterallitems iterallkeys iterallvalues iterlists
+1515,[1 0 0 0 0],13,1,iterlistitems
+1516,[0 0 0 0 1],59,10,option usually optional value command line
+1517,[0 0 0 0 1],51,9,extra feature argument
+1518,[1 0 0 0 0],69,10,parameter passed onwards parameter constructor
+1519,[0 1 0 0 0],71,13,param show default control default value shown
+1520,[0 1 0 0 0],10,2,help page
+1521,[0 1 0 0 0],33,5,normally default shown
+1522,[0 1 0 0 0],7,2,
+1523,[0 1 0 0 0],53,11,value string show string instead
+1524,[0 1 0 0 0],6,1,value
+1525,[0 1 0 0 0],48,7,particularly useful dynamic option
+1529,[0 1 0 0 0],71,16,param prompt set true non empty string user
+1530,[0 1 0 0 0],19,3,prompted input
+1531,[0 1 0 0 0],37,9,set true prompt
+1532,[0 1 0 0 0],24,3,option name capitalized
+1533,[0 1 0 0 0],73,13,param confirmation prompt set value need confirmed
+1534,[0 1 0 0 0],23,5,prompted
+1535,[0 1 0 0 0],21,4,hidden user
+1536,[0 1 0 0 0],27,5,useful password
+1537,[0 1 0 0 0],6,1,input
+1538,[0 1 0 0 0],50,11,param flag force option act flag
+1539,[0 1 0 0 0],14,3,default
+1540,[0 1 0 0 0],15,2,auto detection
+1543,[0 1 0 0 0],41,8,set boolean automatically
+1544,[0 1 0 0 0],55,10,option string contains slash mark two option
+1545,[0 1 0 0 0],67,13,param multiple set true argument accepted
+1546,[0 1 0 0 0],28,4,multiple time recorded
+1548,[0 1 0 0 0],48,9,work support arbitrary number
+1550,[0 1 0 0 0],59,10,param count flag make option increment integer
+1552,[0 1 0 0 0],44,7,parameter pulled environment
+1554,[0 1 0 0 0],8,1,context
+1555,[0 1 0 0 0],27,5,param help help string
+1557,[0 0 0 1 1],69,10,wrapper used catch suppress brokenpipeerrors resulting
+1566,[0 0 0 1 0],43,7,pipe call attribute proxied
+1567,[0 0 0 0 1],66,10,represents package index provides easier access endpoint
+1568,[0 0 0 0 1],59,10,error occurs parser encounter syntax error
+1569,[0 0 0 0 1],25,5,toml parsed
+1572,[0 0 0 0 1],41,6,abstract base level parser element class
+1574,[0 0 0 0 1],64,10,structured parse result provide multiple mean access
+1575,[1 0 0 0 1],15,3,parsed data
+1576,[1 0 0 0 0],21,5,list len result
+1578,[1 0 0 0 0],21,3,attribute result
+1579,[1 0 0 0 0],50,4,resultsname see class parserelementsetresultsname
+1581,[1 0 1 0 0],17,3,integer word nums
+1582,[1 0 1 0 0],36,4,date str integersetresultsname year
+1583,[1 0 1 0 0],28,2,integersetresultsname month
+1584,[1 0 1 0 0],26,2,integersetresultsname day
+1585,[1 0 1 0 0],17,3,equivalent form
+1586,[1 0 1 0 0],49,9,date str integer year integer month integer day
+1587,[1 0 1 0 0],43,6,parsestring return parseresults object
+1588,[1 0 1 0 0],38,6,result date strparsestring
+1589,[1 0 1 0 0],19,5,def test fn repr
+1590,[1 0 1 0 0],26,8,print fn eval
+1591,[1 0 1 0 0],16,3,test list result
+1592,[1 0 1 0 0],13,3,test result
+1593,[1 0 1 0 0],17,3,test result month
+1594,[1 0 1 0 0],15,2,test resultday
+1595,[1 0 1 0 0],20,4,test month result
+1596,[1 0 1 0 0],22,4,test minute result
+1597,[1 0 1 0 0],22,4,test resultdump str
+1599,[1 0 0 0 0],30,9,list result
+1600,[1 0 0 0 0],13,3,result
+1602,[1 0 0 0 0],13,2,resultday
+1603,[1 0 0 0 0],20,4,month result true
+1605,[1 0 0 0 0],30,8,resultdump
+1606,[1 0 0 0 0],6,2,day
+1607,[1 0 0 0 0],8,2,month
+1608,[1 0 0 0 0],9,2,year
+1610,[0 0 0 0 1],17,2,different check
+1611,[0 0 1 0 0],47,9,first instead returning open file
+1615,[0 1 0 0 0],69,14,param exists set true file directory need exist
+1616,[0 1 0 0 0],23,5,value valid
+1619,[0 1 0 0 0],17,2,silently skipped
+1626,[0 1 0 0 0],2,1,
+1627,[0 1 0 0 0],42,9,expand tilde prefix
+1629,[0 1 0 0 0],67,15,param allow dash set true single dash indicate
+1635,[0 0 0 0 1],66,9,allows arbitrary request transparently keeping track
+1642,[0 1 0 0 0],11,1,explicitly
+1645,[0 1 0 0 0],54,3,class urllibconnectionpoolconnectionpool instance
+1647,[1 0 0 0 0],31,5,manager poolmanager num pool
+1649,[1 0 0 0 0],38,6,r managerrequest get http yahoocom
+1652,[0 0 0 0 1],12,3,prefix
+1653,[1 0 0 1 0],56,11,prefix delimited template slash per
+1654,[1 0 0 1 0],66,11,default changed setting delimiter argument
+1655,[1 0 0 1 0],14,2,something else
+1656,[1 0 0 0 0],19,2,loader prefixloader
+1659,[1 0 0 0 0],68,12,loading app indexhtml file app package loaded
+1661,[0 0 0 0 1],63,9,hold jinja preprocessed traceback printing reraising
+1664,[0 0 0 0 1],44,7,user created class request request object
+1668,[0 1 0 0 0],44,7,param header dictionary header send
+1669,[0 1 0 0 0],72,10,param file dictionary filename fileobject file multipart upload
+1670,[0 1 0 0 0],45,9,param data body attach request
+1671,[0 1 0 0 0],18,4,dictionary
+1672,[0 1 0 0 0],57,10,list tuples key value provided form encoding
+1673,[0 1 0 0 0],11,2,take place
+1674,[0 1 0 0 0],89,19,param json json body attach request file data specified
+1676,[0 1 0 0 0],18,4,dictionary
+1679,[0 1 0 0 0],44,8,param auth auth handler user pas tuple
+1680,[0 1 0 0 0],75,12,param cooky dictionary cookiejar cooky attach request
+1685,[1 0 0 0 0],48,7,req requestsrequest get http httpbinorg get
+1687,[1 0 0 0 0],19,2,preparedrequest get
+1689,[0 0 0 0 1],58,11,context manager remove package inner block
+1690,[0 0 0 1 0],51,7,us uninstallpathset control workflow
+1691,[0 0 0 1 0],18,4,inner block
+1692,[0 0 0 1 0],72,9,exit correctly uninstallation committed otherwise rolled back
+1693,[0 0 0 0 1],48,7,cache candidate requires python information
+1696,[0 0 1 0 0],55,10,normally instantiated user code rather
+1697,[0 0 1 0 0],48,6,class resourcefinder manages resource
+1698,[0 0 0 0 1],42,6,resource finder file system resource
+1699,[0 0 0 0 1],39,5,manage resource extraction package
+1702,[0 0 0 0 1],20,2,retry configuration
+1704,[0 0 0 1 0],26,5,safely reused
+1705,[1 0 0 0 0],46,10,retries defined default pool
+1706,[1 0 0 0 0],43,8,retries retry connect read redirect
+1708,[1 0 0 0 0],44,6,response httprequest get http examplecom
+1711,[0 1 0 0 0],15,3,param int total
+1712,[0 1 0 0 0],33,6,total number retries allow
+1716,[0 1 0 0 0],59,14,good idea set sensibly high value
+1718,[0 1 0 0 0],36,9,set fail first retry
+1719,[0 1 0 0 0],59,12,set false disable imply raise redirect false
+1722,[0 1 0 0 0],72,13,error raised request sent remote server
+1723,[0 1 0 0 0],49,12,set fail first retry type
+1725,[0 1 0 0 0],39,8,many time retry read error
+1726,[0 1 0 0 0],72,14,error raised request sent server
+1727,[0 1 0 0 0],30,5,request may side effect
+1728,[0 1 0 0 0],49,12,set fail first retry type
+1729,[0 1 0 0 0],18,3,param int redirect
+1731,[0 1 0 0 0],37,6,limit avoid infinite redirect
+1732,[0 1 0 0 0],6,1,loop
+1733,[0 1 0 0 0],70,15,redirect http response status code
+1734,[0 1 0 0 0],3,1,
+1736,[0 1 0 0 0],59,12,set false disable imply raise redirect false
+1737,[0 1 0 0 0],16,3,param int status
+1738,[0 1 0 0 0],44,9,many time retry bad status code
+1739,[0 1 0 0 0],62,10,retries made response status code match
+1740,[0 1 0 0 0],18,3,status forcelist
+1743,[0 1 0 0 0],60,11,set uppercased http method verb retry
+1744,[0 1 0 0 0],63,12,default retry method considered
+1745,[0 1 0 0 0],66,10,idempotent multiple request parameter end
+1749,[0 1 0 0 0],31,4,param iterable status forcelist
+1750,[0 1 0 0 0],67,14,set integer http status code force retry
+1752,[0 1 0 0 0],40,8,default disabled none
+1753,[0 1 0 0 0],26,4,param float backoff factor
+1755,[0 1 0 0 0],62,11,error resolved immediately second try without
+1756,[0 1 0 0 0],7,2,delay
+1757,[0 1 0 0 0],22,4,urllib sleep
+1758,[0 1 0 0 0],42,8,backoff factor number total retries
+1759,[0 1 0 0 0],8,1,second
+1760,[0 1 0 0 0],56,11,backoff factor func sleep sleep
+1761,[0 1 0 0 0],20,5,
+1765,[0 1 0 0 0],42,9,default backoff disabled set
+1766,[0 1 0 0 0],67,12,param bool raise redirect whether number redirects
+1768,[0 1 0 0 0],31,6,response code xx range
+1769,[0 1 0 0 0],63,11,param bool raise status similar meaning raise redirect
+1770,[0 1 0 0 0],59,10,whether raise exception return response
+1771,[0 1 0 0 0],58,10,status fall status forcelist range retries
+1772,[0 1 0 0 0],15,2,exhausted
+1773,[0 1 0 0 0],65,10,param tuple history history request encountered
+1774,[0 1 0 0 0],35,6,call meth retryincrement
+1775,[0 1 0 0 0],24,6,list order
+1777,[0 1 0 0 0],49,9,list item class class requesthistory
+1778,[0 1 0 0 0],37,6,param bool respect retry header
+1779,[0 1 0 0 0],64,11,whether respect retry header status code defined
+1780,[0 1 0 0 0],43,7,attr retryretry status code
+1782,[0 1 0 0 0],62,11,sequence header remove request response
+1783,[0 1 0 0 0],66,10,indicating redirect returned firing redirected
+1784,[0 1 0 0 0],8,1,request
+1785,[0 0 0 0 1],74,15,file based cache safe use even target directory may
+1786,[0 0 0 0 1],30,5,accessible writable
+1788,[0 0 0 0 1],10,1,validator
+1789,[0 0 0 0 1],19,3,request session
+1790,[0 0 0 0 1],67,7,provides cookie persistence connection pooling configuration
+1793,[1 0 0 0 0],18,2,requestssession
+1794,[1 0 0 0 0],27,4,sget http httpbinorg get
+1795,[1 0 0 0 0],12,2,response
+1796,[1 0 0 0 0],23,5,context manager
+1797,[1 0 0 0 0],26,4,requestssession
+1798,[1 0 0 0 0],27,4,sget http httpbinorg get
+1799,[1 0 0 0 0],12,2,response
+1800,[0 0 0 0 1],60,10,token skipping undefined text matched
+1801,[0 0 0 0 1],20,3,expression found
+1803,[0 1 0 0 0],64,12,expr target expression marking end data skipped
+1804,[0 1 0 0 0],67,11,include default false true target expression also parsed
+1806,[0 1 0 0 0],72,11,ignore default none used define grammar typically quoted string
+1808,[0 1 0 0 0],65,11,failon default none define expression allowed
+1810,[0 1 0 0 0],25,6,skipto match
+1813,[1 0 0 0 0],32,5,severity description day open
+1814,[1 0 0 0 0],40,6,critical intermittent system crash
+1816,[1 0 0 0 0],17,3,integer word nums
+1817,[1 0 0 0 0],12,2,sep suppress
+1818,[1 0 0 0 0],61,12,use skipto simply match everything next sep
+1819,[1 0 0 0 0],82,15,ignore quoted string character inside quoted string match
+1820,[1 0 0 0 0],85,14,parse action call tokenstrip matched token ie description body
+1821,[1 0 0 0 0],43,6,string data skipto sep ignore quotedstring
+1823,[1 0 0 0 0],33,6,ticket expr integer issue num sep
+1824,[1 0 0 0 0],19,4,string data sev sep
+1827,[1 0 0 0 0],14,2,print tktdump
+1828,[1 0 0 0 0],6,1,print
+1829,[1 0 0 0 0],46,9,critical intermittent system crash
+1830,[1 0 0 0 0],11,3,day open
+1832,[1 0 0 0 0],13,3,issue num
+1834,[1 0 0 0 0],50,12,cosmetic spelling error login log n
+1835,[1 0 0 0 0],12,3,day open
+1836,[1 0 0 0 0],34,7,desc spelling error login log n
+1838,[1 0 0 0 0],12,2,sev cosmetic
+1839,[1 0 0 0 0],12,3,day open
+1840,[1 0 0 0 0],12,3,issue num
+1843,[0 0 0 0 1],12,2,token class
+1845,[0 0 0 1 0],23,4,iterate stream
+1848,[1 0 0 0 0],68,12,documentclass class use bottommost node document
+1849,[1 0 0 0 0],47,8,elementclass class use html element
+1850,[1 0 0 0 0],42,7,commentclass class use comment
+1851,[1 0 0 0 0],42,7,doctypeclass class use doctypes
+1852,[0 0 0 0 1],29,5,abstract base class try
+1855,[0 0 0 0 1],64,11,base class error arising attempt release lock
+1857,[1 0 0 0 0],17,2,raise unlockerror
+1861,[1 0 1 0 1],58,9,op namespace dynamically bind operator python
+1863,[1 0 1 0 0],2,1,
+1868,[1 0 1 0 0],12,2,instead
+1873,[0 0 1 0 0],60,10,torchops object create new opnamespace
+1879,[0 0 1 0 0],56,8,torchopsmy namespacemy op invoke getattr
+1882,[0 0 1 0 0],69,14,torchget operation function bound c similar
+1883,[1 0 1 0 0],1,1,
+1888,[1 0 1 0 0],30,5,operation already exist
+1889,[0 0 0 0 1],30,3,implement adadelta algorithm
+1890,[0 0 0 0 1],67,12,proposed adadelta adaptive learning rate method
+1891,[0 1 0 0 0],9,1,argument
+1895,[0 1 0 0 0],31,5,squared gradient default
+1897,[0 1 0 0 0],32,5,numerical stability default e
+1899,[0 1 0 0 0],28,5,parameter default
+1902,[0 0 1 0 0],67,12,proposed adam method stochastic optimization
+1903,[0 1 0 0 0],9,1,argument
+1906,[0 1 0 0 0],45,8,lr float optional learning rate default e
+1908,[0 1 0 0 0],60,10,running average gradient square default
+1916,[0 0 1 0 0],41,6,adam method stochastic optimization
+1918,[0 0 1 0 0],37,7,convergence adam beyond
+1919,[0 0 1 0 0],39,5,http openreviewnet forumid ryquf rz
+1921,[0 0 0 0 1],67,12,proposed adam method stochastic optimization
+1922,[0 1 0 0 0],9,1,argument
+1925,[0 1 0 0 0],45,8,lr float optional learning rate default e
+1927,[0 1 0 0 0],43,7,running average gradient square
+1932,[0 0 0 1 0],52,14,output size x h x w input size
+1933,[0 0 0 1 0],69,13,number output feature equal number input plane
+1935,[0 1 0 0 0],70,17,output size target output size image form x h x w
+1936,[0 1 0 0 0],58,19,tuple h w single cube x x
+1938,[0 1 0 0 0],33,8,input
+1939,[0 1 0 0 0],72,13,return index true return index along output
+1940,[0 1 0 0 0],33,5,useful pas nnmaxunpoold
+1943,[1 0 0 0 0],29,6,target output size xx
+1944,[1 0 0 0 0],28,3,nnadaptivemaxpoold
+1945,[1 0 0 0 0],33,7,input torchrandn
+1946,[1 0 0 0 0],14,3,output input
+1947,[1 0 0 0 0],34,7,target output size xx cube
+1948,[1 0 0 0 0],24,3,nnadaptivemaxpoold
+1949,[1 0 0 0 0],33,7,input torchrandn
+1950,[1 0 0 0 0],14,3,output input
+1951,[1 0 0 0 0],29,6,target output size xx
+1953,[1 0 0 0 0],14,3,output input
+1955,[0 0 0 0 1],68,14,applies batch normalization input mini batch
+1956,[0 0 0 0 1],75,11,input optional additional channel dimension described paper
+1957,[0 0 0 0 1],93,12,batch normalization accelerating deep network training reducing internal covariate shift
+1959,[0 0 0 1 0],65,10,mean standard deviation calculated per dimension
+1964,[0 0 0 1 0],59,10,running estimate kept default attr momentum
+1968,[0 0 0 1 0],24,4,evaluation time well
+1978,[0 0 1 0 0],82,12,batch normalization done c dimension computing statistic
+1981,[0 1 0 1 0],50,10,num feature math c expected input size
+1984,[0 1 0 0 0],61,10,eps value added denominator numerical stability
+1985,[0 1 0 0 0],12,3,default e
+1986,[0 1 0 0 0],60,11,momentum value used running mean running var
+1987,[0 1 0 0 0],12,1,computation
+1988,[0 1 0 0 0],48,9,set none cumulative moving average
+1989,[0 1 0 0 0],19,4,ie simple average
+1990,[0 1 0 0 0],10,2,default
+1992,[0 1 0 0 0],28,3,learnable affine parameter
+1993,[0 1 0 0 0],12,2,default true
+1996,[0 1 0 0 0],64,11,module track statistic always us batch
+1997,[0 1 0 0 0],43,7,statistic training eval mode
+1998,[0 1 0 0 0],12,2,default true
+2000,[0 0 0 1 0],31,9,input math n c math n c l
+2003,[1 0 0 0 0],27,4,learnable parameter
+2004,[1 0 0 0 0],20,3,nnbatchnormd
+2005,[1 0 0 0 0],30,4,without learnable parameter
+2007,[1 0 0 0 0],14,3,output input
+2008,[0 0 0 0 1],64,12,loss combine sigmoid layer bceloss one single
+2009,[0 0 0 0 1],6,1,class
+2010,[0 0 0 0 1],66,11,version numerically stable using plain sigmoid
+2013,[0 0 0 1 0],73,14,unreduced ie attr reduction set none loss described
+2020,[0 1 0 1 0],19,4,default mean
+2024,[0 0 0 1 0],51,11,operatorname sum l text reduction text sum
+2025,[0 0 0 1 0],9,2,end case
+2026,[0 0 0 1 0],71,13,used measuring error reconstruction example
+2027,[0 0 0 1 0],16,3,auto encoder
+2028,[0 0 1 1 0],43,9,note target number
+2029,[0 0 1 1 0],16,4,
+2030,[1 0 0 1 0],87,15,possible trade recall precision adding weight positive example
+2031,[0 0 0 1 0],70,13,case multi label classification loss described
+2033,[0 0 0 1 0],45,14,ell c x l c l c dotsl nc top quad
+2035,[0 0 0 1 0],38,11,nc cdot log sigma x nc right
+2036,[1 0 0 0 0],92,16,example dataset contains positive negative example single class
+2038,[1 0 0 1 0],85,16,loss would act dataset contains math time positive example
+2040,[1 0 0 0 0],74,13,target torchones dtype torchfloat class batch size
+2041,[1 0 0 0 0],52,10,output torchfull prediction logit
+2044,[1 0 0 0 0],43,7,criterion output target log sigmoid
+2047,[0 1 0 0 0],67,11,weight tensor optional manual rescaling weight given loss
+2048,[0 1 0 0 0],22,4,batch element
+2049,[0 1 0 0 0],45,11,given tensor size nbatch
+2050,[0 1 0 0 0],59,9,size average bool optional deprecated see attr reduction
+2051,[0 1 0 0 0],11,2,default
+2052,[0 1 0 0 0],60,11,loss averaged loss element batch
+2054,[0 1 0 0 0],52,8,loss multiple element per sample
+2055,[0 1 0 0 0],30,6,field attr size average
+2060,[0 1 0 0 0],53,8,reduce bool optional deprecated see attr reduction
+2061,[0 1 0 0 0],76,11,loss averaged summed observation minibatch depending
+2062,[0 1 0 0 0],22,5,attr size average
+2063,[0 1 0 0 0],46,10,attr reduce false return loss per
+2064,[0 1 0 0 0],53,9,batch element instead ignores attr size average
+2065,[0 1 0 0 0],12,2,default true
+2066,[0 1 0 0 0],73,11,reduction string optional specifies reduction apply output
+2067,[0 1 0 0 0],15,4,none mean sum
+2072,[0 1 0 0 0],76,14,attr reduce process deprecated meantime
+2073,[0 1 0 0 0],12,2,default mean
+2074,[1 1 0 0 0],58,9,po weight tensor optional weight positive example
+2075,[0 1 0 0 0],60,12,must vector length equal number class
+2077,[0 1 0 1 0],67,11,input math n math mean number additional dimension
+2078,[0 0 0 1 0],40,9,target math n shape input
+2079,[0 1 0 0 0],14,2,output scalar
+2080,[0 1 0 1 0],47,11,attr reduction none math n
+2082,[1 0 0 0 0],25,2,loss nnbcewithlogitsloss
+2083,[1 0 0 0 0],39,6,input torchrandn requires grad true
+2085,[1 0 0 0 0],25,4,output loss input target
+2086,[1 0 0 0 0],15,1,outputbackward
+2089,[1 0 0 0 0],28,6,attr cmake build type env
+2091,[1 0 0 0 0],33,5,cmakecachetxt exist
+2093,[0 1 0 0 0],9,1,argument
+2095,[0 0 0 0 1],72,11,class includes information needed benchmark operator
+2096,[0 0 0 1 0],63,11,op bench user defined class child caffebenchmarkbase
+2101,[0 0 0 0 1],55,9,pad input tensor boundary constant value
+2102,[1 0 0 0 0],61,8,n dimensional padding use func torchnnfunctionalpad
+2104,[0 1 0 0 0],43,8,padding int tuple size padding
+2106,[0 1 0 0 0],26,4,padding boundary
+2108,[0 1 0 0 0],50,10,math text padding left math text padding right
+2112,[1 0 0 0 0],24,4,nnconstantpadd
+2114,[1 0 0 0 0],14,3,output input
+2115,[1 0 0 0 0],46,7,using different padding different side
+2117,[1 0 0 0 0],14,3,output input
+2119,[0 0 0 0 1],7,1,plane
+2121,[0 0 0 1 0],78,20,output math n c h w precisely described
+2123,[0 0 0 1 0],29,10,n c j bias c j
+2125,[0 1 0 0 0],58,9,attr stride control stride cross correlation
+2127,[0 1 0 0 0],59,10,side attr padding number point dimension
+2129,[0 1 0 0 0],92,17,harder describe link nice visualization attr dilation
+2131,[0 1 0 0 0],64,12,attr channel attr channel must divisible
+2134,[0 0 0 0 1],64,11,group operation becomes equivalent two conv
+2135,[0 0 0 0 1],57,10,layer side side seeing half input channel
+2137,[0 0 0 0 1],13,1,concatenated
+2138,[0 0 0 0 1],65,12,group attr channel input channel convolved
+2139,[0 0 0 0 1],31,7,set filter size
+2140,[0 0 0 1 1],61,11,math left lfloor frac channel channel right rfloor
+2145,[0 1 0 0 1],83,17,tuple three ints case first int used depth dimension
+2153,[0 1 0 0 0],54,10,kernel size int tuple size convolving kernel
+2157,[0 1 0 0 0],9,2,default
+2159,[0 1 0 0 0],48,7,accepted value zero circular default zero
+2162,[0 1 0 0 0],90,13,group int optional number blocked connection input channel output channel
+2165,[0 1 0 0 0],12,2,default true
+2166,[0 0 0 1 0],39,14,input math n c h w
+2167,[0 0 0 1 0],50,15,output math n c h w
+2172,[0 0 0 1 0],58,10,weight tensor learnable weight module shape
+2173,[0 0 0 1 0],44,8,value weight sampled
+2174,[0 0 0 1 0],55,16,math k frac c text prod text kernel size
+2175,[0 0 0 1 0],68,13,bias tensor learnable bias module shape channel
+2178,[0 0 0 1 0],49,11,sampled math mathcal u sqrt k sqrt k
+2179,[0 0 0 1 0],55,16,math k frac c text prod text kernel size
+2181,[1 0 0 0 0],38,7,square kernel equal stride
+2182,[1 0 0 0 0],31,7,nnconvd stride
+2183,[1 0 0 0 0],56,10,non square kernel unequal stride padding
+2184,[1 0 0 0 0],62,17,nnconvd stride padding
+2185,[1 0 0 0 0],37,7,input torchrandn
+2186,[1 0 0 0 0],14,3,output input
+2194,[0 0 0 0 1],30,5,policy cycle learning
+2196,[0 0 0 0 1],64,10,paper cyclical learning rate training neural network
+2198,[0 0 0 0 1],19,4,per cycle basis
+2199,[0 0 0 1 0],74,11,cyclical learning rate policy change learning rate every batch
+2202,[0 1 0 1 0],86,13,triangular basic triangular cycle scale initial amplitude half cycle
+2205,[0 1 0 1 0],24,4,cycle iteration
+2207,[1 0 0 0 0],63,8,optimizer torchoptimsgd modelparameters lr momentum
+2208,[1 0 0 0 0],77,10,scheduler torchoptimlr schedulercycliclr optimizer base lr max lr
+2209,[1 0 0 0 0],41,4,data loader torchutilsdatadataloader
+2210,[1 0 0 0 0],21,5,epoch range
+2211,[1 0 0 0 0],24,5,batch data loader
+2212,[1 0 0 0 0],13,3,train batch
+2216,[0 0 0 1 1],51,9,swapped nnqdequantize convert
+2217,[0 0 0 0 1],66,10,class torch function specific diagonal representation
+2218,[1 0 0 1 0],74,13,class limited utility mostly useful verifying
+2219,[1 0 0 0 0],37,5,dispatch mechanism work expected
+2220,[1 0 0 1 0],32,6,based diagonalarray
+2221,[1 0 0 1 0],35,5,example numpy documentation
+2223,[0 0 0 1 0],70,12,diagonaltensor represents tensor n row column
+2225,[0 0 0 1 0],3,1,
+2226,[0 0 0 1 0],65,10,main functionality diagonaltensor provide compact
+2228,[0 0 0 0 1],24,2,intermediate embeddings
+2229,[0 0 1 0 0],71,14,bag constant length attr per sample weight class
+2230,[0 0 1 0 0],85,14,mode sum equivalent class torchnnembedding followed torchsum dim
+2231,[0 0 1 0 0],87,14,mode mean equivalent class torchnnembedding followed torchmean dim
+2233,[0 0 1 0 0],103,16,however class torchnnembeddingbag much time memory efficient using chain
+2234,[0 0 1 0 0],11,1,operation
+2235,[0 0 1 0 0],75,12,embeddingbag also support per sample weight argument forward
+2238,[0 0 1 0 0],32,6,reduction specified mode
+2239,[0 0 1 0 0],41,8,attr per sample weight passed
+2240,[0 0 1 0 0],71,13,supported mode sum computes weighted sum according
+2246,[0 1 0 0 0],44,9,renormalized norm attr max norm
+2247,[0 1 0 0 0],86,18,norm type float optional p p norm compute attr max norm option
+2248,[0 1 0 0 0],11,3,default
+2249,[0 1 0 0 0],103,18,scale grad freq boolean optional given scale gradient inverse frequency
+2252,[0 1 0 0 0],41,9,mode string optional sum mean max
+2254,[0 1 0 0 0],61,10,sum computes weighted sum taking attr per sample weight
+2255,[0 1 0 0 0],19,2,consideration
+2256,[0 1 0 0 0],39,7,mean computes average value
+2258,[0 1 0 0 0],12,2,default mean
+2259,[0 1 0 0 0],91,16,sparse bool optional true gradient wrt attr weight matrix sparse tensor
+2261,[0 1 0 0 0],50,7,note detail regarding sparse gradient
+2263,[0 1 0 0 0],25,5,supported mode max
+2265,[0 0 0 1 0],88,14,weight tensor learnable weight module shape num embeddings embedding dim
+2266,[0 0 0 1 0],38,8,initialized math mathcal n
+2268,[0 0 0 1 0],39,6,attr per index weight tensor optional
+2269,[0 0 0 1 0],35,10,attr input shape b n
+2270,[0 0 0 1 0],67,15,treated b bag sequence fixed length n
+2271,[0 0 0 1 0],74,15,return b value aggregated way depending attr mode
+2272,[0 0 0 1 0],61,12,attr offset ignored required none case
+2274,[0 0 0 1 0],66,12,treated concatenation multiple bag sequence
+2276,[0 0 0 1 0],52,10,starting index position bag attr input
+2277,[0 0 0 1 0],10,1,therefore
+2280,[0 0 0 1 0],40,8,empty bag ie length
+2281,[0 0 0 1 0],33,5,returned vector filled zero
+2282,[0 0 0 1 0],77,13,per sample weight tensor optional tensor float double weight none
+2283,[0 0 0 1 0],49,11,indicate weight taken
+2287,[0 0 0 1 0],29,6,supported mode sum
+2290,[1 0 0 0 0],45,7,embedding sum nnembeddingbag mode sum
+2291,[1 0 0 0 0],40,10,batch sample index
+2294,[1 0 0 0 0],28,4,embedding sum input offset
+2296,[1 0 0 0 0],19,3,
+2297,[0 0 0 0 1],48,11,raise error key seen
+2298,[0 0 0 0 1],55,11,error section output cuda memcheck
+2299,[0 0 0 1 0],62,12,error report error message backtrace
+2303,[1 0 0 0 0],9,1,executed
+2304,[0 0 1 0 0],69,12,current version real sanity check parameter
+2305,[0 0 0 0 1],79,13,creates fisher snedecor distribution parameterized attr df attr df
+2307,[1 0 0 0 0],50,7,fishersnedecor torchtensor torchtensor
+2309,[1 0 0 0 0],12,2,tensor
+2311,[0 1 0 0 0],50,9,df float tensor degree freedom parameter
+2313,[0 0 0 0 1],41,7,collect last n sample input record
+2320,[0 0 1 0 0],34,7,param byte history size byte
+2321,[0 0 1 0 0],27,7,fit memory
+2323,[0 1 0 0 0],9,1,argument
+2330,[0 1 0 0 0],14,4,default e
+2332,[0 1 0 0 0],38,7,value parameter change default e
+2334,[0 1 0 0 0],61,12,line search fn str either strong wolfe none default none
+2337,[0 0 0 1 0],17,3,tree structure
+2340,[1 0 0 0 0],31,4,import torchnnfunctional f
+2343,[1 0 0 0 0],19,4,super model self
+2344,[1 0 0 0 0],4,1,init
+2345,[1 0 0 0 0],29,5,selfconv nnconvd
+2346,[1 0 0 0 0],30,5,selfconv nnconvd
+2347,[1 0 0 0 0],19,4,def forward self x
+2349,[1 0 0 0 0],26,4,return frelu selfconv x
+2350,[0 0 0 1 0],71,12,submodules assigned way registered
+2351,[0 0 0 1 0],52,10,parameter converted call meth etc
+2352,[0 0 0 0 1],69,10,creates criterion optimizes multi class multi classification
+2353,[0 0 0 1 1],72,14,hinge loss margin based loss input math x mini batch tensor
+2354,[0 0 0 1 1],64,14,output math tensor target class index
+2355,[0 0 0 1 0],33,7,sample mini batch
+2357,[1 0 0 1 0],59,18,text loss x sum ij frac max x j x text xsize
+2358,[0 0 0 1 0],76,12,criterion considers contiguous block non negative target
+2359,[0 0 0 1 0],20,4,start front
+2360,[0 0 0 1 0],77,12,allows different sample variable amount target class
+2364,[0 1 0 0 0],60,11,loss averaged loss element batch
+2369,[0 1 0 0 0],7,1,ignored
+2370,[0 1 0 0 0],22,5,reduce false
+2371,[0 1 0 0 0],12,2,default true
+2372,[0 1 0 0 0],53,8,reduce bool optional deprecated see attr reduction
+2373,[0 1 0 0 0],76,11,loss averaged summed observation minibatch depending
+2375,[0 1 0 0 0],46,10,attr reduce false return loss per
+2379,[0 1 0 0 0],15,4,none mean sum
+2380,[0 1 0 0 0],34,6,none reduction applied
+2383,[0 1 0 0 0],22,4,note attr size average
+2387,[0 0 0 1 0],88,19,target math c math n c label target padded ensuring shape input
+2388,[0 0 0 1 0],41,10,attr reduction none math n
+2393,[1 0 0 0 0],29,6,torchlongtensor
+2394,[1 0 0 0 0],9,3,loss x
+2396,[1 0 0 0 0],12,2,tensor
+2398,[0 0 0 1 0],62,9,inherited class implement modify net method
+2400,[1 0 0 0 0],13,2,example usage
+2401,[1 0 0 0 0],29,3,modifier somenetmodifier opts
+2402,[1 0 0 0 0],12,2,modifier net
+2404,[0 0 0 0 1],13,3,attr logits
+2405,[0 0 0 1 0],56,11,sample one hot coded vector size probssize
+2408,[0 0 0 0 1],28,6,attr probs attr logits
+2410,[1 0 0 0 0],51,7,onehotcategorical torchtensor
+2411,[1 0 0 0 0],42,9,msample equal probability
+2414,[0 1 0 0 0],32,4,probs tensor event probability
+2417,[1 0 0 1 0],53,9,sample nonnegative integer pmf given
+2422,[1 0 0 0 0],8,1,msample
+2423,[1 0 0 0 0],9,2,tensor
+2425,[0 1 0 0 0],38,6,rate number tensor rate parameter
+2426,[0 0 0 0 1],63,11,wrapper class wrap input module add quantstub
+2427,[0 0 0 0 1],74,13,dequantstub surround call module call quant dequant
+2428,[0 0 0 0 1],8,1,module
+2429,[0 0 0 1 0],71,13,used quantization utility function add quant
+2431,[0 0 0 1 0],55,9,observes input tensor convert quantstub
+2432,[0 0 0 1 0],63,9,swapped nnqquantize actual quantization
+2433,[0 0 0 1 0],9,1,similarly
+2434,[0 0 0 1 0],17,3,dequantstub
+2436,[0 0 0 0 1],65,8,implement stochastic gradient descent optionally momentum
+2437,[0 0 1 1 0],46,8,nesterov momentum based formula
+2438,[0 0 1 1 0],67,11,importance initialization momentum deep learning
+2442,[0 1 0 0 0],22,4,lr float learning rate
+2443,[0 1 0 0 0],50,7,momentum float optional momentum factor default
+2445,[0 1 0 0 0],58,8,dampening float optional dampening momentum default
+2448,[1 0 0 0 0],63,8,optimizer torchoptimsgd modelparameters lr momentum
+2449,[1 0 0 0 0],19,2,optimizerzero grad
+2452,[0 0 0 0 1],57,6,dictionary multiprocessing handle storageweakref
+2454,[0 0 0 0 1],60,9,transform functor applies sequence transforms tseq
+2456,[0 0 0 0 1],43,8,way compatible func torchstack
+2459,[1 0 0 0 0],58,9,stacktransform exptransform identity transform dim
+2463,[0 1 0 0 0],33,5,dataset dataset whole dataset
+2464,[0 1 0 0 0],61,10,index sequence index whole set selected subset
+2465,[0 0 0 0 1],65,13,task composed execution step zero output
+2466,[0 0 0 1 0],69,13,task executed context taskgroup turn
+2467,[0 0 0 1 0],20,5,run session
+2471,[1 0 0 0 0],55,12,node trainer task name task num instance
+2472,[1 0 0 0 0],18,3,opstask init
+2474,[1 0 0 0 0],27,4,opstask instance init
+2476,[1 0 0 0 0],17,3,opsloop
+2477,[1 0 0 0 0],21,3,opscopy globl local
+2478,[1 0 0 0 0],27,4,opstask instance exit
+2479,[1 0 0 0 0],28,5,opsadd globl local globl
+2480,[1 0 0 0 0],18,3,opstask exit
+2481,[1 0 0 0 0],28,5,opsmul globl globl globl
+2482,[1 0 0 0 0],65,12,task create instance run parallel
+2484,[1 0 0 0 0],14,3,globl
+2485,[1 0 0 0 0],55,10,mul execute instance
+2486,[1 0 0 0 0],26,5,task finished
+2487,[0 0 0 0 1],32,6,represents output task
+2491,[0 0 1 0 0],87,13,ashish vaswani noam shazeer niki parmar jakob uszkoreit llion jones aidan n gomez
+2492,[0 0 1 0 0],36,5,lukasz kaiser illia polosukhin
+2497,[0 0 1 0 0],29,5,user may modify implement
+2498,[0 0 1 0 0],38,6,different way application
+2501,[0 1 0 0 0],69,11,nhead number head multiheadattention model required
+2506,[1 0 0 0 0],61,8,encoder layer nntransformerencoderlayer model nhead
+2508,[1 0 0 0 0],21,4,encoder layer src
+2511,[1 0 0 1 0],69,13,math n batch dimension math c channel dimension
+2512,[1 1 0 0 0],48,6,math represent arbitrary spatial dimension
+2532,[0 0 0 1 0],57,13,attr input math math spatial
+2534,[1 0 0 0 0],70,10,therefore indexing attr output last dimension column dimension
+2535,[1 0 0 0 0],40,7,give value within certain block
+2536,[0 1 0 0 0],66,11,attr padding attr stride attr dilation argument specify
+2537,[0 1 0 0 0],37,6,sliding block retrieved
+2541,[0 1 0 0 0],10,1,reshaping
+2545,[0 1 0 0 0],55,11,kernel size int tuple size sliding block
+2550,[0 1 0 0 0],67,12,padding int tuple optional implicit zero padding added
+2552,[0 1 0 0 0],9,2,default
+2554,[0 1 0 0 0],29,5,stride element within
+2559,[1 0 0 1 0],41,5,replicated across spatial dimension
+2561,[0 1 0 0 0],15,3,called imcol
+2563,[0 0 1 0 0],67,9,class torchnnfold calculates combined value resulting
+2564,[0 0 1 0 0],62,10,large tensor summing value containing block
+2567,[0 0 1 0 0],39,8,block overlap
+2569,[0 0 1 0 0],59,9,general folding unfolding operation related
+2570,[0 0 1 0 0],8,1,follows
+2571,[0 0 1 0 0],32,4,consider class torchnnfold
+2575,[0 0 1 0 0],12,3,dilation
+2576,[0 0 1 0 0],11,3,padding
+2577,[0 0 1 0 0],10,3,stride
+2578,[0 0 1 0 0],26,5,fold nnfold output size
+2579,[0 0 1 0 0],13,3,fold params
+2581,[0 0 1 0 0],49,8,supported input tensor following
+2582,[0 0 1 0 0],14,2,equality hold
+2583,[0 0 1 0 0],31,5,fold unfold input divisor input
+2584,[0 0 1 0 0],56,11,divisor tensor depends shape
+2585,[0 0 1 0 0],22,5,dtype input
+2588,[0 0 1 0 0],55,9,divisor tensor contains zero element
+2589,[0 0 1 0 0],47,8,fold unfold operation inverse
+2590,[0 0 1 0 0],30,6,constant divisor
+2593,[1 0 0 1 0],67,14,output math n c time prod text kernel size l described
+2595,[1 0 0 0 0],33,6,unfold nnunfold kernel size
+2597,[1 0 0 0 0],19,3,output unfold input
+2599,[1 0 0 0 0],48,11,block x kernel total x input
+2601,[1 0 0 0 0],19,4,torchsize
+2603,[1 0 0 0 0],28,6,inp torchrandn
+2607,[1 0 0 0 0],49,9,torchnnfunctionalfold unf
+2613,[0 0 0 0 1],51,8,context class allow setting current context
+2614,[1 0 0 0 0],23,4,example usage brew
+2615,[1 0 0 0 0],23,3,useoptimizer optim
+2616,[1 0 0 0 0],9,1,brewfunc
+2617,[1 0 0 0 0],37,5,useoptimizer weight weight optim
+2619,[1 0 0 0 0],49,7,useoptimizer default optim bias bias optim
+2620,[1 0 0 0 0],19,3,weight weight optim
+2622,[1 0 0 0 0],9,1,brewfunc
+2624,[1 0 0 0 0],9,1,brewfunc
+2626,[0 0 0 0 1],52,8,base class auth implementation derive
+2628,[0 0 0 0 1],63,7,fully mutable class preparedrequest preparedrequest object
+2629,[0 0 0 0 1],59,11,containing exact byte sent server
+2630,[0 0 1 0 0],65,10,generated either class request request object manually
+2631,[1 0 0 0 0],5,1,usage
+2633,[1 0 0 0 0],48,7,req requestsrequest get http httpbinorg get
+2635,[1 0 0 0 0],1,1,r
+2636,[1 0 0 0 0],19,2,preparedrequest get
+2639,[1 0 0 0 0],12,2,response
