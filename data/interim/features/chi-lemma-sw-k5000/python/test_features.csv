@@ -1,0 +1,291 @@
+index,labels,comment_length,word_count,comment_clean
+0,[0 0 0 0 1],65,10,abstract cbv mixin give access mixins customizable
+3,[0 0 0 0 1],21,4,stub appconfig
+4,[0 1 0 0 0],43,9,provides label dict model
+5,[0 0 1 0 1],67,9,external api class encapsulates archive implementation
+6,[0 0 0 0 1],38,7,top level archive date based item
+7,[0 0 0 0 1],48,8,guarantee atomic execution given block
+9,[1 0 0 1 0],69,11,decorated function instance used context manager
+11,[1 0 0 0 0],73,11,savepoint depending whether transaction already progress
+13,[1 0 0 0 0],65,11,roll back transaction savepoint exception
+19,[1 0 0 0 0],64,10,allows reentrancy even atomicwrapper reused
+20,[0 0 0 0 1],51,8,test atomic decorator context manager
+21,[0 0 0 1 0],70,12,test make assertion internal attribute
+22,[0 0 0 1 0],65,11,robust way ask database current transaction state
+23,[0 0 0 1 0],70,12,since decorator syntax converted context manager see
+25,[0 0 0 1 0],64,12,syntax bulk test use context manager syntax
+26,[0 0 0 0 1],71,8,metaclass maintain backward inheritance compatibility autofield
+28,[0 0 0 1 0],72,10,create non integer automatically generated field using column default
+37,[0 0 0 0 1],25,4,signature match
+79,[0 1 0 0 0],16,3,default value
+80,[0 1 0 0 0],7,2,false
+82,[0 1 0 0 0],62,14,boolean true command print warning set
+90,[0 1 0 0 0],58,10,list application configuration provided
+118,[0 0 0 1 0],62,9,constructor yield chunk read operation object
+121,[0 0 0 1 0],59,10,obtain response server gave request
+123,[0 0 0 1 0],59,10,context template rendered
+125,[0 0 0 1 0],55,9,client object stateful retain cookie
+128,[0 0 1 0 0],48,10,like allow testing
+134,[0 0 0 0 1],72,12,restructuredtext directive render two tab code block
+136,[0 0 0 0 1],23,3,unix oriented example
+137,[0 0 0 0 1],38,6,stack container variable context
+139,[0 0 1 0 0],51,9,crypt module supported platform
+150,[0 0 0 0 1],38,5,test dumpdata management command
+153,[1 0 0 0 0],71,13,dictionary key field name value error
+160,[0 0 0 1 0],32,7,work real life
+180,[0 1 1 0 0],50,9,argument geometry return type integer
+233,[1 0 0 0 0],67,13,instead code load examine
+239,[0 0 0 0 1],66,11,load migration file disk status database
+245,[0 0 0 1 0],70,11,migration marked replacing another set migration
+247,[0 0 0 1 0],71,12,migration replace either unapplied missing
+253,[1 0 0 0 0],32,6,already operating
+255,[0 0 0 0 1],59,9,give autodetector response question might
+260,[0 0 0 0 1],61,11,take migration instance able produce content
+261,[0 0 0 0 1],30,6,migration file
+263,[0 0 0 0 1],73,13,signal subclass allows sender lazily specified string
+265,[0 0 0 0 1],37,6,rfc multipart form data parser
+346,[0 0 1 0 1],64,10,spatialrefsysmixin class used database dependent
+351,[0 1 0 0 1],58,10,defined static url setting serf file
+368,[0 0 0 1 0],66,13,route database model name start
+392,[0 0 0 0 1],23,4,create audio object
+394,[0 0 0 1 0],66,10,display function result audio control displayed
+399,[0 1 0 0 0],51,8,numpy array containing desired waveform mono
+403,[0 1 0 0 0],77,11,http msdnmicrosoftcom en u library window hardware dn v v aspx
+405,[0 1 0 0 0],30,4,string containing filename
+409,[0 1 0 0 0],64,13,filename url used format support browser
+411,[0 1 0 0 0],11,2,url unicode
+441,[1 0 0 0 0],46,11,data npsin nppi npsin nppi
+443,[1 0 0 0 0],37,8,also stereo channel
+445,[1 0 0 0 0],30,6,dataright npsin nppi
+447,[1 0 0 0 0],55,8,audio http wwwnchcomau acm kbitpcmwav url
+449,[1 0 0 0 0],35,7,audio path soundwav file
+451,[1 0 0 0 0],21,5,audio b raw wav data
+453,[1 0 0 0 0],12,3,byte
+457,[0 0 0 0 1],29,4,displaypublisher store
+466,[0 0 1 0 0],72,11,scalar type none number string allowed dict container
+475,[0 0 0 1 0],15,3,subclass
+484,[0 0 0 0 1],44,6,base class implementing magic function
+490,[1 0 0 0 0],71,11,class providing magic function need subclass class
+504,[0 0 0 1 0],45,9,dict subclass extra feature
+513,[0 0 0 0 1],66,11,class defines escape sequence standard ansi
+518,[1 0 0 0 0],64,12,class used mixin building color scheme
+579,[0 0 0 1 0],66,12,dictionary list item match rule defined
+582,[0 0 0 1 0],69,11,configuration data nested including dictionary
+587,[1 0 0 0 0],48,7,pot configdict rule potato many potato
+591,[1 0 0 0 0],31,6,liquid fluid like false
+593,[1 0 0 0 0],22,5,vodka liter int
+595,[1 0 0 0 0],26,9,tag tag c c int
+597,[1 0 0 0 0],28,7,color color red blue
+599,[1 0 0 0 0],29,8,color liquid tag
+603,[1 0 0 0 0],17,3,pot liquid vodka
+605,[1 0 0 0 0],11,2,pot carrot
+607,[1 0 0 0 0],22,2,potwalk liquidsvodka
+613,[1 0 0 0 0],35,8,pot color extend blue red red
+615,[1 0 0 0 0],22,7,red blue red red
+617,[1 0 0 0 0],12,4,pot tag c
+621,[1 0 0 0 0],44,8,valueerror invalid value config tag
+623,[1 0 0 0 0],43,6,invalidkeyerror invalid key config evil
+625,[1 0 0 0 0],51,7,invalidkeyerror invalid key config liquid evil
+637,[0 0 1 0 0],22,4,metadata index
+639,[0 0 1 0 0],38,5,configured automatic indexing
+660,[0 0 0 0 1],25,5,add new message index
+671,[0 0 0 0 1],28,4,utility function build
+672,[0 0 0 0 1],22,4,display single vcard
+673,[0 0 0 0 1],45,9,add line vcard ensuring vcard exists
+674,[0 0 0 0 1],53,10,disk backed memory collection vcards
+696,[0 0 0 0 1],62,8,abstract interface create holiday following certain rule
+698,[0 0 0 0 1],34,6,call method signature
+699,[0 0 0 0 1],35,4,callable accessors like seriesplot
+705,[0 0 0 0 1],44,7,test basic interface satisfied
+708,[0 0 0 1 0],65,12,panda extension array boolean data hood
+713,[0 0 0 1 0],32,5,see ref booleankleene
+714,[1 0 0 0 0],63,10,construct booleanarray generic array like input use
+724,[0 1 0 0 0],56,10,boolean dtype array indicating missing value true
+736,[1 0 0 1 0],45,6,create booleanarray func pandasarray
+741,[1 0 0 0 0],15,3,true false na
+750,[0 1 0 0 0],47,9,must unique must contain null
+752,[0 1 0 1 0],68,11,whether categorical treated ordered categorical
+754,[0 1 0 0 0],76,12,used operation combine categoricals eg astype resolve
+770,[1 0 0 0 0],8,2,
+772,[1 0 0 0 0],7,2,
+841,[0 1 0 0 0],39,7,io str path object pathlibpath py
+846,[0 1 0 0 0],63,15,io buffer path must set identify io
+850,[0 0 0 0 1],15,2,observance
+854,[0 0 1 1 0],60,10,data contains numpy integer array appropriate dtype
+971,[0 1 0 0 0],23,3,colorbar bool optional
+986,[0 1 0 0 0],6,1,table
+988,[0 1 0 0 0],60,8,see ref plotting error bar visualizationerrorbars
+992,[0 1 0 0 0],29,5,mark right bool default true
+994,[0 1 0 0 0],32,6,label right legend
+996,[0 1 0 0 0],39,7,true boolean value plotted
+1000,[0 1 0 0 0],26,4,instance matplotlib
+1002,[0 1 0 0 0],55,8,specify plottingbackend whole session set
+1004,[0 1 0 0 0],6,1,kwargs
+1008,[0 1 0 0 0],66,12,backend default matplotlib one return value
+1036,[0 0 0 0 1],32,5,extension array string data
+1038,[1 0 0 0 0],39,4,stringarray considered experimental
+1069,[0 0 1 0 0],41,6,handled otherwise particular method
+1071,[0 0 1 0 0],56,9,method inspiration r stringr package
+1074,[1 0 0 0 0],15,2,sstrreplace
+1083,[0 0 0 1 0],22,4,subclass keyerror
+1085,[0 0 0 0 1],34,8,support r bz w bz mode
+1086,[0 0 1 0 0],16,3,actually
+1090,[0 0 0 0 1],50,9,thin wrapper around existing file object
+1091,[0 0 0 0 1],49,10,provides part data individual file
+1112,[0 0 0 0 1],14,3,cli command
+1129,[0 0 1 1 0],27,4,structure remembers
+1130,[0 0 1 1 0],51,12,case last key set iter instance
+1176,[0 0 0 0 1],69,12,implement dict like class query error index following
+1177,[0 0 0 1 0],11,2,contains
+1183,[0 1 0 1 1],57,12,shared template loaded far
+1189,[0 1 0 0 0],18,3,block start string
+1196,[0 1 0 0 0],54,9,string marking beginning print statement
+1198,[0 1 0 0 0],19,3,variable end string
+1200,[0 1 0 0 0],11,2,default
+1202,[0 1 0 0 0],46,8,string marking beginning comment
+1211,[0 1 0 0 0],9,1,comment
+1223,[0 1 0 0 0],18,6,must one r
+1225,[0 1 0 0 0],27,7,default n
+1227,[0 1 0 0 0],13,1,application
+1229,[0 1 0 0 0],55,7,preserve trailing newline rendering template
+1233,[0 1 0 0 0],10,1,extension
+1237,[0 1 0 0 0],9,1,optimized
+1243,[0 1 0 0 0],31,5,expression output
+1245,[0 1 0 0 0],42,7,none implicitly empty string
+1247,[0 1 0 0 0],62,12,set true xml html autoescaping feature enabled
+1254,[0 1 0 0 0],6,1,loader
+1256,[0 1 0 0 0],22,5,size cache
+1260,[0 1 0 0 0],17,2,versionchanged
+1277,[0 0 0 0 1],70,13,like pexpectspawn allows supply open file
+1306,[0 0 0 0 1],73,12,sanitizes token stream xhtml mathml svg inline style attribute
+1329,[0 0 0 0 1],50,10,hash needed requirement absent
+1335,[0 0 1 0 0],49,8,hebrewprober using language model
+1375,[0 1 0 1 0],36,7,mark safe without escaping
+1377,[1 1 0 1 0],33,5,meth escape class method instead
+1410,[1 0 1 0 0],41,9,method type
+1412,[1 0 1 0 0],27,8,markup em em foo bar
+1414,[1 0 1 0 0],22,5,markup em hello em foo
+1417,[0 0 0 0 1],24,3,storing information
+1422,[1 0 0 0 0],28,2,class minimalclientinterface
+1426,[1 0 0 0 0],31,6,timeout timeout key
+1428,[1 0 0 0 0],58,12,default timeout timeout assumed
+1430,[1 0 0 0 0],18,3,item exist
+1432,[1 0 0 0 0],36,7,return value cache key
+1434,[1 0 0 0 0],50,11,exist cache return value must none
+1435,[1 0 0 0 0],71,13,argument constructor prefix key
+1436,[1 0 0 0 0],72,14,added actual cache key timeout bytecode
+1438,[1 0 0 0 0],34,7,recommend high timeout
+1459,[1 0 0 0 0],21,3,notany always return
+1463,[1 0 0 0 0],51,9,map caselesskeyword split
+1469,[1 0 0 0 0],56,9,boolean expr boolean term zeroormore boolean term
+1471,[1 0 0 0 0],19,3,actually float
+1495,[1 0 0 0 0],34,8,get setdefault pop popitem
+1497,[1 0 0 0 0],40,8,getitem setitem delitem contains
+1499,[1 0 0 0 0],73,12,optional parameter added dict method
+1501,[1 0 0 0 0],11,2,optional
+1503,[1 0 0 0 0],39,7,item value iteritems itervalues
+1562,[0 0 0 1 0],34,6,notably flush always called
+1563,[0 0 0 1 0],27,4,sysstdout sysstderr
+1564,[0 0 0 1 0],35,8,minimal impact
+1609,[0 1 0 0 1],63,13,path type similar class file type performs
+1612,[0 1 1 0 0],36,6,handle return filename
+1613,[0 1 1 0 0],32,5,secondly perform various
+1614,[0 0 1 0 0],56,10,basic check file directory
+1620,[0 1 0 0 0],55,11,param file okay control file possible value
+1623,[0 1 0 0 0],67,13,param resolve path true path fully resolved
+1630,[0 1 0 0 0],63,12,param path type optionally string type used
+1633,[0 1 0 0 0],52,9,unicode depending make sense given
+1634,[0 0 0 0 1],18,3,base pip exception
+1636,[0 0 0 0 1],35,5,necessary connection pool
+1637,[0 1 0 0 0],15,3,param num pool
+1638,[0 1 0 0 0],63,10,number connection pool cache discarding least
+1639,[0 1 0 0 0],19,3,recently used pool
+1640,[0 1 0 0 0],13,2,param header
+1641,[0 1 0 0 0],68,11,header include request unless header given
+1643,[0 1 0 0 0],24,4,param connection pool kw
+1644,[0 1 0 0 0],46,7,additional parameter used create fresh
+1648,[1 0 0 0 0],39,6,r managerrequest get http googlecom
+1650,[1 0 0 0 0],17,2,len managerpools
+1658,[1 0 0 0 0],33,3,app packageloader mypackageapp
+1686,[1 0 0 0 0],11,1,reqprepare
+1700,[1 0 0 0 0],68,12,used container error reason supplied maxretryerror
+1707,[1 0 0 0 0],32,4,http poolmanager retries retries
+1709,[1 0 0 0 0],55,10,per request override default pool
+1842,[0 0 0 0 1],56,9,tarfile class provides interface tar archive
+1846,[0 0 0 1 0],31,6,eof token reached
+1847,[0 0 0 0 1],31,3,base treebuilder implementation
+1853,[0 0 0 0 1],65,14,name attempted used exist inside
+1854,[0 0 0 0 1],12,1,environment
+1858,[1 0 0 0 0],12,2,except error
+1862,[1 0 1 0 0],68,14,say user created custom operator called namespace op
+1867,[0 0 1 0 0],61,11,startup operation yet bound python
+1872,[0 0 1 0 0],59,8,torchopsmy namespace invoke getattr magic method
+1885,[1 0 1 0 0],29,5,call new operation
+1898,[0 1 0 0 0],68,11,lr float optional coefficient scale delta applied
+1912,[0 1 0 0 0],68,11,amsgrad boolean optional whether use amsgrad variant
+1961,[0 0 0 1 0],74,12,also default training layer keep running estimate
+1963,[0 0 0 1 0],11,1,evaluation
+1970,[0 0 1 0 0],67,11,attr momentum argument different one used optimizer
+1972,[0 0 1 1 0],19,2,mathematically
+1973,[0 0 1 0 0],42,7,update rule running statistic
+1976,[0 0 1 1 0],63,14,math hat x estimated statistic math x
+1979,[0 0 1 0 0],82,14,n l slice common terminology call temporal batch normalization
+2001,[0 0 0 1 0],52,13,output math n c math n c l shape input
+2017,[0 0 0 1 0],34,11,n cdot log sigma x n right
+2018,[0 0 0 1 0],31,7,math n batch size
+2087,[0 0 0 0 1],18,3,check build type
+2088,[1 0 0 0 0],59,13,build type given attr cmake build type env
+2090,[1 0 0 0 0],68,13,none build type inferred cmakecachetxt
+2092,[1 0 0 0 0],41,7,osenviron cmake build type used
+2094,[0 1 0 0 0],67,13,cmake build type env str value osenviron cmake build type
+2105,[0 1 0 0 0],25,7,int us
+2109,[0 1 0 0 0],50,10,math text padding top math text padding bottom
+2113,[1 0 0 0 0],35,7,input torchrandn
+2116,[1 0 0 0 0],40,10,nnconstantpadd
+2120,[0 0 0 1 0],90,21,simplest case output value layer input size math n c h w
+2124,[0 0 0 1 0],53,18,sum k c weight c j k star input n k
+2130,[0 1 0 0 0],64,9,attr group control connection input output
+2132,[0 1 0 0 0],13,3,attr group
+2152,[0 1 0 0 0],63,10,channel int number channel produced convolution
+2154,[0 1 0 0 0],56,9,stride int tuple optional stride convolution
+2188,[0 0 0 1 0],64,9,adopt interface class torchnnquantizedconvd
+2192,[0 0 0 0 1],59,10,set learning rate parameter group according
+2193,[0 0 0 0 1],35,6,cyclical learning rate policy clr
+2195,[0 0 0 0 1],69,11,rate two boundary constant frequency detailed
+2293,[1 0 0 0 0],28,3,offset torchlongtensor
+2295,[1 0 0 0 0],28,5,tensor
+2301,[1 0 0 0 0],75,14,class used case parameter initialized
+2302,[1 0 0 0 0],76,13,initializer rather provided workspace param init net
+2312,[0 1 0 0 0],50,9,df float tensor degree freedom parameter
+2324,[0 1 0 0 0],32,6,lr float learning rate default
+2326,[0 1 0 0 0],10,2,default
+2331,[0 1 0 0 0],56,7,tolerance change float termination tolerance function
+2333,[0 1 0 0 0],50,9,history size int update history size default
+2335,[0 0 0 0 1],42,7,base class neural network module
+2339,[1 0 0 0 0],21,4,import torchnn nn
+2341,[1 0 0 0 0],21,3,class model nnmodule
+2406,[0 0 1 0 0],69,14,note attr probs must non negative finite non zero sum
+2407,[0 0 1 0 0],38,9,normalized sum
+2453,[0 0 0 0 1],63,8,necessary iterating selflayers dropout support
+2488,[0 0 0 0 1],58,8,test torchscript support python builtin function
+2502,[0 1 0 0 0],77,12,dim feedforward dimension feedforward network model default
+2504,[0 1 0 0 0],85,13,activation activation function intermediate layer relu gelu default relu
+2507,[1 0 0 0 0],26,5,src torchrand
+2510,[1 0 0 1 0],58,12,consider batched attr input tensor shape math n c
+2517,[1 0 0 1 0],67,15,attr input column ie last dimension attr output
+2524,[1 0 0 1 0],67,13,location containing math c channeled vector math l
+2530,[1 0 0 1 0],74,16,text dilation time text kernel size text stride right rfloor
+2531,[0 0 0 1 0],64,11,math text spatial size formed spatial dimension
+2533,[1 0 0 1 0],11,1,dimension
+2538,[0 1 0 0 0],55,9,attr stride control stride sliding block
+2540,[0 1 0 0 0],65,11,side attr padding number point dimension
+2542,[0 1 0 0 0],95,15,attr dilation control spacing kernel point also known trous algorithm
+2551,[0 1 0 0 0],20,4,side input
+2553,[0 1 0 0 0],61,10,dilation int tuple optional parameter control
+2557,[0 1 0 0 0],53,11,attr kernel size attr dilation attr padding
+2600,[1 0 0 0 0],11,1,outputsize
+2606,[1 0 0 0 0],77,16,unf inp unftranspose matmul wview wsize transpose
+2608,[1 0 0 0 0],39,8,equivalently avoiding copy
+2612,[0 0 0 0 1],37,6,simple class upload checkpoint
+2634,[1 0 0 0 0],13,2,r reqprepare
+2641,[0 0 0 0 1],37,7,server response http request
