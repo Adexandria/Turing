@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="300" viewBox="0 0 800 300" role="img" aria-label="Logo CCC Header">
+  <defs>
+    <linearGradient id="g1" x1="0" x2="1">
+      <stop offset="0" stop-color="#6EE7B7"/>
+      <stop offset="1" stop-color="#3B82F6"/>
+    </linearGradient>
+    <linearGradient id="g2" x1="0" x2="1">
+      <stop offset="0" stop-color="#FDE68A"/>
+      <stop offset="1" stop-color="#FB7185"/>
+    </linearGradient>
+    <filter id="shadow" x="-50%" y="-50%" width="200%" height="200%">
+      <feDropShadow dx="0" dy="6" stdDeviation="10" flood-color="#000" flood-opacity="0.18"/>
+    </filter>
+  </defs>
+
+  <rect width="100%" height="100%" fill="none"/>
+
+  <!-- left C -->
+  <text x="200" y="140" font-family="Inter, Roboto, Arial, sans-serif"
+        font-weight="800" font-size="150" fill="url(#g1)" opacity="0.95"
+        transform="rotate(-6 200 140)" filter="url(#shadow)">
+    C
+  </text>
+
+  <!-- middle C -->
+  <text x="330" y="190" font-family="Inter, Roboto, Arial, sans-serif"
+        font-weight="900" font-size="180" fill="url(#g2)" opacity="0.92"
+        transform="rotate(5 330 190)" filter="url(#shadow)">
+    C
+  </text>
+
+  <!-- right C -->
+  <text x="470" y="140" font-family="Inter, Roboto, Arial, sans-serif"
+        font-weight="800" font-size="150" fill="#8B5CF6" opacity="0.95"
+        transform="rotate(-6 470 140)" filter="url(#shadow)">
+    C
+  </text>
+</svg>

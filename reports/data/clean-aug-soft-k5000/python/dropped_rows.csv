@@ -1,0 +1,174 @@
+index,comment_sentence,labels,drop_reason
+1,functionality.,[0 0 0 0 1],Token Count (1)
+40,derive.,[0 0 0 0 1],Token Count (1)
+63,4,[1 0 0 0 0],Too Tiny (<6 alpha)
+111,label,[1 0 0 0 0],Too Tiny (<6 alpha)
+112,% endfor %,[1 0 0 0 0],Token Count (1)
+158,length.,[0 0 0 0 1],Token Count (1)
+214,escaped.,[0 0 0 1 0],Token Count (1)
+272,simon,[1 0 0 0 0],Too Tiny (<6 alpha)
+356,tried,[0 1 0 0 0],Too Tiny (<6 alpha)
+357,this,[0 1 0 0 0],Too Tiny (<6 alpha)
+361,chain,[0 1 0 0 0],Too Tiny (<6 alpha)
+374,password.,[0 1 0 0 1],Token Count (1)
+410,dependent.,[0 1 0 0 0],Token Count (1)
+491,must,[1 0 0 0 0],Too Tiny (<6 alpha)
+496,initialization.,[1 0 0 0 0],Token Count (1)
+526,do,[1 0 0 0 0],Too Tiny (<6 alpha)
+542,accesserror,[1 0 0 0 0],Token Count (1)
+546,"2, 123456",[1 0 0 0 0],Too Tiny (<6 alpha)
+557,n,[1 0 0 0 0],Too Tiny (<6 alpha)
+558,from,[1 0 0 0 0],Too Tiny (<6 alpha)
+576,3,[0 1 0 1 0],Too Tiny (<6 alpha)
+580,this,[0 0 0 1 0],Too Tiny (<6 alpha)
+588,", int , 0 ,",[1 0 0 0 0],Too Tiny (<6 alpha)
+590,", int, 99 ,",[1 0 0 0 0],Too Tiny (<6 alpha)
+596,"x x , str, , ,",[1 0 0 0 0],Too Tiny (<6 alpha)
+610,", vodka",[1 0 0 0 0],Too Tiny (<6 alpha)
+612,0,[1 0 0 0 0],Too Tiny (<6 alpha)
+618,123,[1 0 0 0 0],Too Tiny (<6 alpha)
+666,TRUE,[1 0 0 0 0],Too Tiny (<6 alpha)
+670,TRUE,[1 0 0 0 0],Too Tiny (<6 alpha)
+683,u dude,[1 0 0 0 0],Too Tiny (<6 alpha)
+685,TRUE,[1 0 0 0 0],Too Tiny (<6 alpha)
+688,u guy,[1 0 0 0 0],Too Tiny (<6 alpha)
+692,TRUE,[1 0 0 0 0],Too Tiny (<6 alpha)
+706,interface,[0 0 0 0 1],Token Count (1)
+757,categories,[0 0 0 1 0],Token Count (1)
+758,ordered,[0 0 0 1 0],Token Count (1)
+761,notes,[0 0 1 0 0],Too Tiny (<6 alpha)
+771,1 b,[1 0 0 0 0],Too Tiny (<6 alpha)
+773,3 nan,[1 0 0 0 0],Too Tiny (<6 alpha)
+778,"also,",[0 0 0 1 0],Too Tiny (<6 alpha)
+794,categorical.,[0 1 0 0 0],Token Count (1)
+806,codes,[0 0 0 1 0],Too Tiny (<6 alpha)
+808,ordered,[0 0 0 1 0],Token Count (1)
+817,notes,[0 0 1 0 0],Too Tiny (<6 alpha)
+833,c,[1 0 0 0 0],Too Tiny (<6 alpha)
+890,"1, nan, 3",[1 0 0 0 0],Too Tiny (<6 alpha)
+898,subtype,[0 0 0 1 0],Token Count (1)
+989,detail.,[0 1 0 0 0],Token Count (1)
+1010,notes,[0 0 1 0 0],Too Tiny (<6 alpha)
+1019,center,[0 0 1 1 0],Token Count (1)
+1023,n int,[0 1 0 0 0],Too Tiny (<6 alpha)
+1037,warning,[0 1 0 0 0],Token Count (1)
+1059,stringarray,[1 0 0 0 0],Token Count (1)
+1061,values.,[1 0 0 0 0],Token Count (1)
+1125,also,[0 0 0 0 1],Too Tiny (<6 alpha)
+1207,statements.,[0 1 0 0 0],Token Count (1)
+1224,n or r n .,[0 1 0 0 0],Too Tiny (<6 alpha)
+1246,autoescape,[0 1 0 0 0],Token Count (1)
+1248,default.,[0 1 0 0 0],Token Count (1)
+1283,usage,[1 0 0 0 0],Too Tiny (<6 alpha)
+1289,usage,[1 0 0 0 0],Too Tiny (<6 alpha)
+1312,followedby,[1 0 1 0 1],Token Count (1)
+1316,name.,[1 0 1 1 0],Too Tiny (<6 alpha)
+1334,built.,[1 0 0 0 0],Too Tiny (<6 alpha)
+1368,scale.,[0 0 1 0 0],Too Tiny (<6 alpha)
+1373,safe.,[0 0 0 0 1],Too Tiny (<6 alpha)
+1480,key.,[0 0 0 1 1],Too Tiny (<6 alpha)
+1484,items.,[0 0 0 1 0],Too Tiny (<6 alpha)
+1485,a,[0 0 0 1 0],Too Tiny (<6 alpha)
+1490,key.,[0 0 0 1 1],Too Tiny (<6 alpha)
+1515,iterlistitems,[1 0 0 0 0],Token Count (1)
+1524,value.,[0 1 0 0 0],Too Tiny (<6 alpha)
+1537,input.,[0 1 0 0 0],Too Tiny (<6 alpha)
+1554,context.,[0 1 0 0 0],Token Count (1)
+1606,day 31,[1 0 0 0 0],Too Tiny (<6 alpha)
+1607,month 12,[1 0 0 0 0],Too Tiny (<6 alpha)
+1608,year 1999,[1 0 0 0 0],Too Tiny (<6 alpha)
+1626,it,[0 1 0 0 0],Too Tiny (<6 alpha)
+1642,explicitly.,[0 1 0 0 0],Token Count (1)
+1732,loops.,[0 1 0 0 0],Too Tiny (<6 alpha)
+1734,308,[0 1 0 0 0],Too Tiny (<6 alpha)
+1756,delay .,[0 1 0 0 0],Too Tiny (<6 alpha)
+1759,seconds.,[0 1 0 0 0],Token Count (1)
+1784,request.,[0 1 0 0 0],Token Count (1)
+1788,validator.,[0 0 0 0 1],Token Count (1)
+1828,prints,[1 0 0 0 0],Token Count (1)
+1863,to,[1 0 1 0 0],Too Tiny (<6 alpha)
+1883,3,[1 0 1 0 0],Too Tiny (<6 alpha)
+1891,arguments,[0 1 0 0 0],Token Count (1)
+1903,arguments,[0 1 0 0 0],Token Count (1)
+1922,arguments,[0 1 0 0 0],Token Count (1)
+1987,computation.,[0 1 0 0 0],Token Count (1)
+2009,class.,[0 0 0 0 1],Too Tiny (<6 alpha)
+2093,arguments,[0 1 0 0 0],Token Count (1)
+2119,planes.,[0 0 0 0 1],Token Count (1)
+2137,concatenated.,[0 0 0 0 1],Token Count (1)
+2225,the,[0 0 0 1 0],Too Tiny (<6 alpha)
+2234,operations.,[0 0 1 0 0],Token Count (1)
+2277,"therefore,",[0 0 0 1 0],Token Count (1)
+2296,"11306, 25798, 10044",[1 0 0 0 0],Too Tiny (<6 alpha)
+2303,executed.,[1 0 0 0 0],Token Count (1)
+2323,arguments,[0 1 0 0 0],Token Count (1)
+2344,init,[1 0 0 0 0],Too Tiny (<6 alpha)
+2369,ignored,[0 1 0 0 0],Token Count (1)
+2428,modules.,[0 0 0 0 1],Token Count (1)
+2433,similarly,[0 0 0 1 0],Token Count (1)
+2541,reshaping.,[0 1 0 0 0],Token Count (1)
+2570,follows.,[0 0 1 0 0],Token Count (1)
+2575,", dilation .",[0 0 1 0 0],Token Count (1)
+2576,", padding .",[0 0 1 0 0],Token Count (1)
+2577,", stride .",[0 0 1 0 0],Token Count (1)
+2631,usage,[1 0 0 0 0],Too Tiny (<6 alpha)
+2635,r,[1 0 0 0 0],Too Tiny (<6 alpha)
+103,this is useful for,[0 0 1 0 0],Semantic Conflict
+227,there are,[0 0 1 0 0],Semantic Conflict
+269,same key.,[0 0 0 0 1],Semantic Conflict
+363,this is used to,[0 1 0 0 0],Semantic Conflict
+568,and what their defaults are and what they are for.,[0 0 0 1 0],Semantic Conflict
+676,this will,[1 0 0 0 0],Semantic Conflict
+1111,all parameters are passed onwards to the parameter constructor.,[0 0 0 1 0],Semantic Conflict
+1191,defaults to % .,[0 1 0 0 0],Semantic Conflict
+1197,defaults to .,[0 1 0 0 0],Semantic Conflict
+1508,the same key.,[1 0 0 1 1],Semantic Conflict
+1518,all other parameters are passed onwards to the parameter constructor.,[1 0 0 0 0],Semantic Conflict
+1539,the default is,[0 1 0 0 0],Semantic Conflict
+1581,integer word nums,[1 0 1 0 0],Semantic Conflict
+1789,a requests session.,[0 0 0 0 1],Semantic Conflict
+1793,s requests^session,[1 0 0 0 0],Semantic Conflict
+1797,with requests^session as s,[1 0 0 0 0],Semantic Conflict
+1816,integer word nums,[1 0 0 0 0],Semantic Conflict
+1902,it has been proposed in adam a method for stochastic optimization .,[0 0 1 0 0],Semantic Conflict
+1921,it has been proposed in adam a method for stochastic optimization .,[0 0 0 0 1],Semantic Conflict
+2020,"default mean , then",[0 1 0 1 0],Semantic Conflict
+2051,"by default,",[0 1 0 0 0],Semantic Conflict
+2073,default mean,[0 1 0 0 0],Semantic Conflict
+2080,"if attr reduction is none , then math n, , same",[0 1 0 1 0],Semantic Conflict
+2258,default mean,[0 1 0 0 0],Semantic Conflict
+2388,"if attr reduction is none , then math n .",[0 0 0 1 0],Semantic Conflict
+624,traceback most recent call last,[1 0 0 0 0],Exact Duplicate
+827,"categoricalindex a , b , c , a , b , c , categories a , b , c , ordered false, dtype category # noqa",[1 0 0 1 0],Exact Duplicate
+955,versionchanged 025.0,[0 1 0 0 0],Exact Duplicate
+1062,traceback most recent call last,[1 0 0 0 0],Exact Duplicate
+1290,metadata filemetadata path to pkg info,[1 0 0 0 0],Exact Duplicate
+1293,the provided location.,[0 0 0 1 0],Exact Duplicate
+1676,if a dictionary or,[0 1 0 0 0],Exact Duplicate
+1728,set to 0 to fail on the first retry of this type.,[0 1 0 0 0],Exact Duplicate
+1736,set to false to disable and imply raise on redirect false .,[0 1 0 0 0],Exact Duplicate
+1798,s^get https httpbin^org get,[1 0 0 0 0],Exact Duplicate
+1799,response 200,[1 0 0 0 0],Exact Duplicate
+1950,output m input,[1 0 0 0 0],Exact Duplicate
+1953,output m input,[1 0 0 0 0],Exact Duplicate
+1998,default true,[0 1 0 0 0],Exact Duplicate
+2007,output m input,[1 0 0 0 0],Exact Duplicate
+2065,default true,[0 1 0 0 0],Exact Duplicate
+2114,output m input,[1 0 0 0 0],Exact Duplicate
+2117,output m input,[1 0 0 0 0],Exact Duplicate
+2165,default true,[0 1 0 0 0],Exact Duplicate
+2179,math k frac 1 c text in prod i 0 ^ 2 text kernel size i,[0 0 0 1 0],Exact Duplicate
+2186,output m input,[1 0 0 0 0],Exact Duplicate
+2364,the losses are averaged over each loss element in the batch.,[0 1 0 0 0],Exact Duplicate
+2371,default true,[0 1 0 0 0],Exact Duplicate
+2372,"reduce bool, optional deprecated see attr reduction .",[0 1 0 0 0],Exact Duplicate
+2373,losses are averaged or summed over observations for each minibatch depending,[0 1 0 0 0],Exact Duplicate
+2375,"when attr reduce is false , returns a loss per",[0 1 0 0 0],Exact Duplicate
+2379,none mean sum .,[0 1 0 0 0],Exact Duplicate
+2448,"optimizer torch^optim.sgd model^parameters , lr 01, momentum 09",[1 0 0 0 0],Exact Duplicate
+2552,default 0,[0 1 0 0 0],Exact Duplicate
+2622,brew^func,[1 0 0 0 0],Exact Duplicate
+2624,brew^func,[1 0 0 0 0],Exact Duplicate
+2633,"req requests^request get , https httpbin^org get",[1 0 0 0 0],Exact Duplicate
+2636,preparedrequest get,[1 0 0 0 0],Exact Duplicate
+2639,response 200,[1 0 0 0 0],Exact Duplicate

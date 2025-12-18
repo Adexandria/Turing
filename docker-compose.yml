@@ -1,0 +1,14 @@
+services:
+  api:
+    build: .
+    container_name: turing_app
+
+    ports:
+      - "7860:7860"
+
+    environment:
+      - MLFLOW_TRACKING_USERNAME=${MLFLOW_USER}
+      - MLFLOW_TRACKING_PASSWORD=${MLFLOW_PWD}
+      - DAGSHUB_USER_TOKEN=${DAGSHUB_TOKEN}
+
+    command: uvicorn turing.api.app:app --host 0.0.0.0 --port 7860 --reload

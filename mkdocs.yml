@@ -1,0 +1,71 @@
+site_name: Turing - Code Comment Classification with LLMs
+site_author: Turing Team
+site_description: Documentation for Turing - Code Comment Classification with LLMs Project
+site_url: ""
+docs_dir: docs
+nav:
+  - Home: index.md
+  - Machine Learning:
+      - ML Canvas: mlcanvas.md
+      - AI Risk Analysis: ai-risk-analysis.md
+      - Modelling:
+        - Code Comment Models: model.md
+        - Dataset Card: dataset_card.md
+        - Model Card: model_card.md
+        - Adding a New Model: adding-new-model.md 
+        - Model Selection: model_selection.md
+  - Setup:
+      - Install: install.md
+      - Get Started: get-started.md
+  - API:
+      User Guide: model-api.md
+  - GUI:
+      GUI description: gui.md
+
+theme:
+  name: material
+  features:
+    - navigation.sections
+    - navigation.top
+    - toc.follow
+    - search.suggest
+    - search.highlight
+    - search.share
+    - navigation.footer
+    - content.code.copy
+    - content.code.select
+    - content.code.annotate
+    - content.action.edit
+    
+  palette: 
+    - scheme: default
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to dark mode
+    - scheme: slate
+      toggle:
+        icon: material/weather-night
+        name: Switch to light mode
+  icon:
+    edit: material/pencil 
+    view: material/eye
+  language: en
+
+plugins:
+  - search
+
+markdown_extensions:
+  - admonition
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+
+repo_url: https://github.com/se4ai2526-uniba/Turing/
+repo_name: GitHub
+edit_uri: edit/main/docs/

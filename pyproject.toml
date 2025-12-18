@@ -1,0 +1,92 @@
+[build-system]
+requires = ["flit_core >=3.2,<4"]
+build-backend = "flit_core.buildapi"
+
+[project]
+name = "turing"
+version = "0.0.1"
+description = "developing advanced machine learning approaches for multi-label code comment classification using the provided dataset of 9,361 code comment sentences"
+authors = [
+  { name = "Turing" },
+]
+
+readme = "README.md"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    
+]
+dependencies = [
+    "ipython",
+    "jupyterlab",
+    "loguru",
+    "matplotlib",
+    "notebook",
+    "numpy<2.0",
+    "pandas",
+    "tabulate",
+    "pip",
+    "python-dotenv",
+    "ruff",
+    "scikit-learn",
+    "tqdm",
+    "typer",
+    "datasets",
+    "setfit==1.1.2",
+    "sentence-transformers",
+    "transformers",
+    "torch",
+    "evaluate",
+    "joblib",  
+    "seaborn",
+    "mlflow",
+    "dagshub",
+    "pytest",    
+    "pytest-cov",
+    "anywidget",  
+    "nltk",       
+    "deepchecks",
+    "deepchecks[nlp]",
+    "fastapi",
+    "uvicorn[standard]",
+    "pydantic",
+    "httpx",
+    "pytest-mock",
+    "optimum",
+    "onnxruntime",
+    "fasttext-wheel",      
+    "textstat",            
+    "langdetect",         
+    "ipywidgets",
+    "gradio",
+]
+requires-python = "~=3.12.0"
+
+
+[tool.ruff]
+line-length = 99
+src = ["turing"]
+include = ["pyproject.toml", "turing/**/*.py"]
+
+[tool.ruff.lint]
+extend-select = ["I"]  # Add import sorting
+
+[tool.ruff.lint.isort]
+known-first-party = ["turing"]
+force-sort-within-sections = true
+
+[tool.pytest.ini_options]
+testpaths = [
+    "turing/tests",
+]
+pythonpath = "."
+
+# Additional options:
+# -v : verbose
+# --cov=turing : calculate code coverage for the "turing" folder only
+# --cov-report=term-missing : show a report with missing lines
+addopts = "-v --cov=turing --cov-report=term-missing"
+markers = [
+    "data_loader: tests for the DatasetManager class",
+    "config: tests for the config.py module",
+    "model: tests for model classes"
+]

@@ -1,0 +1,45 @@
+schema: '2.0'
+stages:
+  convert_dataset_to_csv:
+    cmd: python turing/dataset.py parquet-to-csv
+    deps:
+    - path: data/raw
+      hash: md5
+      md5: 4b3af7894f3b4f3750aa6cef9e6aaca7.dir
+      size: 855563
+      nfiles: 12
+    - path: turing/config.py
+      hash: md5
+      md5: b7e44d1fdbb156193b5468a3fe4860de
+      size: 1607
+    - path: turing/dataset.py
+      hash: md5
+      md5: a4c39583ee2102b9c67c3013ebb04a96
+      size: 2987
+    outs:
+    - path: data/interim/base
+      hash: md5
+      md5: 11158a4155e1bb899d184103a187f841.dir
+      size: 1942941
+      nfiles: 6
+  train_model:
+    cmd: python turing/modeling/train.py
+    deps:
+    - path: turing/config.py
+      hash: md5
+      md5: b7e44d1fdbb156193b5468a3fe4860de
+      size: 1607
+    - path: turing/dataset.py
+      hash: md5
+      md5: 996d3fdc116acda0a3d0616cf0366f36
+      size: 3088
+    - path: turing/modeling/train.py
+      hash: md5
+      md5: 484e9c0db8cffecf449cfaf6d367f365
+      size: 4352
+    outs:
+    - path: models/Sklearn_TfIdf_Ngram_RandomForest
+      hash: md5
+      md5: 5cf49ceb8117f1796cfb37f44f77fc81.dir
+      size: 90026543
+      nfiles: 3

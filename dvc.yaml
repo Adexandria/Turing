@@ -1,0 +1,27 @@
+stages:
+  convert_dataset_to_csv:
+    cmd: python turing/CLI_runner/run_dataset.py parquet-to-csv
+    deps:
+    - turing/config.py
+    - turing/dataset.py
+    - turing/CLI_runner/run_dataset.py
+    - data/raw
+    outs:
+    - data/interim/base
+  extract_features:
+    cmd: python -m turing.features --use-combo-feature
+    deps:
+      - data/interim/base
+      - turing/features.py
+      - turing/config.py
+    outs:
+      - data/interim/features
+  train_model:
+    cmd: python turing/modeling/train.py
+    deps:
+    - data/interim/base
+    - turing/config.py
+    - turing/dataset.py
+    - turing/modeling/train.py
+    outs:
+    - models/Sklearn_TfIdf_Ngram_RandomForest
