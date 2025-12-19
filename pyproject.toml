@@ -58,6 +58,10 @@ dependencies = [
     "langdetect",         
     "ipywidgets",
     "gradio",
+    "joblib",
+    "xgboost",
+    "peft".
+    "sentence-transformers"
 ]
 requires-python = "~=3.12.0"
 
