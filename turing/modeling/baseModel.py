@@ -1,9 +1,4 @@
 from abc import ABC, abstractmethod
-import os
-import shutil
-
-from loguru import logger
-import mlflow
 from numpy import ndarray
 
 
@@ -74,30 +69,18 @@ class BaseModel(ABC):
         """
         pass
 
+    @abstractmethod
     def save(self, path, model_name):
         """
-        Save model and log to MLflow.
+        Save model.
 
         Args:
             path (str): Path to save the model.
             model_name (str): Name to use when saving the model (without extension).
         """
+        pass
 
-        if self.model is None:
-            raise ValueError("Model is not trained. Cannot save uninitialized model.")
-
-        complete_path = os.path.join(path, f"{model_name}_{self.language}")
-        if os.path.exists(complete_path) and os.path.isdir(complete_path):
-            shutil.rmtree(complete_path)
-        mlflow.sklearn.save_model(self.model, complete_path)
-
-        try:
-            mlflow.log_artifact(complete_path)
-        except Exception as e:
-            logger.error(f"Failed to log model to MLflow: {e}")
-
-        logger.info(f"Model saved to: {complete_path}")
-
+    @abstractmethod
     def load(self, model_path):
         """
         Load model from specified local path or mlflow model URI.
@@ -105,7 +88,5 @@ class BaseModel(ABC):
         Args:
             model_path (str): Path to load the model from (local or mlflow URI).
         """
-
-        self.model = mlflow.sklearn.load_model(model_path)
-        logger.info(f"Model loaded from: {model_path}")
+        pass
         
