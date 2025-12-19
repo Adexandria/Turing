@@ -3,7 +3,6 @@ import shutil
 import warnings
 
 from loguru import logger
-import mlflow
 import numpy as np
 from numpy import ndarray
 from sklearn.metrics import (
@@ -121,7 +120,7 @@ class CodeBERTaDataset(Dataset):
 
 
 
-class CodeBERTa(BaseModel):
+class CodeBERTaClassifier(BaseModel):
     """
     HuggingFace implementation of BaseModel for Code Comment Classification.
     Uses CodeBERTa-small-v1 for efficient inference.
@@ -147,7 +146,8 @@ class CodeBERTa(BaseModel):
             "weight_decay": 0.02,
             "train_size": 0.8,
             "early_stopping_patience": 3,
-            "early_stopping_threshold": 0.005
+            "early_stopping_threshold": 0.005,
+            "optimizer": "adamw_torch",
         }
         
         self.device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
@@ -167,7 +167,8 @@ class CodeBERTa(BaseModel):
         self.model = AutoModelForSequenceClassification.from_pretrained(
             self.params["model_name_hf"], 
             num_labels=self.params["num_labels"],
-            problem_type="multi_label_classification"
+            problem_type="multi_label_classification",
+            use_safetensors=True,
         ).to(self.device)
         logger.info("CodeBERTa model initialized.")
 
@@ -205,7 +206,7 @@ class CodeBERTa(BaseModel):
 
     def train(self, X_train, y_train) -> dict[str,any]:
         """
-        Train the model using HF Trainer and log to MLflow.
+        Train the model using HF Trainer.
 
         Args:
             X_train (list): Training input texts.
@@ -218,8 +219,8 @@ class CodeBERTa(BaseModel):
         if self.model is None:
             raise ValueError("Model is not initialized. Call setup_model() before training.")
 
-        # log parameters to MLflow without model_name_hf
-        params_to_log = {k: v for k, v in self.params.items() if k != "model_name_hf" and k != "num_labels"}
+        # parameters of the model to log
+        params = {k: v for k, v in self.params.items() if k != "model_name_hf" and k != "num_labels"}
 
         logger.info(f"Starting training for: {self.language.upper()}")
         
@@ -230,8 +231,10 @@ class CodeBERTa(BaseModel):
         val_size = len(full_dataset) - train_size
         train_dataset, val_dataset = torch.utils.data.random_split(full_dataset, [train_size, val_size])
 
+        # Temporary directory for checkpoints
         temp_ckpt_dir = os.path.join(MODELS_DIR, "temp_checkpoints")
         
+        # Setup Trainer and training
         use_fp16 = torch.cuda.is_available()
         if not use_fp16:
             logger.info("Mixed Precision (fp16) disabled because CUDA is not available.")
@@ -252,7 +255,7 @@ class CodeBERTa(BaseModel):
             logging_dir='./logs',
             logging_steps=50,
             fp16=use_fp16,
-            optim="adamw_torch",
+            optim=self.params["optimizer"],
             report_to="none",
             no_cuda=not torch.cuda.is_available() 
         )
@@ -263,20 +266,24 @@ class CodeBERTa(BaseModel):
             train_dataset=train_dataset,
             eval_dataset=val_dataset,
             compute_metrics=compute_metrics,
-            callbacks=[EarlyStoppingCallback(early_stopping_patience=self.params["early_stopping_patience"], early_stopping_threshold=self.params["early_stopping_threshold"])]
+            callbacks=[EarlyStoppingCallback(
+                early_stopping_patience=self.params["early_stopping_patience"],
+                early_stopping_threshold=self.params["early_stopping_threshold"]
+            )]
         )
         trainer.train()
         logger.info(f"Training for {self.language.upper()} completed.")
         
+        # Remove temporary checkpoint directory
         if os.path.exists(temp_ckpt_dir):
             shutil.rmtree(temp_ckpt_dir)
 
-        return params_to_log
+        return params
     
     
     def evaluate(self, X_test, y_test) -> dict[str,any]:
         """
-        Evaluate model on test data, return metrics and log to MLflow.
+        Evaluate model on test data and return metrics.
         Handles automatic conversion of y_test to match multi-label prediction shape.
 
         Args:
@@ -330,12 +337,10 @@ class CodeBERTa(BaseModel):
             "recall": recall_score(y_test_np, y_pred, average="macro", zero_division=0),
             "f1_score": f1_score(y_test_np, y_pred, average="macro"),
         }
-
-        mlflow.log_metrics(metrics)
-
         logger.info(
             f"Evaluation completed — Accuracy: {metrics['accuracy']:.3f}, F1: {metrics['f1_score']:.3f}"
         )
+
         return metrics
 
 
@@ -390,7 +395,7 @@ class CodeBERTa(BaseModel):
 
     def save(self, path, model_name):
         """
-        Save model locally and log to MLflow as artifact.
+        Save model locally.
 
         Args:
             path (str): Directory path to save the model.
@@ -413,45 +418,26 @@ class CodeBERTa(BaseModel):
         self.tokenizer.save_pretrained(complete_path)
         logger.info("Model saved locally.")
 
-        try:
-            # Log to MLflow
-            logger.info("Logging artifacts to MLflow...")
-            mlflow.log_artifacts(local_dir=complete_path, artifact_path=f"{model_name}_{self.language}")
-        except Exception as e:
-            logger.error(f"Failed to log model artifacts to MLflow: {e}")
-
 
     def load(self, model_path):
         """
-        Load model from a local path OR an MLflow URI.
+        Load model from a local path.
 
         Args:
-            model_path (str): Local path or MLflow URI to load the model from.
+            model_path (str): Local path to load the model from.
         """
 
         logger.info(f"Loading model from: {model_path}")
-        local_model_path = model_path
-
-        # Downloading model from MLflow and saving to local path
-        if model_path.startswith("models:/") or model_path.startswith("runs:/"):
-            try:
-                logger.info("Detected MLflow model URI. Attempting to load from MLflow...")
-                local_model_path = os.path.join(MODELS_DIR, "mlflow_temp_models")
-                local_model_path = mlflow.artifacts.download_artifacts(artifact_uri=model_path, dst_path=local_model_path)
-                logger.info(f"Model downloaded from MLflow to: {local_model_path}")
-            except Exception as e:
-                logger.error(f"Failed to load from MLflow: {e}")
-                raise e
 
         # Loading from local path
         try:
-            if not os.path.exists(local_model_path):
-                raise FileNotFoundError(f"Model path not found: {local_model_path}")
+            if not os.path.exists(model_path):
+                raise FileNotFoundError(f"Model path not found: {model_path}")
 
             # Load tokenizer and model from local path
-            self.tokenizer = AutoTokenizer.from_pretrained(local_model_path)
+            self.tokenizer = AutoTokenizer.from_pretrained(model_path)
             self.model = AutoModelForSequenceClassification.from_pretrained(
-                local_model_path
+                model_path
             ).to(self.device)
             logger.info("Model loaded from local path successfully.")
 

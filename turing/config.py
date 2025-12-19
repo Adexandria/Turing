@@ -52,10 +52,10 @@ DEFAULT_BATCH_SIZE = 32
 # Model configuration mapping
 MODEL_CONFIG = {
     "codeberta": {
-        "model_name": "fine-tuned-CodeBERTa",
+        "model_name": "CodeBERTa",
         "exp_name": "fine-tuned-CodeBERTa",
         "model_class_module": "turing.modeling.models.codeBerta",
-        "model_class_name": "CodeBERTa",
+        "model_class_name": "CodeBERTaClassifier",
     },
     "graphcodebert": {
         "model_name": "GraphCodeBERT",
