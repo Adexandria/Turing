@@ -75,6 +75,12 @@ MODEL_CONFIG = {
         "model_class_module": "turing.modeling.models.randomForestTfIdf",
         "model_class_name": "RandomForestTfIdf",
     },
+    "minilm": {
+        "model_name": "MiniLM",
+        "exp_name": "fine-tuned-MiniLm",
+        "model_class_module": "turing.modeling.models.miniLM",
+        "model_class_name": "MiniLMModel",
+    },
 }
 DEFAULT_NUM_ITERATIONS = 20
 
