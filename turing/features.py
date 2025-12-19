@@ -19,7 +19,6 @@ from turing.config import (
     LABEL_COLUMN,
     LANGS,
 )
-from turing.data_validation import run_custom_deepchecks, run_targeted_nlp_checks
 from turing.dataset import DatasetManager
 
 # --- NLTK Resource Check ---
@@ -561,28 +560,11 @@ def main(
 
         lang_report_dir = report_output_dir / lang
 
-        # 1. RAW AUDIT
-        print("   >>> Phase 1: Auditing RAW Data")
-        df_train_raw = fe.extract_features_for_check(df_train.copy())
-        df_test_raw = fe.extract_features_for_check(df_test.copy())
-        run_custom_deepchecks(
-            df_train_raw, df_test_raw, lang_report_dir, "raw", lang
-        )
-        if run_nlp_check:
-            run_targeted_nlp_checks(
-                df_train_raw, df_test_raw, lang_report_dir, "raw"
-            )
-
-        # 2. CLEANING & AUGMENTATION
+        # CLEANING & AUGMENTATION
         print("\n   >>> Phase 2: Smart Cleaning & Augmentation")
         df_train, df_dropped = clean_training_data_smart(
             df_train, min_comment_length, max_comment_length, language=lang
         )
-
-        if not df_dropped.empty:
-            dropped_path = lang_report_dir / "dropped_rows.csv"
-            df_dropped.to_csv(dropped_path, index=False)
-            print(f"   [Report] Dropped rows details saved to: {dropped_path}")
 
         if augment:
             print("   [Augment] Applying Soft Balancing...")
@@ -590,26 +572,7 @@ def main(
                 df_train, min_samples=balance_threshold
             )
 
-            if not df_aug_report.empty:
-                aug_path = lang_report_dir / "augmentation_report.csv"
-                df_aug_report.to_csv(aug_path, index=False)
-                print(
-                    f"   [Report] Augmentation details saved to: {aug_path}"
-                )
-
-        # 3. PROCESSED AUDIT
-        print("\n   >>> Phase 3: Auditing PROCESSED Data")
-        df_train = fe.extract_features_for_check(df_train)
-        df_test = fe.extract_features_for_check(df_test)
-        run_custom_deepchecks(
-            df_train, df_test, lang_report_dir, "processed", lang
-        )
-        if run_nlp_check:
-            run_targeted_nlp_checks(
-                df_train, df_test, lang_report_dir, "processed"
-            )
-
-        # 4. FINAL PROCESSING & SAVING
+        # FINAL PROCESSING & SAVING
         print("\n   >>> Phase 4: Final Processing & Save")
         df_train["comment_clean"] = df_train["comment_sentence"].apply(
             fe.processor.clean_text
